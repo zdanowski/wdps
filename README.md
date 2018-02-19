@@ -8,4 +8,13 @@ Pamiętaj, że to co tu znajdujesz ma cały czas status *work in progress* - zda
 Na pewno w wielu miejscach popełniłem jakieś błędy. Jeśli znajdziesz błąd, koniecznie daj mi znać. Najlepiej poprzez stworzenie `issue` na GitHubie albo od razu - `pull request` z proponowanymi zmianami.
 
 ## Wykłady
-1. Wstęp ( [html](https://github.com/k-basinski/wdps/01-wstep.html);  pdf)
+1. Wstęp ([html](https://github.com/k-basinski/wdps/01-wstep.html); pdf)
+2. Motywy społeczne
+2. Poznanie społeczne
+4. Przekonania społeczne
+4. Spostrzeganie innych ludzi
+4. Spostrzeganie siebie
+5. Wpływ społeczny
+5. Prospołeczność
+5. Agresja
+5. Psychologia międzykulturowa
