@@ -1,0 +1,34 @@
+---
+title: "Wprowadzenie do psychologii społecznej - 01 - wstęp"
+author: "Krzysztof Basiński"
+output:
+  revealjs::revealjs_presentation:
+    theme: serif
+    center: true
+    incremental: true
+---
+
+# Wprowadzenie do psychologii społecznej
+
+## Kontakt
+- k.basinski@gumed.edu.pl
+- Ul. Tuwima 15, pok. 312
+- Tel. 58 349 15 55 (sekretariat)
+- Konsultacje po umówieniu się
+
+## Chcesz napisać do mnie maila? 5 zasad
+1. Pisz w języku polskim. 
+1. Pisz z konta uczelnianego (mogę cię zignorować, jeśli napiszesz z wp.pl, poczta.fm, pudelek.org,  itd.)
+1. Nadaj wiadomości sensowny temat (A NIE „pytanie”, „prośba”, „”, „psychologia spolecna”)
+1. Twój klient poczty ma opcję REPLY. Korzystaj z niej.
+1. PODPISZ SIĘ (co najmniej imię, nazwisko, kierunek, rok studiów)
+
+## Organizacja zajęć
+45 wykładów, 15 seminariów, 30 ćwiczeń
+Ocena na koniec roku
+System punktowy, można zdobyć 100 pkt.
+Skala ocen tak jak w regulaminie studiów
+2 kolokwia w ciągu semestru – po 25 pkt. (można poprawiać raz jeśli wynik < 15 pkt, z poprawy można dostać max 15 pkt.)
+Obecność na wykładzie/seminariach – 10 pkt.
+Egzamin w sesji letniej – 50 pkt. 
+Bonusy za ogólną bystrość – wedle uznania prowadzącego
