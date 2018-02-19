@@ -2,6 +2,10 @@
 title: "Wprowadzenie do psychologii społecznej - 01 - wstęp"
 author: "Krzysztof Basiński"
 output:
+  tufte::tufte_handout:
+    latex_engine: xelatex
+    fig_width: 2
+    fig_height: 2
   revealjs::revealjs_presentation:
     theme: serif
     center: true
@@ -38,8 +42,8 @@ output:
 - Egzamin w sesji letniej – 50 pkt. 
 - Bonusy za ogólną bystrość – wedle uznania prowadzącego
 
-## Literatura { .small_img }
-![Wojciszke](img/nowy_wojciszke.png)
+## Literatura
+<img src="img/nowy_wojciszke.png" height="550">
 
 ## Literatura { .small_img }
 ![Stary podręcznik Wojciszke](img/stary_wojciszke.png)
