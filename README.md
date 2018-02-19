@@ -1,8 +1,11 @@
 # Wprowadzenie do psychologii społecznej - materiały dydaktyczne
-W tym repozytorium znajdziesz materiały dydaktyczne do przedmiotu *Wprowadzenie do psychologii społecznej*. Pamiętaj, że to co tu znajdujesz ma cały czas status *work in progress* - zdaża mi się dodawać lub usuwać jakieś fragmenty w czasie trwania kursu. Najprostszym sposobem aby zapewnić sobie aktualną wersję jest zrobienie forka całego repozytorium (https://help.github.com/articles/fork-a-repo/).
+W tym miejscu znajdziesz materiały dydaktyczne do przedmiotu *Wprowadzenie do psychologii społecznej*. Strona ta jest winietką repozytorium, które znajdziesz pod adresem [](https://github.com/k-basinski/wdps). 
 
-## Raportowanie błędów
-Jeśli znajdziesz jakiś błąd, koniecznie daj mi znać. Najlepiej poprzez stworzenie `issue` na GitHubie albo od razu - `pull request` z proponowanymi zmianami.
+### Korzystanie z materiałów
+Pamiętaj, że to co tu znajdujesz ma cały czas status *work in progress* - zdaża mi się dodawać lub usuwać jakieś fragmenty w czasie trwania kursu. Najprostszym sposobem aby zapewnić sobie aktualną wersję jest zrobienie [forka całego repozytorium](https://help.github.com/articles/fork-a-repo/). Przed skorzystaniem z materiałów warto wykonać `git pull`. 
 
-## Licencja?
-Możesz dowolnie korzystać i przetwarzać wszystko 
+### Błędy
+Na pewno w wielu miejscach popełniłem jakieś błędy. Jeśli znajdziesz błąd, koniecznie daj mi znać. Najlepiej poprzez stworzenie `issue` na GitHubie albo od razu - `pull request` z proponowanymi zmianami.
+
+## Wykłady
+1. Wstęp ![html](https://github.com/k-basinski/wdps/01-wstep.html) | pdf
