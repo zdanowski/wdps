@@ -24,11 +24,13 @@ output:
 1. PODPISZ SIĘ (co najmniej imię, nazwisko, kierunek, rok studiów)
 
 ## Organizacja zajęć
-45 wykładów, 15 seminariów, 30 ćwiczeń
-Ocena na koniec roku
-System punktowy, można zdobyć 100 pkt.
-Skala ocen tak jak w regulaminie studiów
-2 kolokwia w ciągu semestru – po 25 pkt. (można poprawiać raz jeśli wynik < 15 pkt, z poprawy można dostać max 15 pkt.)
-Obecność na wykładzie/seminariach – 10 pkt.
-Egzamin w sesji letniej – 50 pkt. 
-Bonusy za ogólną bystrość – wedle uznania prowadzącego
+- 30 wykładów, 15 seminariów, 15 ćwiczeń
+- Ocena na koniec roku
+- System punktowy, można zdobyć 100 pkt.
+- Skala ocen tak jak w regulaminie studiów
+
+## Organizacja zajęć
+- 2 kolokwia w ciągu semestru – po 25 pkt. (można poprawiać raz jeśli wynik < 15 pkt, z poprawy można dostać max 15 pkt.)
+- Obecność na wykładzie/seminariach – 10 pkt.
+- Egzamin w sesji letniej – 50 pkt. 
+- Bonusy za ogólną bystrość – wedle uznania prowadzącego
