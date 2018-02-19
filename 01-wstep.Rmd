@@ -6,6 +6,9 @@ output:
     theme: serif
     center: true
     incremental: true
+    self_contained: false
+    lib_dir: reveal_libs
+    css: reveal_libs/custom_style.css
 ---
 
 # Wprowadzenie do psychologii społecznej
@@ -34,3 +37,164 @@ output:
 - Obecność na wykładzie/seminariach – 10 pkt.
 - Egzamin w sesji letniej – 50 pkt. 
 - Bonusy za ogólną bystrość – wedle uznania prowadzącego
+
+## Literatura { .small_img }
+![Wojciszke](img/nowy_wojciszke.png)
+
+## Literatura { .small_img }
+![Stary podręcznik Wojciszke](img/stary_wojciszke.png)
+
+
+## Literatura { .small_img }
+![Aronson](img/aronson.png)
+
+## Literatura { .small_img }
+![Crisp & Truner](img/turner.png)
+
+## Literatura
+![Strelau & Doliński](img/dolinski_strelau.png)
+
+# Czego będziemy się uczyć?
+
+## Czym nie jest psychologia społeczna
+- Socjologią
+- Antropologią
+- Nauką stosowaną (…tylko nauką podstawową)
+
+## Czym JEST psychologia społeczna?
+- Psychologia społeczna zajmuje się szeroko pojętym WPŁYWEM SPOŁECZNYM
+- …czyli…
+
+## Psychologia społeczna
+W jaki sposób to, co robią, czują i myślą jedni ludzi wpływa na to co robią, czują i myślą inni ludzie (za: Wojciszke, 2011)
+
+## Psychologia społeczna
+Nie ma jednej, ogólnej teorii psychologii społecznej. Psychologia społeczna składa się z wielu teorii małego i średniego zasięgu
+
+## Dlaczego ludzie mają olbrzymie mózgi? (blisko trzykrotnie większe niż szympansy) Liczba Dunbara
+
+![Liczba Dunbara](img/dunbar.png)
+
+## Tematyka zajęć
+1. Psychologia społeczna – charakterystyka dyscypliny, podejścia teoretyczne, metody badawcze, rys historyczny
+2. Motywy społeczne – przynależność społeczna, poczucie sprawczości i kontroli, potrzeby sensu, domknięcia poznawczego i poznania, status i samoocena
+3. Poznanie społeczne – wiedza i spostrzeganie świata społecznego, wpływ kontekstu na sądy, heurystyki w poznaniu społecznym
+
+## Tematyka zajęć
+4. Przekonania społeczne – zaufanie, cynizm, autorytaryzm, orientacja na dominację społeczną, wiara w sprawiedliwość świata, przekonania polityczne
+4. Spostrzeganie innych ludzi (?) – znaczenie zachowania, procesy automatyczne, procesy kontrolowane, ocenianie innych ludzi
+4. Spostrzeganie siebie (?) – autoschematy, pojęcie ja, ja realne, idealne i powinnościowe, taktyki autoprezentacji
+
+## Tematyka zajęć
+7. Wpływ społeczny – naśladownictwo, konformizm, posłuszeństwo autorytetom, techniki manipulacji, asertywność
+8. Prospołeczność – teorie pobudzenia, teorie norm, adaptacyjna rola prospołeczności, wyznaczniki i następstwa pomagania
+9. Agresja – teorie agresji, indywidualne wyznaczniki agresji, sytuacyjne wyznaczniki agresji, kontrola agresji
+10. Kulturowe ramy zachowań społecznych – model ekokulturowy J.Berry’ego, wymiary kultury Hofstede, aksjomaty społeczne, teoria wartości Schwartza, teorie akulturacji
+
+# Tych psychologów musisz znać
+
+## Ojcowie założyciele - George Herbert Mead, Kurt Levin, Gordon Allport
+![George Herbert Mead, Kurt Levin, Gordon Allport](img/mead_levin_allport.png)
+
+## Solomon Asch (1907-1996) { .small_img }
+![Solomon Asch](img/asch.png)
+
+## Stanley Milgram (1933-1984) { .small_img }
+![Stanley Milgram](img/milgram.png)
+
+## Albert Bandura (1925 - ) { .small_img }
+![Albert Bandura](img/bandura.png)
+
+## Philip Zimbardo (1933 - ) { .small_img }
+![Philip Zimbardo](img/zimbardo.png)
+
+## Robert Cialdini (1945 - ) { .small_img }
+![Robert Cialdini](img/cialdini.png)
+
+## Robert Zajonc (1923 - 2008) { .small_img }
+![Robert Zajonc](img/zajonc.png)
+
+## Czasopisma naukowe
+- Journal of Personality and Social Psychology
+- Personality and Social Psychology Review
+- Journal of Experimental Social Psychology
+- Personality and Social Psychology Bulletin
+- European Journal of Social Psychology
+- British Journal of Social Psychology
+- Social Cognition
+
+
+# Podejścia teoretyczne w psychologii społecznej (paradygmaty)
+
+## Podejścia teoretyczne w psychologii społecznej (paradygmaty)
+- Perspektywa poznawcza
+- Perspektywa motywacyjna
+- Perspektywa behawioralna (teorii uczenia się)
+- Perspektywa społeczno-kulturowa
+- Perspektywa ewolucyjna
+
+## Perspektywa poznawcza
+- To co człowiek myśli, czuje i jak się zachowuje zależy przede wszystkim od **procesów przetwarzania informacji**
+- Zachowujemy się różnie w zależności od tego jak interpretujemy docierające bodźce
+- Na procesy poznawcze składają się takie procesy jak: pamięć, uwaga, język, funkcje wykonawcze itd.
+- Najpopularniejsza obecnie perspektywa teoretyczna, można nią tłumaczyć bardzo wiele sytuacji i zachowań
+
+## Perspektywa motywacyjna
+- Jakie **motywy** powodują u ludzi takie a nie inne zachowania?
+- Tłumaczenie zachowania w kontekście różnych motywów społecznych, np.:
+    + Utrzymanie samooceny
+    + Budowanie więzi społecznych
+    + Potrzeba bezpieczeństwa
+    + Potrzeba kontroli
+    + Potrzeba statusu i władzy
+- Często w tej perspektywie analizuje się procesy emocjonalne (jako źródło motywacji), np. zjawisko transferu pobudzenia emocjonalnego
+
+## Perspektywa poznawcza vs. motywacyjna
+- Podejścia nie są sprzeczne, częściej komplementarne
+- Wyjaśnienie motywacyjne odpowiada na pytanie *„dlaczego człowiek podejmuje działanie”*
+- Wyjaśnienie poznawcze odpowiada na pytanie: *„dlaczego człowiek działa w taki a nie inny sposób”*
+
+## Perspektywa teorii uczenia się
+- Zachowanie jest skutkiem uczenia się
+- Uczymy się poprzez doświadczenia *własne*:
+    + Warunkowanie klasyczne
+    + Warunkowanie instrumentalne
+- …albo przez doświadczenia *cudze*:
+    + Modelowanie, społeczne uczenie się
+
+## Warunkowanie klasyczne { .small_img }
+![Warunkowanie klasyczne](img/pavlov.png)
+
+## Warunkowanie instrumentalne { .small_img }
+![Warunkowanie instrumentalne](img/warunkowanie_instrumentalne.png)
+
+## Teoria społecznego uczenia się (Albert Bandura)
+- Uczenie się nie jest jedynie behawioralne; ma też komponent poznawczy i społeczny
+- Uczenie się może nastąpić poprzez obserwację czyjegoś zachowania (*modelowanie*) i jego konsekwencji (*wzmocnienie zastępcze*)
+- Uczeń nie jest pasywny w procesie uczenia się. Procesy poznawcze, środowisko i zachowanie są wzajemnie powiązane
+
+## Perspektywa społeczno-kulturowa
+- Człowiek jest wytworem **socjalizacji** w określonym środowisku
+- W różnych grupach społecznych, w różnych kulturach, istnieją odmienne normy, wartości, wzorce postępowania
+- W kontekście różnic kulturowych problematyką tą zajmuje się **psychologia międzykulturowa** (ostatni wykład)
+
+## Perspektywa ewolucyjna
+- Nasze zachowanie jest zdeterminowane przystosowaniami ewolucyjnymi charakterystycznymi dla gatunku ludzkiego
+- Trzy mechanizmy kształtujące zachowanie:
+    + Selekcja **naturalna**
+    + Selekcja **seksualna**
+    + Inclusive fitness theory – tłumaczy zachowania prospołeczne
+- Problem z adaptacją homo sapiens do życia w XXIw. (*Dlaczego zebry nie mają wrzodów żołądka?*)
+
+## Antropocen – daty graniczne (Lewis & Maslin, Nature, 2015)
+- Ok. 12,000 – 8,000 lat temu – rewolucja neolityczna
+- Ok. 2,000 lat temu – szczytowy rozwój cywilizacji starożytnych, zarówno na terenie Europy, jak i Azji i Ameryk
+- 1610 – Orbis Spike (łac. Świat) – nagły wzrost CO2 połączenie Starego Świata z Nowym Światem – początek „globalizacji”
+- Rewolucja przemysłowa XVIIIw.
+- 1945 – test Trinity, Hiroshima, Nagasaki
+- 1964 – Bomb Spike – wzrost stężenia 14C na skutek prób termojądrowych
+
+## Antropocen
+![Antropocen](img/antropocen.png)
+
+
