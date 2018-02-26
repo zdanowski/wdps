@@ -88,11 +88,16 @@ output:
 - Poczucie kontroli zwiększa poczucie szczęścia, aktywność, towarzyskość oraz **zmniejsza śmiertelność** (po półtorej roku 30% w gr. kontr. vs. 15% w eksp.)
 
 ## Umiejscowienie poczucia kontroli (Julian Rotter)
-Zewnętrzne | Wewnętrzne
---- | ---
-Wiele nieszczęśliwych wypadków, jakie się ludziom przydarzają jest częściowo wynikiem pecha | Nieszczęśliwe wypadki zdarzające się ludziom są wynikiem popełnianych przez nic błędów
-Choćby człowiek nie wiem jak się starał, niektórzy i tak nie będą go lubić | Jeżeli ktoś jest nielubiany przez innych, to znaczy, że nie potrafi z ludźmi postępować
-Czasami mam uczucie, że nie mam wpływu na bieg mojego życia | To ode mnie zależy, co mi się w życiu przydarza
+- Zewnętrzne:
+    + Wiele nieszczęśliwych wypadków, jakie się ludziom przydarzają jest częściowo wynikiem pecha 
+    + Choćby człowiek nie wiem jak się starał, niektórzy i tak nie będą go lubić
+    + Czasami mam uczucie, że nie mam wpływu na bieg mojego życia 
+
+## Umiejscowienie poczucia kontroli (Julian Rotter)
+- Wewnętrzne:
+    + Nieszczęśliwe wypadki zdarzające się ludziom są wynikiem popełnianych przez nic błędów
+    + Jeżeli ktoś jest nielubiany przez innych, to znaczy, że nie potrafi z ludźmi postępować
+    + To ode mnie zależy, co mi się w życiu przydarza
 
 ## Wewnętrzne poczucie kontroli a dobrostan i funkcjonowanie zawodowe
 Zmienna | r
