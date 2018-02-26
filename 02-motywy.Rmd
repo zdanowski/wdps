@@ -89,9 +89,9 @@ output:
 
 ## Umiejscowienie poczucia kontroli (Julian Rotter)
 - Zewnętrzne:
-    + Wiele nieszczęśliwych wypadków, jakie się ludziom przydarzają jest częściowo wynikiem pecha 
+    + Wiele nieszczęśliwych wypadków, jakie się ludziom przydarzają jest częściowo wynikiem pecha
     + Choćby człowiek nie wiem jak się starał, niektórzy i tak nie będą go lubić
-    + Czasami mam uczucie, że nie mam wpływu na bieg mojego życia 
+    + Czasami mam uczucie, że nie mam wpływu na bieg mojego życia
 
 ## Umiejscowienie poczucia kontroli (Julian Rotter)
 - Wewnętrzne:
@@ -123,3 +123,75 @@ Wsparcie społeczne | .10
     + Poznawczy – nie dostrzeganie związków przyczynowych
     + Emocjonalny – objawy lęku i depresji
 - Model przez lata dyskutowany i uzupełniany – np. informacyjny model bezradności (Kofta, Sędek, 1989) – bezradność spowodowana wyczerpaniem poznawczym (skończyły nam się zasoby aby analizować sytuację)
+
+# Potrzeba poznania
+
+## Potrzeba poznania
+![Potrzeba Poznania](img/02/poznan.png)
+
+## Kwestionariusz Potrzeby Poznania (Cacioppo i Petty, 1982)
+- Adaptacja PL: Matusz, Traczyk, Gąsiorowska, 2011
+- Pozycje odwrócone na dole arkusza
+- Odwracamy pozycje odwrotne i sumujemy
+
+Próba studencka – M=134.7, SD=17.6
+Nauczyciele akademiccy – M=144.1; SD = 16.5
+
+## Dlaczego poznanie jest fajne
+- Poznawanie rzeczy jest samo w sobie przyjemne (przynajmniej dla niektórych) – jest nagradzające
+- Poznanie zwykle jest potrzebne do podjęcia decyzji albo sformułowania sądu
+- Poznanie jest niezbędne do uzyskania poczucia sensowności własnych działań
+
+## Korelaty potrzeby poznania
+- (+) Ciekawość
+- (+) Otwartość na nowe informacje, doświadczenia i zachowania
+- (+) Skłonność do formułowania złożonych wniosków przyczynowych
+- (+) Przyjemność z przetwarzania informacji słownych (ale nie wzrokowych)
+
+## Korelaty potrzeby poznania
+- (-) Potrzeba domknięcia poznawczego
+- (-) Dogmatyzm
+- (-) Potrzeba porządku i przewidywalności
+- (-) Skłonność do upraszczania informacji
+
+## Bierząca potrzeba domknięcia poznawczego
+- Stan motywacyjny
+- Pragnienie aby jak najszybciej mieć za sobą przetwarzanie informacji i dojść do wniosków (nawet pochopnych), których człowiek jest gotów kurczowo się później trzymać
+- …czyli facet z partnerką na zakupach w sklepie z butami…
+
+
+## Wyznaczniki i konsekwencje domknięcia poznawczego
+![Wyznaczniki i konsekwencje domknięcia poznawczego (za: Wojciszke, 2011; Kruglanski, 2004)](img/02/closure.png)
+
+## Skutki domknięcia poznawczego – chwytanie informacji
+- Chwytanie informacji – opieranie sądów i decyzji na wcześnie pojawiających się danych kosztem tych napływających w dalszej kolejności
+- Skutkiem efekt pierwszeństwa – pierwsze informacje na czyjś temat są lepiej zapamiętywane i uznawane za ważniejsze niż późniejsze informacje
+- Opieranie sądów i decyzji na danych łatwych do uzyskania i zrozumienia – stereotypowych
+
+## Skutki domknięcia poznawczego – zamrożenie przekonań
+- Zamrożenie przekonań – podtrzymywanie raz uzyskanego domknięcia
+- Np. przyjmowanie przekonań preferowanych przez większość (mniejsza szansa na podważenie w przyszłości)
+- Wzbudzony motyw domknięcia zmniejsza tolerancję wobec dewiantów (osób o innych niż większość poglądach)
+
+## Potrzeba sensu
+- Filozofia egzystencjalistyczna połowy XXw. – głównym problemem człowieka brak sensu życia, brak znaczenia własnej egzystencji
+- Wiele teorii psychologicznych zakłada dążenie człowieka do poczucia sensowności i spójności – np. teoria dysonansu poznawczego
+
+## Dysonans poznawczy
+- Koncepcja Leona Festingera
+- Jest to uczucie dyskomfortu, które pojawia się, gdy u danej osoby występują jednocześnie dwa wzajemnie wykluczające się przekonania, myśli, sądy,
+- Obecność dysonansu powoduje u człowieka chęć podjęcia działań w celu jego usunięcia – źródło motywacji.
+- Osoba będzie aktywnie unikała sytuacji i informacji, które mogłyby powiększyć dysonans.
+
+## Model utrzymywania znaczenia (MUZ) (Heine, Proulx, Vohs, 2006)
+- Wykrycie anomalii powoduje wzrost pobudzenia
+- Sposoby radzenia sobie z anomalią (Piaget):
+    + Akomodacja – dopasowanie już posiadanej wiedzy do nowych informacji
+    + Asymilacja – dopasowanie nowych informacji do już posiadanej wiedzy
+- MUZ postuluje trzeci mechanizm – płynną kompensację – ludzie odbudowują poczucie sensu w zupełnie innej dziedzinie
+
+## O samoocenie będzie w przyszłym semestrze
+![Samoocena](img/02/samoocena.png)
+
+## Który motyw jest najważniejszy?
+![Który motyw powinien być na szczycie piramidy?](img/02/maslow.png)
