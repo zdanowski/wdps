@@ -71,3 +71,50 @@ output:
     + Świat spostrzegany jako bardziej zagrażający
     + Zapamiętywanie bardziej negatywnych informacji i kontaktów z innymi
     + Bardziej negatywne oczekiwania wobec innych działają jak samospełniające się przepowiednie
+
+# Sprawczość i kontrola
+
+## Sprawczość i kontrola
+![Kontrola](img/02/ctrl.png)
+
+## Po co nam kontrola?
+- Fajniej żyje się w przewidywalnym niż w nieprzewidywalnym świecie
+- Świat jest przewidywalny, kiedy mamy nad nim kontrolę
+- Ulegamy **złudzeniu kontroli** (Langer, 1975) – przecenianiu własnego wpływu na zdarzenia (za los na loterię wart 1$ badani chcieli 8,67$ jeśli sami go wyciągnęli a 1,96$ jeśli wyciągnął go kto inny)
+
+## Dobroczynne efekty kontroli (Langer i Rodin, 1976)
+- Eksperyment naturalny w domu starców
+- Na jednym piętrze zwiększano poczucie kontroli wśród pensjonariuszy (decydowanie o sposobie ustawienia mebli, miejsce oglądania TV, opieka nad roślinką + perswazja do korzystania z tych możliwości + opieka nad roślinką), na drugim tylko informowano o możliwościach
+- Poczucie kontroli zwiększa poczucie szczęścia, aktywność, towarzyskość oraz **zmniejsza śmiertelność** (po półtorej roku 30% w gr. kontr. vs. 15% w eksp.)
+
+## Umiejscowienie poczucia kontroli (Julian Rotter)
+Zewnętrzne | Wewnętrzne
+--- | ---
+Wiele nieszczęśliwych wypadków, jakie się ludziom przydarzają jest częściowo wynikiem pecha | Nieszczęśliwe wypadki zdarzające się ludziom są wynikiem popełnianych przez nic błędów
+Choćby człowiek nie wiem jak się starał, niektórzy i tak nie będą go lubić | Jeżeli ktoś jest nielubiany przez innych, to znaczy, że nie potrafi z ludźmi postępować
+Czasami mam uczucie, że nie mam wpływu na bieg mojego życia | To ode mnie zależy, co mi się w życiu przydarza
+
+## Wewnętrzne poczucie kontroli a dobrostan i funkcjonowanie zawodowe
+Zmienna | r
+--- | ---
+Dobrostan | .30
+Zdrowie (subiektywne) | .22
+Satysfakcja z życia | .27
+Satysfakcja z pracy | .26
+Zaangażowanie w pracę | .21
+Zarobki | .13
+Stres w pracy | -.19
+Wypalenie zawodowe | -.23
+Wsparcie społeczne | .10
+
+## Deprywacja kontroli – wyuczona bezradność (Seligman, 1975)
+- Psom aplikowano nie dające się przewidzieć szoki elektryczne – trening bezradności
+- Następnego dnia w innej sytuacji aplikowano dające się przewidzieć szoki
+- Psy poddane treningowi bezradności nie uczyły się unikać szoków, psy z grupy kontrolnej uczyły się.
+
+## Deprywacja kontroli – wyuczona bezradność (Seligman, 1975)
+- Deficyty wyuczonej bezradności:
+    + Motywacyjny – brak motywacji do uczenia się
+    + Poznawczy – nie dostrzeganie związków przyczynowych
+    + Emocjonalny – objawy lęku i depresji
+- Model przez lata dyskutowany i uzupełniany – np. informacyjny model bezradności (Kofta, Sędek, 1989) – bezradność spowodowana wyczerpaniem poznawczym (skończyły nam się zasoby aby analizować sytuację)
