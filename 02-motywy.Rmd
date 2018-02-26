@@ -1,0 +1,73 @@
+---
+title: "Wprowadzenie do psychologii społecznej - 02 - motywy społeczne"
+author: "Krzysztof Basiński"
+output:
+  revealjs::revealjs_presentation:
+    theme: serif
+    center: true
+    incremental: true
+    self_contained: false
+    lib_dir: reveal_libs
+    css: reveal_libs/custom_style.css
+---
+
+# Motywy społeczne
+
+## Motywy społeczne
+- Motyw – świadomy lub automatyczny proces nadający ludzkiemu działaniu energię i kierunek
+- Motyw społeczny – motyw ukierunkowany na członków grupy własnej lub obcej
+- Główne motywy społeczne:
+    + Przynależność społeczna
+    + Sprawczość i kontrola
+    + Poznanie i zrozumienie
+    + Status i samoocena
+
+## Dlaczego akurat te motywy?
+- Powszechne (u większości ludzi w większości kultur)
+- Silne – realizowane kosztem innych motywów
+- Przynoszą istotne korzyści
+- Deprywacja jest szkodliwa
+
+## Przynależność społeczna
+![Przynależność społeczna](img/02/przynaleznosc.png)
+
+## Przynależność - tło ewolucyjne
+- Większą część historii ewolucyjnej spędziliśmy walcząc o przetrwanie w kilkudziesięcioosobowych grupkach
+- Przetrwanie poza grupą niemożliwe – nieprzyjazna natura, drapieżniki, zjedzenie przez inne grupy
+- Agresja wewnątrzgatunkowa u ludzi w formie prowadzenia wojen
+
+## Siła motywu przynależności
+- Życie w grupie, przedkładanie dobra grupy własnej nad grupę obcą, małżeństwa, opieka nad dziećmi – wszystko to jest *uniwersalne kulturowo*
+- Szczęście rodzinne (obok zdrowia) najważniejszą przesłanką udanego życia (CBOS, 2010)
+- Niektóre media społecznościowe realizują motyw przynależności
+- Przynależność do organizacji, stowarzyszeń miarą prestiżu
+
+## Główna korzyść - wsparcie społeczne
+- Wsparcie społeczne – zasoby psychiczne i materialne, jakich inni ludzie udzielają nam, aby podwyższyć naszą zdolność radzenia sobie ze stresem
+- Trzy rodzaje wsparcia:
+    + Emocjonalne
+    + Informacyjne
+    + Praktyczne (instrumentalne)
+- Wsparcie = bufor chroniący przed stresem
+
+## Wsparcie społeczne a śmiertelność
+![Wsparcie społeczne a śmiertelność](img/02/ss_mortality.png)
+
+
+## Wsparcie społeczne a PTSD
+![Wsparcie społeczne a PTSD](img/02/ss_ptsd.png)
+
+## Gdy wsparcia brakuje - wykluczenie społeczne
+- Powoduje wiele problemów psychologicznych i somatycznych (Hawkley i Cacioppo, 2010):
+    + Problemy sercowo-naczyniowe
+    + Wzrost ryzyka depresji i AD (!)
+    + Problemy z funkcjonowaniem poznawczym
+    + Obniżenie poczucia bezpieczeństwa
+    + Deformacja w spostrzeganiu świata
+
+
+## Gdy wsparcia brakuje - wykluczenie społeczne
+- Deformacja w spostrzeganiu świata:
+    + Świat spostrzegany jako bardziej zagrażający
+    + Zapamiętywanie bardziej negatywnych informacji i kontaktów z innymi
+    + Bardziej negatywne oczekiwania wobec innych działają jak samospełniające się przepowiednie
