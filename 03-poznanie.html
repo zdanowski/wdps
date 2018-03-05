@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Krzysztof Basiński" />
+  <title>Wprowadzenie do psychologii społecznej - 03 - poznanie społeczne</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="reveal_libs/reveal.js-3.3.0.1/css/reveal.css"/>
+
+
+
+<link rel="stylesheet" href="reveal_libs/reveal.js-3.3.0.1/css/theme/serif.css" id="theme">
+
+
+  <!-- some tweaks to reveal css -->
+  <style type="text/css">
+    .reveal h1 { font-size: 2.0em; }
+    .reveal h2 { font-size: 1.5em;  }
+    .reveal h3 { font-size: 1.25em;	}
+    .reveal h4 { font-size: 1em;	}
+
+    .reveal .slides>section,
+    .reveal .slides>section>section {
+      padding: 0px 0px;
+    }
+
+
+
+    .reveal table {
+      border-width: 1px;
+      border-spacing: 2px;
+      border-style: dotted;
+      border-color: gray;
+      border-collapse: collapse;
+      font-size: 0.7em;
+    }
+
+    .reveal table th {
+      border-width: 1px;
+      padding-left: 10px;
+      padding-right: 25px;
+      font-weight: bold;
+      border-style: dotted;
+      border-color: gray;
+    }
+
+    .reveal table td {
+      border-width: 1px;
+      padding-left: 10px;
+      padding-right: 25px;
+      border-style: dotted;
+      border-color: gray;
+    }
+
+
+  </style>
+
+    <style type="text/css">code{white-space: pre;}</style>
+
+    <link rel="stylesheet" href="reveal_libs/custom_style.css"/>
+
+<!-- Printing and PDF exports -->
+<script id="paper-css" type="application/dynamic-css">
+
+/* Default Print Stylesheet Template
+   by Rob Glazebrook of CSSnewbie.com
+   Last Updated: June 4, 2008
+
+   Feel free (nay, compelled) to edit, append, and
+   manipulate this file as you see fit. */
+
+
+@media print {
+
+	/* SECTION 1: Set default width, margin, float, and
+	   background. This prevents elements from extending
+	   beyond the edge of the printed page, and prevents
+	   unnecessary background images from printing */
+	html {
+		background: #fff;
+		width: auto;
+		height: auto;
+		overflow: visible;
+	}
+	body {
+		background: #fff;
+		font-size: 20pt;
+		width: auto;
+		height: auto;
+		border: 0;
+		margin: 0 5%;
+		padding: 0;
+		overflow: visible;
+		float: none !important;
+	}
+
+	/* SECTION 2: Remove any elements not needed in print.
+	   This would include navigation, ads, sidebars, etc. */
+	.nestedarrow,
+	.controls,
+	.fork-reveal,
+	.share-reveal,
+	.state-background,
+	.reveal .progress,
+	.reveal .backgrounds {
+		display: none !important;
+	}
+
+	/* SECTION 3: Set body font face, size, and color.
+	   Consider using a serif font for readability. */
+	body, p, td, li, div {
+		font-size: 20pt!important;
+		font-family: Georgia, "Times New Roman", Times, serif !important;
+		color: #000;
+	}
+
+	/* SECTION 4: Set heading font face, sizes, and color.
+	   Differentiate your headings from your body text.
+	   Perhaps use a large sans-serif for distinction. */
+	h1,h2,h3,h4,h5,h6 {
+		color: #000!important;
+		height: auto;
+		line-height: normal;
+		font-family: Georgia, "Times New Roman", Times, serif !important;
+		text-shadow: 0 0 0 #000 !important;
+		text-align: left;
+		letter-spacing: normal;
+	}
+	/* Need to reduce the size of the fonts for printing */
+	h1 { font-size: 28pt !important;  }
+	h2 { font-size: 24pt !important; }
+	h3 { font-size: 22pt !important; }
+	h4 { font-size: 22pt !important; font-variant: small-caps; }
+	h5 { font-size: 21pt !important; }
+	h6 { font-size: 20pt !important; font-style: italic; }
+
+	/* SECTION 5: Make hyperlinks more usable.
+	   Ensure links are underlined, and consider appending
+	   the URL to the end of the link for usability. */
+	a:link,
+	a:visited {
+		color: #000 !important;
+		font-weight: bold;
+		text-decoration: underline;
+	}
+	/*
+	.reveal a:link:after,
+	.reveal a:visited:after {
+		content: " (" attr(href) ") ";
+		color: #222 !important;
+		font-size: 90%;
+	}
+	*/
+
+
+	/* SECTION 6: more reveal.js specific additions by @skypanther */
+	ul, ol, div, p {
+		visibility: visible;
+		position: static;
+		width: auto;
+		height: auto;
+		display: block;
+		overflow: visible;
+		margin: 0;
+		text-align: left !important;
+	}
+	.reveal pre,
+	.reveal table {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.reveal pre code {
+		padding: 20px;
+		border: 1px solid #ddd;
+	}
+	.reveal blockquote {
+		margin: 20px 0;
+	}
+	.reveal .slides {
+		position: static !important;
+		width: auto !important;
+		height: auto !important;
+
+		left: 0 !important;
+		top: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		padding: 0 !important;
+		zoom: 1 !important;
+
+		overflow: visible !important;
+		display: block !important;
+
+		text-align: left !important;
+		-webkit-perspective: none;
+		   -moz-perspective: none;
+		    -ms-perspective: none;
+		        perspective: none;
+
+		-webkit-perspective-origin: 50% 50%;
+		   -moz-perspective-origin: 50% 50%;
+		    -ms-perspective-origin: 50% 50%;
+		        perspective-origin: 50% 50%;
+	}
+	.reveal .slides section {
+		visibility: visible !important;
+		position: static !important;
+		width: auto !important;
+		height: auto !important;
+		display: block !important;
+		overflow: visible !important;
+
+		left: 0 !important;
+		top: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		padding: 60px 20px !important;
+		z-index: auto !important;
+
+		opacity: 1 !important;
+
+		page-break-after: always !important;
+
+		-webkit-transform-style: flat !important;
+		   -moz-transform-style: flat !important;
+		    -ms-transform-style: flat !important;
+		        transform-style: flat !important;
+
+		-webkit-transform: none !important;
+		   -moz-transform: none !important;
+		    -ms-transform: none !important;
+		        transform: none !important;
+
+		-webkit-transition: none !important;
+		   -moz-transition: none !important;
+		    -ms-transition: none !important;
+		        transition: none !important;
+	}
+	.reveal .slides section.stack {
+		padding: 0 !important;
+	}
+	.reveal section:last-of-type {
+		page-break-after: avoid !important;
+	}
+	.reveal section .fragment {
+		opacity: 1 !important;
+		visibility: visible !important;
+
+		-webkit-transform: none !important;
+		   -moz-transform: none !important;
+		    -ms-transform: none !important;
+		        transform: none !important;
+	}
+	.reveal section img {
+		display: block;
+		margin: 15px 0px;
+		background: rgba(255,255,255,1);
+		border: 1px solid #666;
+		box-shadow: none;
+	}
+
+	.reveal section small {
+		font-size: 0.8em;
+	}
+
+}  
+</script>
+
+
+<script id="pdf-css" type="application/dynamic-css">
+    
+/**
+ * This stylesheet is used to print reveal.js
+ * presentations to PDF.
+ *
+ * https://github.com/hakimel/reveal.js#pdf-export
+ */
+
+* {
+	-webkit-print-color-adjust: exact;
+}
+
+body {
+	margin: 0 auto !important;
+	border: 0;
+	padding: 0;
+	float: none !important;
+	overflow: visible;
+}
+
+html {
+	width: 100%;
+	height: 100%;
+	overflow: visible;
+}
+
+/* Remove any elements not needed in print. */
+.nestedarrow,
+.reveal .controls,
+.reveal .progress,
+.reveal .playback,
+.reveal.overview,
+.fork-reveal,
+.share-reveal,
+.state-background {
+	display: none !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-shadow: 0 0 0 #000 !important;
+}
+
+.reveal pre code {
+	overflow: hidden !important;
+	font-family: Courier, 'Courier New', monospace !important;
+}
+
+ul, ol, div, p {
+	visibility: visible;
+	position: static;
+	width: auto;
+	height: auto;
+	display: block;
+	overflow: visible;
+	margin: auto;
+}
+.reveal {
+	width: auto !important;
+	height: auto !important;
+	overflow: hidden !important;
+}
+.reveal .slides {
+	position: static;
+	width: 100%;
+	height: auto;
+
+	left: auto;
+	top: auto;
+	margin: 0 !important;
+	padding: 0 !important;
+
+	overflow: visible;
+	display: block;
+
+	-webkit-perspective: none;
+	   -moz-perspective: none;
+	    -ms-perspective: none;
+	        perspective: none;
+
+	-webkit-perspective-origin: 50% 50%; /* there isn't a none/auto value but 50-50 is the default */
+	   -moz-perspective-origin: 50% 50%;
+	    -ms-perspective-origin: 50% 50%;
+	        perspective-origin: 50% 50%;
+}
+
+.reveal .slides section {
+	page-break-after: always !important;
+
+	visibility: visible !important;
+	position: relative !important;
+	display: block !important;
+	position: relative !important;
+
+	margin: 0 !important;
+	padding: 0 !important;
+	box-sizing: border-box !important;
+	min-height: 1px;
+
+	opacity: 1 !important;
+
+	-webkit-transform-style: flat !important;
+	   -moz-transform-style: flat !important;
+	    -ms-transform-style: flat !important;
+	        transform-style: flat !important;
+
+	-webkit-transform: none !important;
+	   -moz-transform: none !important;
+	    -ms-transform: none !important;
+	        transform: none !important;
+}
+
+.reveal section.stack {
+	margin: 0 !important;
+	padding: 0 !important;
+	page-break-after: avoid !important;
+	height: auto !important;
+	min-height: auto !important;
+}
+
+.reveal img {
+	box-shadow: none;
+}
+
+.reveal .roll {
+	overflow: visible;
+	line-height: 1em;
+}
+
+/* Slide backgrounds are placed inside of their slide when exporting to PDF */
+.reveal section .slide-background {
+	display: block !important;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: -1;
+}
+
+/* All elements should be above the slide-background */
+.reveal section>* {
+	position: relative;
+	z-index: 1;
+}
+
+/* Display slide speaker notes when 'showNotes' is enabled */
+.reveal .speaker-notes-pdf {
+	display: block;
+	width: 100%;
+	max-height: none;
+	left: auto;
+	top: auto;
+	z-index: 100;
+}
+
+/* Display slide numbers when 'slideNumber' is enabled */
+.reveal .slide-number-pdf {
+	display: block;
+	position: absolute;
+	font-size: 14px;
+}
+
+</script>
+
+
+<script>
+var style = document.createElement( 'style' );
+style.type = 'text/css';
+var style_script_id = window.location.search.match( /print-pdf/gi ) ? 'pdf-css' : 'paper-css';
+var style_script = document.getElementById(style_script_id).text;
+style.innerHTML = style_script;
+document.getElementsByTagName('head')[0].appendChild(style);
+</script>
+
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section>
+    <h1 class="title">Wprowadzenie do psychologii społecznej - 03 - poznanie społeczne</h1>
+    <h2 class="author">Krzysztof Basiński</h2>
+</section>
+
+<section><section id="poznanie-spoeczne" class="titleslide slide level1"><h1>Poznanie społeczne</h1></section><section id="swiat-spoeczny-a-procesy-poznawcze" class="slide level2">
+<h2>Świat społeczny a procesy poznawcze</h2>
+<ul>
+<li class="fragment">Świat społeczny jest światem interpretowanym</li>
+<li class="fragment">Każdy człowiek odbiera go inaczej i inaczej interpretuje</li>
+<li class="fragment">Przykłady?</li>
+</ul>
+</section><section id="dzis-bedzie-o" class="slide level2">
+<h2>Dziś będzie o…</h2>
+<ul>
+<li class="fragment">Wiedzy o świecie społecznym</li>
+<li class="fragment">Spostrzeganiu (percepcji) świata społecznego</li>
+<li class="fragment">Kontekście i jego wpływie na sądy</li>
+<li class="fragment">Heurystykach</li>
+</ul>
+</section></section>
+<section><section id="wiedza-o-swiecie-spoecznym" class="titleslide slide level1"><h1>Wiedza o świecie społecznym</h1></section><section id="schematy-poznawcze-schema" class="slide level2">
+<h2>Schematy poznawcze (<em>schema</em>)</h2>
+<ul>
+<li class="fragment">Schemat poznawczy – organizacja uprzednich doświadczeń z jakimś zdarzeniem, osobami czy obiektami</li>
+<li class="fragment">Schematy są uogólnione, abstrakcyjne. Konkretne są <strong>egzemplarze</strong> schematów</li>
+<li class="fragment">Np. typowy przebieg egzaminu – schemat, egzamin z psychologii społecznej u Basińskiego – egzemplarz schematu</li>
+<li class="fragment">Zasada <strong>prototypowości</strong> – najwięcej o schemacie mówi najbardziej typowy jego egzemplarz</li>
+</ul>
+</section><section id="schematy-poznawcze-schema-1" class="slide level2">
+<h2>Schematy poznawcze (<em>schema</em>)</h2>
+<ul>
+<li class="fragment">Schematy osób – stereotypy – więcej w przyszłym semestrze</li>
+<li class="fragment">Schematy cech</li>
+<li class="fragment">Skrypty</li>
+</ul>
+</section><section id="skrypty" class="slide level2">
+<h2>Skrypty</h2>
+<ul>
+<li class="fragment">Inaczej <em>scenariusze</em> – dotyczą przebiegu wydarzeń</li>
+<li class="fragment">Przykładowo – przebieg egzaminu ustnego, wizyty u lekarza, lotu samolotem itd.</li>
+<li class="fragment">Pojedyncze elementy skryptu – scenki – mogą być bardziej albo mniej prototypowe</li>
+<li class="fragment">Scenki mają <em>kolejność czasową</em></li>
+</ul>
+</section><section id="schematy-cech" class="slide level2">
+<h2>Schematy cech</h2>
+<ul>
+<li class="fragment">Cechy (np. inteligencja, towarzyskość, grzeczność) mają swoje przejawy w postaci zachowań</li>
+<li class="fragment">Niektóre zachowania są bardzo charakterystyczne dla jakiejś cechy – <em>prototypy</em>. Inne mniej, jeszcze inne nie są wcale</li>
+<li class="fragment">Częścią schematów cech jest też ich współzmienność (np. „skoro jest inteligentny to pewnie jest też mądry”, „skoro jest grzeczny to pewnie jest moralny” itd.)</li>
+</ul>
+</section><section id="trzy-warunki-zastosowania-schematu" class="slide level2">
+<h2>Trzy warunki zastosowania schematu</h2>
+<ul>
+<li class="fragment">Wykształcenie schematu</li>
+<li class="fragment">Stosowalność do sytuacji</li>
+<li class="fragment">Aktywizacja</li>
+</ul>
+</section><section id="roznice-kulturowe-w-wyksztaconych-schematach" class="slide level2">
+<h2>Różnice kulturowe w wykształconych schematach</h2>
+<ul>
+<li class="fragment">Statystyczny student z USA zazwyczaj czuje się <em>„lepiej niż zazwyczaj”</em> (Johnson, 1937)</li>
+<li class="fragment">Statystyczny student z Polski zazwyczaj czuje się <em>„gorzej niż zazwyczaj”</em> (Doliński, 1996)</li>
+<li class="fragment">Różnica w schemacie powitania (<em>“I’m OK, I’m great”</em> vs <em>„nie mogę narzekać”</em>, <em>„jako tako”</em>)</li>
+<li class="fragment">Kultura narzekania</li>
+</ul>
+</section><section id="aktywizacja-schematu" class="slide level2">
+<h2>Aktywizacja schematu</h2>
+<ul>
+<li class="fragment">Schemat może być aktywizowany <strong>percepcyjnie</strong> – zaobserwowaliśmy jakiś obiekt, coś się wydarzyło i z tego powodu aktywizuje się schemat</li>
+<li class="fragment">Może też być aktywizowany <strong>przedpercepcyjnie</strong>, tj. najpierw aktywizuje się schemat, a później dopiero jest stosowany do napływających informacji</li>
+<li class="fragment">Przedpercepcyjna aktywizacja schematu - klasyczne badanie Higginsa (1977) – tekst o Donaldzie</li>
+</ul>
+</section><section class="slide level2">
+
+<p>Donald spędza wiele czasu w poszukiwaniu, jak to nazywa – dreszczyku podniecenia. Już zdobył najwyższy szczyt na kontynencie, przepłynął kajakiem niebezpieczne porohy, jeździł samochodem wyścigowym i pościgową łodzią choć niewiele wie o łodziach. Wiele razy ryzykował zdrowiem, a nawet życiem. Teraz myśli o skokach spadochronowych albo o samotnym przepłynięciu Atlantyku jachtem…</p>
+</section><section class="slide level2">
+
+<p>Ze sposobu postepowania Donalda łatwo odgadnąć jego przekonanie o własnej zdolności do poradzenia sobie z wieloma wyzwaniami. Jego kontakty z ludźmi są – poza życiem zawodowym – dość ograniczone. Kiedy już raz się na coś zdecyduje, dopnie swego, choćby nie wiem co. Rzadko zmienia decyzje, nawet gdyby dla niego samego lepiej było zmienić zdanie.</p>
+</section><section id="jaki-jest-donald" class="slide level2">
+<h2>Jaki jest Donald?</h2>
+<p>Donald spędza wiele czasu w poszukiwaniu, jak to nazywa – dreszczyku podniecenia. Już zdobył najwyższy szczyt na kontynencie, przepłynął kajakiem niebezpieczne porohy, jeździł samochodem wyścigowym i pościgową łodzią choć niewiele wie o łodziach.</p>
+</section><section id="jaki-jest-donald-1" class="slide level2">
+<h2>Jaki jest Donald?</h2>
+<p>Wiele razy ryzykował zdrowiem, a nawet życiem. Teraz myśli o skokach spadochronowych albo o samotnym przepłynięciu Atlantyku jachtem <em>(odważny - lekkomyślny)</em>.</p>
+</section><section id="jaki-jest-donald-2" class="slide level2">
+<h2>Jaki jest Donald?</h2>
+<p>Ze sposobu postepowania Donalda łatwo odgadnąć jego przekonanie o własnej zdolności do poradzenia sobie z wieloma wyzwaniami <em>(pewien siebie – zarozumiały)</em>.</p>
+</section><section id="jaki-jest-donald-3" class="slide level2">
+<h2>Jaki jest Donald?</h2>
+<p>Jego kontakty z ludźmi są – poza życiem zawodowym – dość ograniczone <em>(niezależny – samotnik)</em>.</p>
+</section><section id="jaki-jest-donald-4" class="slide level2">
+<h2>Jaki jest Donald?</h2>
+<p>Kiedy już raz się na coś zdecyduje, dopnie swego, choćby nie wiem co. Rzadko zmienia decyzje, nawet gdyby dla niego samego lepiej było zmienić zdanie <em>(wytrwały – uparty)</em>.</p>
+</section><section id="przedpercepcyjna-aktywizacja-jest-tym-bardziej-prawdopodobna-im" class="slide level2">
+<h2>Przedpercepcyjna aktywizacja jest tym bardziej prawdopodobna, im…</h2>
+<ul>
+<li class="fragment">…silniejsze jest subiektywne oczekiwanie pojawienia się egzemplarzy schematu w otoczeniu</li>
+<li class="fragment">…silniej egzemplarze schematu powiązane są z realizacją celów i motywów podmiotu</li>
+</ul>
+</section><section id="przedpercepcyjna-aktywizacja-jest-tym-bardziej-prawdopodobna-im-1" class="slide level2">
+<h2>Przedpercepcyjna aktywizacja jest tym bardziej prawdopodobna, im…</h2>
+<ul>
+<li class="fragment">…krótszy czas upłynął od poprzedniego zaktywizowania schematu</li>
+<li class="fragment">…częściej dany schemat był aktywizowany w przeszłości</li>
+</ul>
+</section><section id="nieswiadomosc-inaczej---procesy-automatyczne-vs.kontrolowane" class="slide level2">
+<h2>“Nieświadomość” inaczej - procesy automatyczne vs. kontrolowane</h2>
+<ul>
+<li class="fragment">Przetwarzanie <strong>automatyczne</strong>:
+<ul>
+<li class="fragment">Bez intencji podmiotu</li>
+<li class="fragment">W odpowiedzi na pewne bodźce mimo lub wbrew woli podmiotu</li>
+<li class="fragment">Bezwysiłkowe, szybkie i nie pochłania zasobów operacyjnych (uwagi i pamięci roboczej)</li>
+<li class="fragment">Przebiega poza świadomością podmiotu</li>
+</ul></li>
+</ul>
+</section><section id="nieswiadomosc-inaczej---procesy-automatyczne-vs.kontrolowane-1" class="slide level2">
+<h2>“Nieświadomość” inaczej - procesy automatyczne vs. kontrolowane</h2>
+<ul>
+<li class="fragment">Przetwarzanie <strong>kontrolowane</strong>:
+<ul>
+<li class="fragment">intencjonalne</li>
+<li class="fragment">wolicjonalne</li>
+<li class="fragment">powolne</li>
+<li class="fragment">pochłaniające zasoby</li>
+</ul></li>
+</ul>
+</section><section id="nieswiadomosc-inaczej---procesy-automatyczne-vs.kontrolowane-2" class="slide level2">
+<h2>“Nieświadomość” inaczej - procesy automatyczne vs. kontrolowane</h2>
+<ul>
+<li class="fragment">Problem: to nie do końca prawda</li>
+<li class="fragment">Wymiar automatyczności (Chaiken i Trope, 1999) – niektóre procesy są bardziej automatyczne, inne mniej</li>
+</ul>
+</section><section id="przetwarzanie-automatyczne-w-laboratorium--priming" class="slide level2">
+<h2>Przetwarzanie automatyczne w laboratorium- <em>priming</em></h2>
+<ul>
+<li class="fragment"><em>Priming</em> czyli prymowanie</li>
+<li class="fragment">Dwa etapy:
+<ul>
+<li class="fragment">Aktywizacja jakiejś struktury wiedzy za pomocą prymy (primer)</li>
+<li class="fragment">Wykonanie właściwego zadania</li>
+</ul></li>
+</ul>
+</section><section id="przetwarzanie-automatyczne-w-laboratorium--priming-1" class="slide level2">
+<h2>Przetwarzanie automatyczne w laboratorium- <em>priming</em></h2>
+<ul>
+<li class="fragment">Pryma może być świadoma albo nieświadoma (np. bodziec podprogowy)</li>
+<li class="fragment">Badany nie może powiązać prymy z właściwym zadaniem</li>
+<li class="fragment">Przykłady:
+<ul>
+<li class="fragment">badanie Higginsa o Donaldzie</li>
+<li class="fragment">rozsypanki słowne („kota w rzucił Janek kamieniem”)</li>
+<li class="fragment">podprogowe pokazywanie słów, obrazów</li>
+</ul></li>
+</ul>
+</section></section>
+<section><section id="spostrzeganie-swiata-spoecznego" class="titleslide slide level1"><h1>Spostrzeganie świata społecznego</h1></section><section id="the-monkey-business-illusion" class="slide level2">
+<h2>The monkey business illusion</h2>
+<p><a href="https://www.youtube.com/watch?v=IGQmdoK_ZfY" class="uri">https://www.youtube.com/watch?v=IGQmdoK_ZfY</a></p>
+</section><section id="the-monkey-business-illusion-1" class="slide level2">
+<h2>The monkey business illusion</h2>
+<p><img src="img/03/monkey_business.png" alt="Monkey business" /></p>
+</section><section id="the-monkey-business-illusion---warunki" class="slide level2">
+<h2>The monkey business illusion - warunki</h2>
+<ul>
+<li class="fragment">Zadanie łatwe - policz ilość podań</li>
+<li class="fragment">Zadanie trudne - policz osobno ilość podań z kozłem i bez</li>
+</ul>
+</section><section id="the-monkey-business-illusion-2" class="slide level2">
+<h2>The monkey business illusion</h2>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: right;">Warunki</th>
+<th style="text-align: center;">Zadanie łatwe</th>
+<th style="text-align: left;">Zadanie trudne</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: right;">Nieprzezroczyste</td>
+<td style="text-align: center;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">Kobieta</td>
+<td style="text-align: center;">100%</td>
+<td style="text-align: left;">83%</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">Goryl</td>
+<td style="text-align: center;">42%</td>
+<td style="text-align: left;">50%</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">Przezroczyste</td>
+<td style="text-align: center;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">Kobieta</td>
+<td style="text-align: center;">58%</td>
+<td style="text-align: left;">33%</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">Goryl</td>
+<td style="text-align: center;">8%</td>
+<td style="text-align: left;">8%</td>
+</tr>
+</tbody>
+</table>
+</section><section id="section" class="slide level2">
+<h2>?</h2>
+<p><small>Postępowanie jest w istocie zupełnie proste. Przede wszystkim należy poukładać poszczególne pozycje w różne grupy. Oczywiście wystarczyć może tylko jedna grupa, w zależności od tego, jak wiele jest do zrobienia. Ważne jest, aby nie przesadzić. To znaczy lepiej załatwić za jednym razem za mało rzeczy niż za dużo. Na krótką metę może to się wydawać nieważne, ale łatwo tu o komplikacje. Pomyłka może być także kosztowna. Kiedy postępowanie jest już zakończone, należy rzeczy z powrotem poukładać w poszczególne grupy. Potem mogą one zostać odłożone na właściwe miejsce. Niewątpliwie zostaną użyte jeszcze raz i cały cykl znów zostanie powtórzony.</small></p>
+</section><section id="pranie-w-pralce" class="slide level2">
+<h2>Pranie w pralce</h2>
+<p><small>Postępowanie jest w istocie zupełnie proste. Przede wszystkim należy poukładać poszczególne pozycje w różne grupy. Oczywiście wystarczyć może tylko jedna grupa, w zależności od tego, jak wiele jest do zrobienia. Ważne jest, aby nie przesadzić. To znaczy lepiej załatwić za jednym razem za mało rzeczy niż za dużo. Na krótką metę może to się wydawać nieważne, ale łatwo tu o komplikacje. Pomyłka może być także kosztowna. Kiedy postępowanie jest już zakończone, należy rzeczy z powrotem poukładać w poszczególne grupy. Potem mogą one zostać odłożone na właściwe miejsce. Niewątpliwie zostaną użyte jeszcze raz i cały cykl znów zostanie powtórzony.</small></p>
+</section><section id="interpretacja-znaczenia-a-schematy" class="slide level2">
+<h2>Interpretacja znaczenia a schematy</h2>
+<ul>
+<li class="fragment">Mimo użycia zrozumiałych słów i konstrukcji gramatycznych, nie mamy pojęcia czego dotyczy tekst</li>
+<li class="fragment">Zapamiętywanie go poprawia się dwukrotnie, jeśli jest opatrzony nagłówkiem</li>
+</ul>
+</section><section id="pamiec-a-schematy" class="slide level2">
+<h2>Pamięć a schematy</h2>
+<ul>
+<li class="fragment">Generalnie pamiętamy lepiej informacje zgodne ze schematem – efekt zgodności</li>
+<li class="fragment">Pamiętamy też lepiej informacje silnie niezgodne ze schematem (np. „psycholog, który unika ludzi”) – efekt sprzeczności</li>
+</ul>
+</section><section id="pamiec-a-schematy-1" class="slide level2">
+<h2>Pamięć a schematy</h2>
+<ul>
+<li class="fragment">Efekty te są równie silne i przyrastają w momencie, gdy:
+<ul>
+<li class="fragment">Rośnie stopień wykształcenia schematu</li>
+<li class="fragment">Wzrasta obciążenie pamięci</li>
+<li class="fragment">Wydłuża się czas między zapamiętaniem a odtworzeniem materiału</li>
+<li class="fragment">Oba momenty są rozdzielone wykonywaniem innych zadań umysłowych</li>
+</ul></li>
+</ul>
+</section><section id="skrypty-a-regulacja-zachowania-langer-1978" class="slide level2">
+<h2>Skrypty a regulacja zachowania (Langer, 1978)</h2>
+<ul>
+<li class="fragment"><em>„Przepraszam, czy możesz mnie wpuścić bez kolejki? Bardzo się spieszę”</em></li>
+<li class="fragment"><em>„Przepraszam, czy możesz mnie wpuścić bez kolejki? Chciałbym coś skserować”</em></li>
+<li class="fragment"><em>„Przepraszam, czy możesz mnie wpuścić bez kolejki?”</em></li>
+</ul>
+</section><section id="skrypty-a-regulacja-zachowania-langer-1978-1" class="slide level2">
+<h2>Skrypty a regulacja zachowania (Langer, 1978)</h2>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: right;">Prośba</th>
+<th style="text-align: center;">Uzasadnienie</th>
+<th style="text-align: center;"></th>
+<th style="text-align: left;"></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: right;">Prośba</td>
+<td style="text-align: center;">Brak</td>
+<td style="text-align: center;">Pozorne</td>
+<td style="text-align: left;">Rzeczywiste</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">Mała (5 str.)</td>
+<td style="text-align: center;">0.60</td>
+<td style="text-align: center;">0.93</td>
+<td style="text-align: left;">0.94</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">Duża (20 str.)</td>
+<td style="text-align: center;">0.24</td>
+<td style="text-align: center;">0.24</td>
+<td style="text-align: left;">0.42</td>
+</tr>
+</tbody>
+</table>
+</section><section id="skrypty-a-regulacja-zachowania-langer-1978-2" class="slide level2">
+<h2>Skrypty a regulacja zachowania (Langer, 1978)</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Prośba</th>
+<th>Uzasadnienie</th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td>Brak</td>
+<td>Pozorne</td>
+<td>Rzeczywiste</td>
+</tr>
+<tr class="even">
+<td>Mała (5 str.)</td>
+<td>0.60</td>
+<td>0.93</td>
+<td>0.94</td>
+</tr>
+<tr class="odd">
+<td>Duża (20 str.)</td>
+<td>0.24</td>
+<td>0.24</td>
+<td>0.42</td>
+</tr>
+</tbody>
+</table>
+<p>Proporcja osób ulegającej małej bądź dużej prośbie w zależności od rodzaju uzasadnienia</p>
+</section><section id="skrypty-a-regulacja-zachowania-langer-1978-3" class="slide level2">
+<h2>Skrypty a regulacja zachowania (Langer, 1978)</h2>
+<p>Wniosek: dopóki koszty są niewielkie, realizujemy skrypty bezwiednie i bezkrytycznie.</p>
+</section><section id="wyrazistosc" class="slide level2">
+<h2>Wyrazistość</h2>
+<ul>
+<li class="fragment">Osoby wyraziste przyciągają większą uwagę, więc są lepiej pamiętane</li>
+<li class="fragment">Są postrzegane jako wywierające większy wpływ społeczny</li>
+<li class="fragment">Osoby wyraziste są oceniane w bardziej krańcowy sposób (np. jeden kulturalny Rosjanin wśród Polaków będzie postrzegany jako bardziej kulturalny, niż gdy byłby w towarzystwie Rosjan)</li>
+</ul>
+</section></section>
+<section><section id="heurystyki" class="titleslide slide level1"><h1>Heurystyki</h1></section><section id="heurystyki-1" class="slide level2">
+<h2>Heurystyki</h2>
+<ul>
+<li class="fragment">Świat dostarcza potężnych ilości informacji</li>
+<li class="fragment">Heurystyki to umysłowe „drogi na skróty”</li>
+<li class="fragment">Pozwalają rozwiązywać problemy przy użyciu niewielkiej ilości zasobów</li>
+<li class="fragment">Metody rozwiązywania problemów (z matematyki):
+<ul>
+<li class="fragment">Algorytm – trudny, powolny, dużo zasobów, niezawodny</li>
+<li class="fragment">Heurystyka – prosta, szybka, mało zasobów, przeważnie działa</li>
+</ul></li>
+</ul>
+</section><section id="heurystyki-2" class="slide level2">
+<h2>Heurystyki</h2>
+<ul>
+<li class="fragment">Rodzaje heurystyk (Kahnemann i Tversky):
+<ul>
+<li class="fragment">H. dostępności</li>
+<li class="fragment">H. zakotwiczenia-dostosowania</li>
+<li class="fragment">H. reprezentatywności</li>
+</ul></li>
+</ul>
+</section><section id="heurystyka-dostepnosci" class="slide level2">
+<h2>Heurystyka dostępności</h2>
+<ul>
+<li class="fragment">Jeśli przychodzi nam do głowy dużo przykładów na jakieś zjawisko to na pewno jest ono powszechne</li>
+<li class="fragment">Zwykle działa, bo zdarzenia częste są łatwo dostępne pamięciowo</li>
+<li class="fragment">Co jest częstszą przyczyną śmierci w Polsce? Zabójstwo czy samobójstwo?</li>
+<li class="fragment">Co jest bardziej niebezpieczne, podróż samolotem czy jazda na rowerze?</li>
+<li class="fragment">(2014r. – w USA 726 ofiar śmiertelnych wśród rowerzystów, 692 ofiary wypadków lotniczych <em>na całym świecie</em>)</li>
+</ul>
+</section><section id="heurystyka-zakotwiczenia-dostosowania" class="slide level2">
+<h2>Heurystyka zakotwiczenia-dostosowania</h2>
+<ul>
+<li class="fragment">Oceniając wartość liczbową czegoś, obieramy za punkt wyjścia łatwo dostępną liczbę (np. podaną przez kogoś), a następnie modyfikujemy w zależności od kontekstu</li>
+<li class="fragment">Okazuje się, że przy takim szacowaniu mamy tendencję do zawyżania/zaniżania w stronę podanej przez kogoś wartości</li>
+<li class="fragment">Np. cena nieruchomości podawana przez agentów, targowanie się itd..</li>
+</ul>
+</section><section id="heurystyka-reprezentatywnosci" class="slide level2">
+<h2>Heurystyka reprezentatywności</h2>
+<ul>
+<li class="fragment">Oceniamy przynależność jakiegoś obiektu do kategorii na podstawie jego podobieństwa do typowych egzemplarzy kategorii</li>
+<li class="fragment">Może prowadzić do błędów, jeśli np. nie zdajemy sobie sprawy ze struktury populacji (np. efekt kohorty)</li>
+</ul>
+</section><section id="kahnemann-tversky-1973" class="slide level2">
+<h2>Kahnemann &amp; Tversky, 1973</h2>
+<ul>
+<li class="fragment">Opis osoby “losowany” z próby inżynierów i prawników</li>
+<li class="fragment">Dwa rodzaje opisów:
+<ol type="1">
+<li class="fragment"><em>„Dick is a 30 year old man.”</em></li>
+<li class="fragment"><em>„Dick is a 30 year old man. He is married with no children. A man of high ability and high motivation, he promises to be quite successful in his field. He is well liked by his colleagues.”</em></li>
+</ol></li>
+</ul>
+</section><section id="kahnemann-tversky-1973-1" class="slide level2">
+<h2>Kahnemann &amp; Tversky, 1973</h2>
+<ul>
+<li class="fragment">Pytanie - jakie jest prawdopodobieństwo, że Dick jest prawnikiem jeśli:
+<ul>
+<li class="fragment">opis był losowany z próby, gdzie prawników i inżynierów było po równo?</li>
+<li class="fragment">opis był losowany z próby 30 prawników i 70 inżynierów?</li>
+</ul></li>
+</ul>
+</section><section id="kahnemann-tversky-1973-2" class="slide level2">
+<h2>Kahnemann &amp; Tversky, 1973</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Stosunek prawników do inżynierów</th>
+<th>Opis bez informacji</th>
+<th>Opis informatywny</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>50 prawników / 50 inżynierów</td>
+<td>50%</td>
+<td>50%</td>
+</tr>
+<tr class="even">
+<td>30 prawników / 70 inżynierów</td>
+<td>30%</td>
+<td><strong>50%!</strong></td>
+</tr>
+</tbody>
+</table>
+</section></section>
+    </div>
+  </div>
+
+  <script src="reveal_libs/reveal.js-3.3.0.1/lib/js/head.min.js"></script>
+  <script src="reveal_libs/reveal.js-3.3.0.1/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+        // Vertical centering of slides
+        center: true,
+        // Transition style
+        transition: 'default', // none/fade/slide/convex/concave/zoom
+        // Transition style for full page slide backgrounds
+        backgroundTransition: 'default', // none/fade/slide/convex/concave/zoom
+
+
+
+        // Optional reveal.js plugins
+        dependencies: [
+        ]
+      });
+    </script>
+  <!-- dynamically load mathjax for compatibility with self-contained -->
+  <script>
+    (function () {
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+      document.getElementsByTagName("head")[0].appendChild(script);
+    })();
+  </script>
+
+<script>
+  (function() {
+    if (window.jQuery) {
+      Reveal.addEventListener( 'slidechanged', function(event) {  
+        window.jQuery(event.previousSlide).trigger('hidden');
+        window.jQuery(event.currentSlide).trigger('shown');
+      });
+    }
+  })();
+</script>
+
+
+  </body>
+</html>
