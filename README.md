@@ -8,13 +8,15 @@ Pamiętaj, że to co tu znajdujesz ma cały czas status *work in progress* - zda
 Na pewno w wielu miejscach popełniłem jakieś błędy. Jeśli znajdziesz błąd, koniecznie daj mi znać. Najlepiej poprzez stworzenie `issue` na GitHubie albo od razu - `pull request` z proponowanymi zmianami.
 
 ## Wykłady
-1. Wstęp [slajdy](01-wstep.html) [pdf](https://github.com/k-basinski/wdps/blob/master/01-wstep_handout.pdf)
-2. Motywy społeczne [slajdy](02-motywy.html) [pdf](https://github.com/k-basinski/wdps/blob/master/02-motywy_handout.pdf)
-2. Poznanie społeczne [slajdy](03-poznanie.html)
-4. Przekonania społeczne
-4. Spostrzeganie innych ludzi
-4. Spostrzeganie siebie
-5. Wpływ społeczny
-5. Prospołeczność
-5. Agresja
-5. Psychologia międzykulturowa
+Wykład | slajdy | pdf
+---|:---:|:---:
+01 - Wstęp | [slajdy](01-wstep.html) |[pdf](https://github.com/k-basinski/wdps/blob/master/01-wstep_handout.pdf)
+02 - Motywy społeczne |[slajdy](02-motywy.html) | [pdf](https://github.com/k-basinski/wdps/blob/master/02-motywy_handout.pdf)
+03 - Poznanie społeczne | [slajdy](03-poznanie.html) |  [pdf](https://github.com/k-basinski/wdps/blob/master/03-poznanie_handout.pdf)
+04 - Przekonania społeczne | |
+05 Spostrzeganie innych ludzi | |
+06 Spostrzeganie siebie | |
+07 Wpływ społeczny | |
+08 Prospołeczność | |
+09 Agresja | |
+10 Podstawy psychologii międzykulturowej | |
