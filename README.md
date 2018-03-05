@@ -8,9 +8,10 @@ Pamiętaj, że to co tu znajdujesz ma cały czas status *work in progress* - zda
 Na pewno w wielu miejscach popełniłem jakieś błędy. Jeśli znajdziesz błąd, koniecznie daj mi znać. Najlepiej poprzez stworzenie `issue` na GitHubie albo od razu - `pull request` z proponowanymi zmianami.
 
 ## Wykłady
+
 Wykład | slajdy | pdf
----|---|---
-01 - Wstęp | [slajdy](01-wstep.html) |[pdf](https://github.com/k-basinski/wdps/blob/master/01-wstep_handout.pdf)
+------ | -------- | ------
+01 - Wstęp | [slajdy](01-wstep.html) | [pdf](https://github.com/k-basinski/wdps/blob/master/01-wstep_handout.pdf)
 02 - Motywy społeczne |[slajdy](02-motywy.html) | [pdf](https://github.com/k-basinski/wdps/blob/master/02-motywy_handout.pdf)
 03 - Poznanie społeczne | [slajdy](03-poznanie.html) |  [pdf](https://github.com/k-basinski/wdps/blob/master/03-poznanie_handout.pdf)
 04 - Przekonania społeczne | pdf | slajdy
@@ -20,3 +21,4 @@ Wykład | slajdy | pdf
 08 Prospołeczność | pdf | slajdy
 09 Agresja | pdf | slajdy
 10 Podstawy psychologii międzykulturowej | pdf | slajdy
+
