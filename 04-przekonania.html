@@ -1,0 +1,729 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Krzysztof Basiński" />
+  <title>Wprowadzenie do psychologii społecznej - 04 - przekonania społeczne</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="reveal_libs/reveal.js-3.3.0.1/css/reveal.css"/>
+
+
+
+<link rel="stylesheet" href="reveal_libs/reveal.js-3.3.0.1/css/theme/serif.css" id="theme">
+
+
+  <!-- some tweaks to reveal css -->
+  <style type="text/css">
+    .reveal h1 { font-size: 2.0em; }
+    .reveal h2 { font-size: 1.5em;  }
+    .reveal h3 { font-size: 1.25em;	}
+    .reveal h4 { font-size: 1em;	}
+
+    .reveal .slides>section,
+    .reveal .slides>section>section {
+      padding: 0px 0px;
+    }
+
+
+
+    .reveal table {
+      border-width: 1px;
+      border-spacing: 2px;
+      border-style: dotted;
+      border-color: gray;
+      border-collapse: collapse;
+      font-size: 0.7em;
+    }
+
+    .reveal table th {
+      border-width: 1px;
+      padding-left: 10px;
+      padding-right: 25px;
+      font-weight: bold;
+      border-style: dotted;
+      border-color: gray;
+    }
+
+    .reveal table td {
+      border-width: 1px;
+      padding-left: 10px;
+      padding-right: 25px;
+      border-style: dotted;
+      border-color: gray;
+    }
+
+
+  </style>
+
+    <style type="text/css">code{white-space: pre;}</style>
+
+    <link rel="stylesheet" href="reveal_libs/custom_style.css"/>
+
+<!-- Printing and PDF exports -->
+<script id="paper-css" type="application/dynamic-css">
+
+/* Default Print Stylesheet Template
+   by Rob Glazebrook of CSSnewbie.com
+   Last Updated: June 4, 2008
+
+   Feel free (nay, compelled) to edit, append, and
+   manipulate this file as you see fit. */
+
+
+@media print {
+
+	/* SECTION 1: Set default width, margin, float, and
+	   background. This prevents elements from extending
+	   beyond the edge of the printed page, and prevents
+	   unnecessary background images from printing */
+	html {
+		background: #fff;
+		width: auto;
+		height: auto;
+		overflow: visible;
+	}
+	body {
+		background: #fff;
+		font-size: 20pt;
+		width: auto;
+		height: auto;
+		border: 0;
+		margin: 0 5%;
+		padding: 0;
+		overflow: visible;
+		float: none !important;
+	}
+
+	/* SECTION 2: Remove any elements not needed in print.
+	   This would include navigation, ads, sidebars, etc. */
+	.nestedarrow,
+	.controls,
+	.fork-reveal,
+	.share-reveal,
+	.state-background,
+	.reveal .progress,
+	.reveal .backgrounds {
+		display: none !important;
+	}
+
+	/* SECTION 3: Set body font face, size, and color.
+	   Consider using a serif font for readability. */
+	body, p, td, li, div {
+		font-size: 20pt!important;
+		font-family: Georgia, "Times New Roman", Times, serif !important;
+		color: #000;
+	}
+
+	/* SECTION 4: Set heading font face, sizes, and color.
+	   Differentiate your headings from your body text.
+	   Perhaps use a large sans-serif for distinction. */
+	h1,h2,h3,h4,h5,h6 {
+		color: #000!important;
+		height: auto;
+		line-height: normal;
+		font-family: Georgia, "Times New Roman", Times, serif !important;
+		text-shadow: 0 0 0 #000 !important;
+		text-align: left;
+		letter-spacing: normal;
+	}
+	/* Need to reduce the size of the fonts for printing */
+	h1 { font-size: 28pt !important;  }
+	h2 { font-size: 24pt !important; }
+	h3 { font-size: 22pt !important; }
+	h4 { font-size: 22pt !important; font-variant: small-caps; }
+	h5 { font-size: 21pt !important; }
+	h6 { font-size: 20pt !important; font-style: italic; }
+
+	/* SECTION 5: Make hyperlinks more usable.
+	   Ensure links are underlined, and consider appending
+	   the URL to the end of the link for usability. */
+	a:link,
+	a:visited {
+		color: #000 !important;
+		font-weight: bold;
+		text-decoration: underline;
+	}
+	/*
+	.reveal a:link:after,
+	.reveal a:visited:after {
+		content: " (" attr(href) ") ";
+		color: #222 !important;
+		font-size: 90%;
+	}
+	*/
+
+
+	/* SECTION 6: more reveal.js specific additions by @skypanther */
+	ul, ol, div, p {
+		visibility: visible;
+		position: static;
+		width: auto;
+		height: auto;
+		display: block;
+		overflow: visible;
+		margin: 0;
+		text-align: left !important;
+	}
+	.reveal pre,
+	.reveal table {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.reveal pre code {
+		padding: 20px;
+		border: 1px solid #ddd;
+	}
+	.reveal blockquote {
+		margin: 20px 0;
+	}
+	.reveal .slides {
+		position: static !important;
+		width: auto !important;
+		height: auto !important;
+
+		left: 0 !important;
+		top: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		padding: 0 !important;
+		zoom: 1 !important;
+
+		overflow: visible !important;
+		display: block !important;
+
+		text-align: left !important;
+		-webkit-perspective: none;
+		   -moz-perspective: none;
+		    -ms-perspective: none;
+		        perspective: none;
+
+		-webkit-perspective-origin: 50% 50%;
+		   -moz-perspective-origin: 50% 50%;
+		    -ms-perspective-origin: 50% 50%;
+		        perspective-origin: 50% 50%;
+	}
+	.reveal .slides section {
+		visibility: visible !important;
+		position: static !important;
+		width: auto !important;
+		height: auto !important;
+		display: block !important;
+		overflow: visible !important;
+
+		left: 0 !important;
+		top: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		padding: 60px 20px !important;
+		z-index: auto !important;
+
+		opacity: 1 !important;
+
+		page-break-after: always !important;
+
+		-webkit-transform-style: flat !important;
+		   -moz-transform-style: flat !important;
+		    -ms-transform-style: flat !important;
+		        transform-style: flat !important;
+
+		-webkit-transform: none !important;
+		   -moz-transform: none !important;
+		    -ms-transform: none !important;
+		        transform: none !important;
+
+		-webkit-transition: none !important;
+		   -moz-transition: none !important;
+		    -ms-transition: none !important;
+		        transition: none !important;
+	}
+	.reveal .slides section.stack {
+		padding: 0 !important;
+	}
+	.reveal section:last-of-type {
+		page-break-after: avoid !important;
+	}
+	.reveal section .fragment {
+		opacity: 1 !important;
+		visibility: visible !important;
+
+		-webkit-transform: none !important;
+		   -moz-transform: none !important;
+		    -ms-transform: none !important;
+		        transform: none !important;
+	}
+	.reveal section img {
+		display: block;
+		margin: 15px 0px;
+		background: rgba(255,255,255,1);
+		border: 1px solid #666;
+		box-shadow: none;
+	}
+
+	.reveal section small {
+		font-size: 0.8em;
+	}
+
+}  
+</script>
+
+
+<script id="pdf-css" type="application/dynamic-css">
+    
+/**
+ * This stylesheet is used to print reveal.js
+ * presentations to PDF.
+ *
+ * https://github.com/hakimel/reveal.js#pdf-export
+ */
+
+* {
+	-webkit-print-color-adjust: exact;
+}
+
+body {
+	margin: 0 auto !important;
+	border: 0;
+	padding: 0;
+	float: none !important;
+	overflow: visible;
+}
+
+html {
+	width: 100%;
+	height: 100%;
+	overflow: visible;
+}
+
+/* Remove any elements not needed in print. */
+.nestedarrow,
+.reveal .controls,
+.reveal .progress,
+.reveal .playback,
+.reveal.overview,
+.fork-reveal,
+.share-reveal,
+.state-background {
+	display: none !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-shadow: 0 0 0 #000 !important;
+}
+
+.reveal pre code {
+	overflow: hidden !important;
+	font-family: Courier, 'Courier New', monospace !important;
+}
+
+ul, ol, div, p {
+	visibility: visible;
+	position: static;
+	width: auto;
+	height: auto;
+	display: block;
+	overflow: visible;
+	margin: auto;
+}
+.reveal {
+	width: auto !important;
+	height: auto !important;
+	overflow: hidden !important;
+}
+.reveal .slides {
+	position: static;
+	width: 100%;
+	height: auto;
+
+	left: auto;
+	top: auto;
+	margin: 0 !important;
+	padding: 0 !important;
+
+	overflow: visible;
+	display: block;
+
+	-webkit-perspective: none;
+	   -moz-perspective: none;
+	    -ms-perspective: none;
+	        perspective: none;
+
+	-webkit-perspective-origin: 50% 50%; /* there isn't a none/auto value but 50-50 is the default */
+	   -moz-perspective-origin: 50% 50%;
+	    -ms-perspective-origin: 50% 50%;
+	        perspective-origin: 50% 50%;
+}
+
+.reveal .slides section {
+	page-break-after: always !important;
+
+	visibility: visible !important;
+	position: relative !important;
+	display: block !important;
+	position: relative !important;
+
+	margin: 0 !important;
+	padding: 0 !important;
+	box-sizing: border-box !important;
+	min-height: 1px;
+
+	opacity: 1 !important;
+
+	-webkit-transform-style: flat !important;
+	   -moz-transform-style: flat !important;
+	    -ms-transform-style: flat !important;
+	        transform-style: flat !important;
+
+	-webkit-transform: none !important;
+	   -moz-transform: none !important;
+	    -ms-transform: none !important;
+	        transform: none !important;
+}
+
+.reveal section.stack {
+	margin: 0 !important;
+	padding: 0 !important;
+	page-break-after: avoid !important;
+	height: auto !important;
+	min-height: auto !important;
+}
+
+.reveal img {
+	box-shadow: none;
+}
+
+.reveal .roll {
+	overflow: visible;
+	line-height: 1em;
+}
+
+/* Slide backgrounds are placed inside of their slide when exporting to PDF */
+.reveal section .slide-background {
+	display: block !important;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: -1;
+}
+
+/* All elements should be above the slide-background */
+.reveal section>* {
+	position: relative;
+	z-index: 1;
+}
+
+/* Display slide speaker notes when 'showNotes' is enabled */
+.reveal .speaker-notes-pdf {
+	display: block;
+	width: 100%;
+	max-height: none;
+	left: auto;
+	top: auto;
+	z-index: 100;
+}
+
+/* Display slide numbers when 'slideNumber' is enabled */
+.reveal .slide-number-pdf {
+	display: block;
+	position: absolute;
+	font-size: 14px;
+}
+
+</script>
+
+
+<script>
+var style = document.createElement( 'style' );
+style.type = 'text/css';
+var style_script_id = window.location.search.match( /print-pdf/gi ) ? 'pdf-css' : 'paper-css';
+var style_script = document.getElementById(style_script_id).text;
+style.innerHTML = style_script;
+document.getElementsByTagName('head')[0].appendChild(style);
+</script>
+
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section>
+    <h1 class="title">Wprowadzenie do psychologii społecznej - 04 - przekonania społeczne</h1>
+    <h2 class="author">Krzysztof Basiński</h2>
+</section>
+
+<section><section id="przekonania-spoeczne" class="titleslide slide level1"><h1>Przekonania społeczne</h1></section><section id="przekonania-zdroworozsadkowe-i-ich-prawdziwosc" class="slide level2">
+<h2>Przekonania zdroworozsądkowe i ich prawdziwość</h2>
+<ul>
+<li class="fragment">Badania dotyczące wprowadzenia euro w Niemczech</li>
+<li class="fragment">Powszechne przekonanie o wzroście cen, którego nie odzwierciedlały dane ekonomiczne</li>
+<li class="fragment">Menu w restauracji w markach i euro:
+<ul>
+<li class="fragment">badani twierdzili, że w euro jest drożej pomimo, że w przeliczeniu było tak samo</li>
+<li class="fragment">twierdzili, że jest tak samo, jeżeli w przeliczeniu było 15% taniej</li>
+</ul></li>
+</ul>
+</section><section id="przekonania-o-swiecie-spoecznym-a-egzamin-na-prawo-jazdy-wojciszke-barya-rozycka-2009" class="slide level2">
+<h2>Przekonania o świecie społecznym a egzamin na prawo jazdy (Wojciszke, Baryła, Różycka, 2009)</h2>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: right;">Przekonanie</th>
+<th style="text-align: right;">Oblany egz.</th>
+<th style="text-align: right;">Brak egz.</th>
+<th style="text-align: right;">Zdany egz.</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: right;">Zaufanie społ.</td>
+<td style="text-align: right;">3,41</td>
+<td style="text-align: right;">4,44</td>
+<td style="text-align: right;">5,44</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">Niesprawiedliwość</td>
+<td style="text-align: right;">5,81</td>
+<td style="text-align: right;">4,85</td>
+<td style="text-align: right;">3,60</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">Wiara w grę</td>
+<td style="text-align: right;">4,82</td>
+<td style="text-align: right;">3,37</td>
+<td style="text-align: right;">2,53</td>
+</tr>
+</tbody>
+</table>
+</section><section id="zaufanie-spoeczne" class="slide level2">
+<h2>Zaufanie społeczne</h2>
+<ul>
+<li class="fragment">Kapitał społeczny – pojęcie socjologiczne, sieć formalnych i nieformalnych więzi międzyludzkich opartych na zobowiązaniach i wzajemności</li>
+<li class="fragment">Kapitał społeczny jest fajny bo sprzyja rozwojowi społ. obywatelskiego i produktywności ekonomicznej</li>
+<li class="fragment">Kluczowym składnikiem kapitału społecznego jest <strong>zaufanie</strong> – przekonanie, że większość osób jest uczciwa, pomocna oraz godna zaufania, a intencjonalne działania innych ludzi przyniosą wynik po naszej myśli (Misztal, 1996)</li>
+</ul>
+</section><section id="dobroczynne-efekty-zaufania-spoecznego" class="slide level2">
+<h2>Dobroczynne efekty zaufania społecznego</h2>
+<ul>
+<li class="fragment">Zadowolenie z demokracji</li>
+<li class="fragment">Działalność na rzecz bezpośredniego otoczenia społecznego</li>
+<li class="fragment">Wzrost frekwencji wyborczej</li>
+<li class="fragment">Wspieranie dobroczynności</li>
+<li class="fragment">Zawieranie większej liczby przyjaźni</li>
+<li class="fragment">Niższa liczba zabójstw</li>
+<li class="fragment">Wyższy poziom twórczości</li>
+</ul>
+</section><section id="pomiar-zaufania---3-itemy" class="slide level2">
+<h2>Pomiar zaufania - 3 itemy</h2>
+<ul>
+<li class="fragment"><em>Ogólnie rzecz biorąc, czy uważasz, że większości ludzi można ufać, czy raczej być ostrożnym w kontaktach z ludźmi?</em></li>
+<li class="fragment"><em>Czy uważasz, że większość ludzi próbowałaby cię wykorzystać czy raczej próbowałaby być uczciwa?</em></li>
+<li class="fragment"><em>Czy uważasz, że zazwyczaj ludzie starają się być pomocni, czy raczej troszczą się jedynie o samych siebie?</em></li>
+</ul>
+</section><section id="zaufanie-a-sprawa-polska" class="slide level2">
+<h2>Zaufanie a sprawa polska</h2>
+<ul>
+<li class="fragment">Polacy konsekwentnie w ”ogonie” wśród krajów europejskich pod względem zaufania, 34% odpowiada że należy być ostrożnym w kontaktach z ludźmi, w Norwegii 4%</li>
+</ul>
+</section><section id="zaufanie-a-sprawa-polska-1" class="slide level2">
+<h2>Zaufanie a sprawa polska</h2>
+<ul>
+<li class="fragment">Trzy możliwe powody (Skarżyńska, 2005):
+<ul>
+<li class="fragment">Materializm – przyjęcie ”zachodnich” wzorców konsumpcji przy jednocześnie niższej majętności</li>
+<li class="fragment">Doświadczenia historyczne generujące nieufność – komunizm</li>
+<li class="fragment">Kolektywistyczna kultura – <em>„kolektywistyczne społeczeństwo tworzy bezpieczeństwo ale niszczy zaufanie”</em> (Yamagishi, 1998)</li>
+</ul></li>
+</ul>
+</section><section id="cynizm-spoeczny" class="slide level2">
+<h2>Cynizm społeczny</h2>
+<ul>
+<li class="fragment">Cynizm społeczny – negatywny pogląd na ludzką naturę, ludzie łatwo ulegają deprawacji pod wpływem władzy, są egoistyczni, leniwi i lekceważą zasady etyczne</li>
+<li class="fragment">Jeden z wymiarów aksjomatów kultury (Bong i Leung, 2002)</li>
+<li class="fragment">Poziom cynizmu jest istotnie wyższy w krajach postkomunistycznych</li>
+<li class="fragment">Cynizm skutkiem kłamliwości propagandy komunistycznej, np. grabież mienia prywatnego nazywano realizacją ideałów sprawiedliwości społecznej (Boski)</li>
+</ul>
+</section><section id="zycie-jako-gra-o-sumie-zerowej" class="slide level2">
+<h2>Życie jako gra o sumie zerowej</h2>
+<ul>
+<li class="fragment">Jeśli ktoś zyskał, ktoś inny musiał stracić</li>
+<li class="fragment">Interesy ludzi są antagonistyczne – „człowiek człowiekowi wilkiem”</li>
+<li class="fragment">Istotny związek z biedą (ujemna korelacja z PKB per capita)</li>
+<li class="fragment">Charakterystyczna dla „poczucia bycia przegranym”</li>
+</ul>
+</section><section id="przekonania-o-staosci-ludzkich-cech-carol-dweck" class="slide level2">
+<h2>Przekonania o stałości ludzkich cech (Carol Dweck)</h2>
+<ul>
+<li class="fragment">Czy ludzie się zmieniają?</li>
+<li class="fragment">Ok. 40% ludzi uważa, że nie. Ok. 40% uważa, że ludzie się zmieniają lub „wzrastają”</li>
+<li class="fragment">Konsekwencje dla samoregulacji</li>
+<li class="fragment">Przekonanie o stałości inteligencji wiąże się z gorszym znoszeniem porażek</li>
+</ul>
+</section><section id="przekonania-o-staosci-ludzkich-cech-carol-dweck-1" class="slide level2">
+<h2>Przekonania o stałości ludzkich cech (Carol Dweck)</h2>
+<ul>
+<li class="fragment">Przekonanie o stałości inteligencji można indukować chwilowo, eksperymentalnie (przeczytanie artykułu o stałości/zmienności inteligencji)</li>
+<li class="fragment">W sytuacji bardzo trudnego zdania osoby przekonywane o stałości inteligencji preferowały obronę zagrożonej samooceny</li>
+</ul>
+</section><section id="przekonania-o-staosci-ludzkich-cech-carol-dweck-2" class="slide level2">
+<h2>Przekonania o stałości ludzkich cech (Carol Dweck)</h2>
+<ul>
+<li class="fragment">Stałość cech wiąże się z częstszym popadaniem w podstawowy błąd atrybucji</li>
+<li class="fragment"><strong>Podstawowy błąd atrybucji</strong> – przekonanie, że zachowanie ludzi jest zdeterminowane ich cechami charakteru a nie sytuacją, w jakiej się znaleźli</li>
+<li class="fragment">Stałość cech wiąże się z częstszym stosowaniem stereotypów</li>
+</ul>
+</section><section id="autorytaryzm" class="slide level2">
+<h2>Autorytaryzm</h2>
+<ul>
+<li class="fragment"><p>pojęcie pojawiło się w latach 30tych XX wieku, związane z pojawieniem się faszyzmu</p></li>
+<li class="fragment"><p>Osobowość autorytarna (Adorno, 1950) - podłożem przyjmowania ideologii faszystowskiej osobowość autorytarna, będąca skutkiem wychowania w patriarchalnej rodzinie z silnie dominującym ojcem, wymuszającym bezwzględne posłuszeństwo</p></li>
+<li class="fragment"><p>Teoria piękna, ale bez poparcia empirycznego - dzieci „surowo” wychowywane wcale nie mają większej skłonności do autorytaryzmu</p></li>
+</ul>
+</section><section id="autorytaryzm-badania-altemayera-1981-1996" class="slide level2">
+<h2>Autorytaryzm – badania Altemayera (1981, 1996)</h2>
+<ul>
+<li class="fragment">Skala Autorytaryzmu Prawicowego (RWA) – trzy rodzaje treści:
+<ul>
+<li class="fragment">autorytarna uległość – bezwzględne ufanie i podporządkowywanie się uznanym autorytetom i władzom (także przekonanie, że jedną z najważniejszy wartości jakie należy wpajać dzieciom jest posłuszeństwo)</li>
+</ul></li>
+</ul>
+</section><section id="autorytaryzm-badania-altemayera-1981-1996-1" class="slide level2">
+<h2>Autorytaryzm – badania Altemayera (1981, 1996)</h2>
+<ul>
+<li class="fragment">Skala Autorytaryzmu Prawicowego (RWA) – trzy rodzaje treści:
+<ul>
+<li class="fragment">autorytarna agresja – narzucanie innym pod przymusem własnych poglądów, karanie ludzi o poglądach odmiennych (dotyczy przede wszystkim ”odmieńców” łamiących normy społeczne, religijne czy seksualne)</li>
+</ul></li>
+</ul>
+</section><section id="autorytaryzm-badania-altemayera-1981-1996-2" class="slide level2">
+<h2>Autorytaryzm – badania Altemayera (1981, 1996)</h2>
+<ul>
+<li class="fragment">Skala Autorytaryzmu Prawicowego (RWA) – trzy rodzaje treści:
+<ul>
+<li class="fragment">konwencjonalizm – silna wiara i zaangażowanie w tradycyjne normy; ci, którzy się sprzeciwiają tym normom uważani są za grzesznych i godnych potępienia</li>
+</ul></li>
+</ul>
+</section><section id="autorytaryzm-badania-altemayera-1981-1996-3" class="slide level2">
+<h2>Autorytaryzm – badania Altemayera (1981, 1996)</h2>
+<ul>
+<li class="fragment">Silne korelacje RWA z konformizmem, zamiłowaniem do porządku, religijnością, uprzedzeniami do mniejszości</li>
+<li class="fragment">Związki z lękiem i poczuciem zagrożenia</li>
+<li class="fragment">Dogmatyzm – osobowościowo uwarunkowana sztywność poglądów (Rokeach, 1960)</li>
+</ul>
+</section><section id="orientacja-na-dominacje-spoeczna-sdo-sidanius-i-pratto-1999" class="slide level2">
+<h2>Orientacja na dominację społeczną (SDO, Sidanius i Pratto, 1999)</h2>
+<ul>
+<li class="fragment"><strong>SDO</strong> – ogólna skłonność do uważania nierówności międzygrupowych za uzasadnione i pożądane</li>
+<li class="fragment">Pewne grupy są więc nadrzędne i dominujące nad innymi</li>
+<li class="fragment">Przeciwieństwem - orientacja równościowa</li>
+</ul>
+</section><section id="przykadowe-pytania-ze-skali-sdo" class="slide level2">
+<h2>Przykładowe pytania ze skali SDO:</h2>
+<ul>
+<li class="fragment"><em>Pewne grupy ludzi są po prostu gorsze od innych</em></li>
+<li class="fragment"><em>Mielibyśmy mniej problemów, gdyby niektóre grupy pozostały na swoich miejscach</em></li>
+<li class="fragment"><em>Aby życie posuwało się do przodu, trzeba czasami niektórym grupom nadepnąć na odciski</em></li>
+<li class="fragment"><em>Żadna grupa nie powinna dominować w życiu społecznym</em> (*)</li>
+</ul>
+</section><section id="wiara-w-sprawiedliwosc-swiata" class="slide level2">
+<h2>Wiara w sprawiedliwość świata</h2>
+<ul>
+<li class="fragment">Skala Sprawiedliwego Świata (Rubin, Peplau, 1975):</li>
+<li class="fragment"><em>„Zasadniczo świat jest sprawiedliwym miejscem”</em></li>
+<li class="fragment"><em>”Ludzie na ogół dostają to, na co sobie zasłużyli”</em></li>
+</ul>
+</section><section id="wiara-w-sprawiedliwosc-swiata-1" class="slide level2">
+<h2>Wiara w sprawiedliwość świata</h2>
+<ul>
+<li class="fragment">Wiara w sprawiedliwość świata służyć może legitymizacji porządku społecznego – korelacja wiary w sprawiedliwość świata z rozwarstwieniem dochodów w USA</li>
+<li class="fragment">Mity usprawiedliwiające system – american dream, „od pucybuta do milionera”</li>
+<li class="fragment">Polscy studenci dużo mniej wierzą w sprawiedliwy świat</li>
+</ul>
+</section><section id="kultura-narzekania" class="slide level2">
+<h2>Kultura narzekania</h2>
+<ul>
+<li class="fragment">Trzy elementy składowe:
+<ul>
+<li class="fragment">Norma negatywnego myślenia o świecie społecznym</li>
+<li class="fragment">Norma negatywnego samopoczucia</li>
+<li class="fragment">Skrypty narzekania</li>
+</ul></li>
+<li class="fragment">Funkcja relacyjna – narzekanie służy budowaniu i podtrzymywaniu więzi społecznych</li>
+</ul>
+</section><section id="teoria-opanowywania-trwogi-terror-management-theory-greenberg-solomon-pyszczynski-1997" class="slide level2">
+<h2>Teoria opanowywania trwogi (<em>Terror Management Theory</em>, Greenberg, Solomon, Pyszczynski, 1997)</h2>
+<ul>
+<li class="fragment">Ludzie zdają sobie sprawę z nieuchronności własnej śmierci</li>
+<li class="fragment">Z tego powodu wykształciły się dwie (uniwersalne) adaptacje:
+<ul>
+<li class="fragment">światopogląd – poprzez treści kulturowe i religijne, pozwalające chronić się przed śmiertelną trwogą (np. obietnice życia wiecznego w większości religii)</li>
+<li class="fragment">życie zgodnie ze światopoglądem jest źródłem podwyższania samooceny</li>
+</ul></li>
+</ul>
+</section><section id="teoria-opanowywania-trwogi-terror-management-theory-greenberg-solomon-pyszczynski-1997-1" class="slide level2">
+<h2>Teoria opanowywania trwogi (<em>Terror Management Theory</em>, Greenberg, Solomon, Pyszczynski, 1997)</h2>
+<ul>
+<li class="fragment">Wg. TMT myśli o śmierci nasilają akceptację światopoglądu własnego i jednocześnie odrzucanie światopoglądów cudzych</li>
+</ul>
+</section><section id="wymiary-pogladow-politycznych-p.boski" class="slide level2">
+<h2>Wymiary poglądów politycznych (P.Boski)</h2>
+<ul>
+<li class="fragment">Dwa wymiary prawicowości vs. lewicowości:</li>
+<li class="fragment">Wymiar ekonomiczny (liberalizm ekonomiczny vs. kontrola państwa nad gospodarką, interwencjonizm, polityka socjalna)</li>
+<li class="fragment">Wymiar tożsamościowy (wartości tradycyjne, w Polsce katolickie, vs. swoboda obyczajowa, otwartość na nowość i odmienność)</li>
+<li class="fragment">Np. w Polsce o uznaniu za prawicowca/lewicowca decydują tylko poglądy tożsamościowe</li>
+</ul>
+</section></section>
+    </div>
+  </div>
+
+  <script src="reveal_libs/reveal.js-3.3.0.1/lib/js/head.min.js"></script>
+  <script src="reveal_libs/reveal.js-3.3.0.1/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+        // Vertical centering of slides
+        center: true,
+        // Transition style
+        transition: 'default', // none/fade/slide/convex/concave/zoom
+        // Transition style for full page slide backgrounds
+        backgroundTransition: 'default', // none/fade/slide/convex/concave/zoom
+
+
+
+        // Optional reveal.js plugins
+        dependencies: [
+        ]
+      });
+    </script>
+  <!-- dynamically load mathjax for compatibility with self-contained -->
+  <script>
+    (function () {
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+      document.getElementsByTagName("head")[0].appendChild(script);
+    })();
+  </script>
+
+<script>
+  (function() {
+    if (window.jQuery) {
+      Reveal.addEventListener( 'slidechanged', function(event) {  
+        window.jQuery(event.previousSlide).trigger('hidden');
+        window.jQuery(event.currentSlide).trigger('shown');
+      });
+    }
+  })();
+</script>
+
+
+  </body>
+</html>

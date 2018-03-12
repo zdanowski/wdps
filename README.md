@@ -14,7 +14,7 @@ Wykład | slajdy | pdf
 01 - Wstęp | [slajdy](01-wstep.html) | [pdf](https://github.com/k-basinski/wdps/blob/master/01-wstep_handout.pdf)
 02 - Motywy społeczne |[slajdy](02-motywy.html) | [pdf](https://github.com/k-basinski/wdps/blob/master/02-motywy_handout.pdf)
 03 - Poznanie społeczne | [slajdy](03-poznanie.html) |  [pdf](https://github.com/k-basinski/wdps/blob/master/03-poznanie_handout.pdf)
-04 - Przekonania społeczne | pdf | slajdy
+04 - Przekonania społeczne | [slajdy](04-przekonania.html) |  [pdf](https://github.com/k-basinski/wdps/blob/master/04-przekonania_handout.pdf)
 05 - Spostrzeganie innych ludzi | pdf | slajdy
 06 - Spostrzeganie siebie | pdf | slajdy
 07 - Wpływ społeczny | pdf | slajdy

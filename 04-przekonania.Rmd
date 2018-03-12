@@ -1,0 +1,158 @@
+---
+title: "Wprowadzenie do psychologii społecznej - 04 - przekonania społeczne"
+author: "Krzysztof Basiński"
+output:
+  revealjs::revealjs_presentation:
+    variant: markdown+multiline_tables
+    theme: serif
+    center: true
+    incremental: true
+    self_contained: false
+    lib_dir: reveal_libs
+    css: reveal_libs/custom_style.css
+---
+
+# Przekonania społeczne
+
+## Przekonania zdroworozsądkowe i ich prawdziwość
+- Badania dotyczące wprowadzenia euro w Niemczech
+- Powszechne przekonanie o wzroście cen, którego nie odzwierciedlały dane ekonomiczne
+- Menu w restauracji w markach i euro: 
+    + badani twierdzili, że w euro jest drożej pomimo, że w przeliczeniu było tak samo
+    + twierdzili, że jest tak samo, jeżeli w przeliczeniu było 15% taniej
+
+## Przekonania o świecie społecznym a egzamin na prawo jazdy (Wojciszke, Baryła, Różycka, 2009)
+
+Przekonanie | Oblany egz. | Brak egz. | Zdany egz.
+---:|---:|---:|---:
+Zaufanie społ. |	3,41	| 4,44	| 5,44
+Niesprawiedliwość	| 5,81	| 4,85	| 3,60
+Wiara w grę	| 4,82	| 3,37	| 2,53
+
+## Zaufanie społeczne
+
+- Kapitał społeczny – pojęcie socjologiczne, sieć formalnych i nieformalnych więzi międzyludzkich opartych na zobowiązaniach i wzajemności
+- Kapitał społeczny jest fajny bo sprzyja rozwojowi społ. obywatelskiego i produktywności ekonomicznej
+- Kluczowym składnikiem kapitału społecznego jest **zaufanie** – przekonanie, że większość osób jest uczciwa, pomocna oraz godna zaufania, a intencjonalne działania innych ludzi przyniosą wynik po naszej myśli (Misztal, 1996)
+
+## Dobroczynne efekty zaufania społecznego
+- Zadowolenie z demokracji
+- Działalność na rzecz bezpośredniego otoczenia społecznego
+- Wzrost frekwencji wyborczej
+- Wspieranie dobroczynności
+- Zawieranie większej liczby przyjaźni
+- Niższa liczba zabójstw
+- Wyższy poziom twórczości
+
+## Pomiar zaufania - 3 itemy
+- *Ogólnie rzecz biorąc, czy uważasz, że większości ludzi można ufać, czy raczej być ostrożnym w kontaktach z ludźmi?*
+- *Czy uważasz, że większość ludzi próbowałaby cię wykorzystać czy raczej próbowałaby być uczciwa?*
+- *Czy uważasz, że zazwyczaj ludzie starają się być pomocni, czy raczej troszczą się jedynie o samych siebie?*
+
+## Zaufanie a sprawa polska
+- Polacy konsekwentnie w ”ogonie” wśród krajów europejskich pod względem zaufania, 34% odpowiada że należy być ostrożnym w kontaktach z ludźmi, w Norwegii 4%
+
+
+## Zaufanie a sprawa polska
+- Trzy możliwe powody (Skarżyńska, 2005):
+    + Materializm – przyjęcie ”zachodnich” wzorców konsumpcji przy jednocześnie niższej majętności
+    + Doświadczenia historyczne generujące nieufność – komunizm
+    + Kolektywistyczna kultura – *„kolektywistyczne społeczeństwo tworzy bezpieczeństwo ale niszczy zaufanie”* (Yamagishi, 1998)
+
+## Cynizm społeczny
+- Cynizm społeczny – negatywny pogląd na ludzką naturę, ludzie łatwo ulegają deprawacji pod wpływem władzy, są egoistyczni, leniwi i lekceważą zasady etyczne
+- Jeden z wymiarów aksjomatów kultury (Bong i Leung, 2002)
+- Poziom cynizmu jest istotnie wyższy w krajach postkomunistycznych
+- Cynizm skutkiem kłamliwości propagandy komunistycznej, np. grabież mienia prywatnego nazywano realizacją ideałów sprawiedliwości społecznej (Boski)
+
+## Życie jako gra o sumie zerowej
+- Jeśli ktoś zyskał, ktoś inny musiał stracić
+- Interesy ludzi są antagonistyczne – „człowiek człowiekowi wilkiem”
+- Istotny związek z biedą (ujemna korelacja z PKB per capita)
+- Charakterystyczna dla „poczucia bycia przegranym”
+
+## Przekonania o stałości ludzkich cech (Carol Dweck)
+- Czy ludzie się zmieniają?
+- Ok. 40% ludzi uważa, że nie. Ok. 40% uważa, że ludzie się zmieniają lub „wzrastają”
+- Konsekwencje dla samoregulacji
+- Przekonanie o stałości inteligencji wiąże się z gorszym znoszeniem porażek
+
+## Przekonania o stałości ludzkich cech (Carol Dweck)
+- Przekonanie o stałości inteligencji można indukować chwilowo, eksperymentalnie (przeczytanie artykułu o stałości/zmienności inteligencji)
+- W sytuacji bardzo trudnego zdania osoby przekonywane o stałości inteligencji preferowały obronę zagrożonej samooceny
+
+## Przekonania o stałości ludzkich cech (Carol Dweck)
+- Stałość cech wiąże się z częstszym popadaniem w podstawowy błąd atrybucji
+- **Podstawowy błąd atrybucji** – przekonanie, że zachowanie ludzi jest zdeterminowane ich cechami charakteru a nie sytuacją, w jakiej się znaleźli
+- Stałość cech wiąże się z częstszym stosowaniem stereotypów
+
+
+## Autorytaryzm
+
+- pojęcie pojawiło się w latach 30tych XX wieku, związane z pojawieniem się faszyzmu
+
+- Osobowość autorytarna (Adorno, 1950) -  podłożem przyjmowania ideologii faszystowskiej osobowość autorytarna, będąca skutkiem wychowania w patriarchalnej rodzinie z silnie dominującym ojcem, wymuszającym bezwzględne posłuszeństwo
+
+- Teoria piękna, ale bez poparcia empirycznego -  dzieci „surowo” wychowywane wcale nie mają większej skłonności do autorytaryzmu
+
+## Autorytaryzm – badania Altemayera (1981, 1996)
+- Skala Autorytaryzmu Prawicowego (RWA) – trzy rodzaje treści:
+    + autorytarna uległość – bezwzględne ufanie i podporządkowywanie się uznanym autorytetom i władzom (także przekonanie, że jedną z najważniejszy wartości jakie należy wpajać dzieciom jest posłuszeństwo)
+    
+## Autorytaryzm – badania Altemayera (1981, 1996)
+- Skala Autorytaryzmu Prawicowego (RWA) – trzy rodzaje treści:
+    + autorytarna agresja – narzucanie innym pod przymusem własnych poglądów, karanie ludzi o poglądach odmiennych (dotyczy przede wszystkim ”odmieńców” łamiących normy społeczne, religijne czy seksualne)
+    
+## Autorytaryzm – badania Altemayera (1981, 1996)
+- Skala Autorytaryzmu Prawicowego (RWA) – trzy rodzaje treści:
+    + konwencjonalizm – silna wiara i zaangażowanie w tradycyjne normy; ci, którzy się sprzeciwiają tym normom uważani są za grzesznych i godnych potępienia
+    
+ 
+## Autorytaryzm – badania Altemayera (1981, 1996)
+- Silne korelacje RWA z konformizmem, zamiłowaniem do porządku, religijnością, uprzedzeniami do mniejszości
+- Związki z lękiem i poczuciem zagrożenia
+- Dogmatyzm – osobowościowo uwarunkowana sztywność poglądów (Rokeach, 1960)
+
+## Orientacja na dominację społeczną (SDO, Sidanius i Pratto, 1999)
+- **SDO** – ogólna skłonność do uważania nierówności międzygrupowych za uzasadnione i pożądane
+- Pewne grupy są więc nadrzędne i dominujące nad innymi
+- Przeciwieństwem - orientacja równościowa
+
+## Przykładowe pytania ze skali SDO:
+- *Pewne grupy ludzi są po prostu gorsze od innych*
+- *Mielibyśmy mniej problemów, gdyby niektóre grupy pozostały na swoich miejscach*
+- *Aby życie posuwało się do przodu, trzeba czasami niektórym grupom nadepnąć na odciski*
+- *Żadna grupa nie powinna dominować w życiu społecznym* (*)
+
+## Wiara w sprawiedliwość świata
+- Skala Sprawiedliwego Świata (Rubin, Peplau, 1975):
+- *„Zasadniczo świat jest sprawiedliwym miejscem”*
+- *”Ludzie na ogół dostają to, na co sobie zasłużyli”*
+
+## Wiara w sprawiedliwość świata
+- Wiara w sprawiedliwość świata służyć może legitymizacji porządku społecznego – korelacja wiary w sprawiedliwość świata z rozwarstwieniem dochodów w USA
+- Mity usprawiedliwiające system – american dream, „od pucybuta do milionera”
+- Polscy studenci dużo mniej wierzą w sprawiedliwy świat
+
+## Kultura narzekania
+- Trzy elementy składowe:
+    + Norma negatywnego myślenia o świecie społecznym
+    + Norma negatywnego samopoczucia
+    + Skrypty narzekania
+- Funkcja relacyjna – narzekanie służy budowaniu i podtrzymywaniu więzi społecznych
+
+## Teoria opanowywania trwogi (*Terror Management Theory*, Greenberg, Solomon, Pyszczynski, 1997)
+- Ludzie zdają sobie sprawę z nieuchronności własnej śmierci
+- Z tego powodu wykształciły się dwie (uniwersalne) adaptacje:
+    + światopogląd – poprzez treści kulturowe i religijne, pozwalające chronić się przed śmiertelną trwogą (np. obietnice życia wiecznego w większości religii)
+    + życie zgodnie ze światopoglądem jest źródłem podwyższania samooceny
+
+## Teoria opanowywania trwogi (*Terror Management Theory*, Greenberg, Solomon, Pyszczynski, 1997)
+- Wg. TMT myśli o śmierci nasilają akceptację światopoglądu własnego i jednocześnie odrzucanie światopoglądów cudzych
+
+## Wymiary poglądów politycznych (P.Boski)
+- Dwa wymiary prawicowości vs. lewicowości:
+- Wymiar ekonomiczny (liberalizm ekonomiczny vs. kontrola państwa nad gospodarką, interwencjonizm, polityka socjalna)
+- Wymiar tożsamościowy (wartości tradycyjne, w Polsce katolickie, vs. swoboda obyczajowa, otwartość na nowość i odmienność)
+- Np. w Polsce o uznaniu za prawicowca/lewicowca decydują tylko poglądy tożsamościowe
+
