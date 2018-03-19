@@ -1,0 +1,717 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Krzysztof Basiński" />
+  <title>Wprowadzenie do psychologii społecznej - 05 - wpływ społeczny</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="reveal_libs/reveal.js-3.3.0.1/css/reveal.css"/>
+
+
+
+<link rel="stylesheet" href="reveal_libs/reveal.js-3.3.0.1/css/theme/serif.css" id="theme">
+
+
+  <!-- some tweaks to reveal css -->
+  <style type="text/css">
+    .reveal h1 { font-size: 2.0em; }
+    .reveal h2 { font-size: 1.5em;  }
+    .reveal h3 { font-size: 1.25em;	}
+    .reveal h4 { font-size: 1em;	}
+
+    .reveal .slides>section,
+    .reveal .slides>section>section {
+      padding: 0px 0px;
+    }
+
+
+
+    .reveal table {
+      border-width: 1px;
+      border-spacing: 2px;
+      border-style: dotted;
+      border-color: gray;
+      border-collapse: collapse;
+      font-size: 0.7em;
+    }
+
+    .reveal table th {
+      border-width: 1px;
+      padding-left: 10px;
+      padding-right: 25px;
+      font-weight: bold;
+      border-style: dotted;
+      border-color: gray;
+    }
+
+    .reveal table td {
+      border-width: 1px;
+      padding-left: 10px;
+      padding-right: 25px;
+      border-style: dotted;
+      border-color: gray;
+    }
+
+
+  </style>
+
+    <style type="text/css">code{white-space: pre;}</style>
+
+    <link rel="stylesheet" href="reveal_libs/custom_style.css"/>
+
+<!-- Printing and PDF exports -->
+<script id="paper-css" type="application/dynamic-css">
+
+/* Default Print Stylesheet Template
+   by Rob Glazebrook of CSSnewbie.com
+   Last Updated: June 4, 2008
+
+   Feel free (nay, compelled) to edit, append, and
+   manipulate this file as you see fit. */
+
+
+@media print {
+
+	/* SECTION 1: Set default width, margin, float, and
+	   background. This prevents elements from extending
+	   beyond the edge of the printed page, and prevents
+	   unnecessary background images from printing */
+	html {
+		background: #fff;
+		width: auto;
+		height: auto;
+		overflow: visible;
+	}
+	body {
+		background: #fff;
+		font-size: 20pt;
+		width: auto;
+		height: auto;
+		border: 0;
+		margin: 0 5%;
+		padding: 0;
+		overflow: visible;
+		float: none !important;
+	}
+
+	/* SECTION 2: Remove any elements not needed in print.
+	   This would include navigation, ads, sidebars, etc. */
+	.nestedarrow,
+	.controls,
+	.fork-reveal,
+	.share-reveal,
+	.state-background,
+	.reveal .progress,
+	.reveal .backgrounds {
+		display: none !important;
+	}
+
+	/* SECTION 3: Set body font face, size, and color.
+	   Consider using a serif font for readability. */
+	body, p, td, li, div {
+		font-size: 20pt!important;
+		font-family: Georgia, "Times New Roman", Times, serif !important;
+		color: #000;
+	}
+
+	/* SECTION 4: Set heading font face, sizes, and color.
+	   Differentiate your headings from your body text.
+	   Perhaps use a large sans-serif for distinction. */
+	h1,h2,h3,h4,h5,h6 {
+		color: #000!important;
+		height: auto;
+		line-height: normal;
+		font-family: Georgia, "Times New Roman", Times, serif !important;
+		text-shadow: 0 0 0 #000 !important;
+		text-align: left;
+		letter-spacing: normal;
+	}
+	/* Need to reduce the size of the fonts for printing */
+	h1 { font-size: 28pt !important;  }
+	h2 { font-size: 24pt !important; }
+	h3 { font-size: 22pt !important; }
+	h4 { font-size: 22pt !important; font-variant: small-caps; }
+	h5 { font-size: 21pt !important; }
+	h6 { font-size: 20pt !important; font-style: italic; }
+
+	/* SECTION 5: Make hyperlinks more usable.
+	   Ensure links are underlined, and consider appending
+	   the URL to the end of the link for usability. */
+	a:link,
+	a:visited {
+		color: #000 !important;
+		font-weight: bold;
+		text-decoration: underline;
+	}
+	/*
+	.reveal a:link:after,
+	.reveal a:visited:after {
+		content: " (" attr(href) ") ";
+		color: #222 !important;
+		font-size: 90%;
+	}
+	*/
+
+
+	/* SECTION 6: more reveal.js specific additions by @skypanther */
+	ul, ol, div, p {
+		visibility: visible;
+		position: static;
+		width: auto;
+		height: auto;
+		display: block;
+		overflow: visible;
+		margin: 0;
+		text-align: left !important;
+	}
+	.reveal pre,
+	.reveal table {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.reveal pre code {
+		padding: 20px;
+		border: 1px solid #ddd;
+	}
+	.reveal blockquote {
+		margin: 20px 0;
+	}
+	.reveal .slides {
+		position: static !important;
+		width: auto !important;
+		height: auto !important;
+
+		left: 0 !important;
+		top: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		padding: 0 !important;
+		zoom: 1 !important;
+
+		overflow: visible !important;
+		display: block !important;
+
+		text-align: left !important;
+		-webkit-perspective: none;
+		   -moz-perspective: none;
+		    -ms-perspective: none;
+		        perspective: none;
+
+		-webkit-perspective-origin: 50% 50%;
+		   -moz-perspective-origin: 50% 50%;
+		    -ms-perspective-origin: 50% 50%;
+		        perspective-origin: 50% 50%;
+	}
+	.reveal .slides section {
+		visibility: visible !important;
+		position: static !important;
+		width: auto !important;
+		height: auto !important;
+		display: block !important;
+		overflow: visible !important;
+
+		left: 0 !important;
+		top: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		padding: 60px 20px !important;
+		z-index: auto !important;
+
+		opacity: 1 !important;
+
+		page-break-after: always !important;
+
+		-webkit-transform-style: flat !important;
+		   -moz-transform-style: flat !important;
+		    -ms-transform-style: flat !important;
+		        transform-style: flat !important;
+
+		-webkit-transform: none !important;
+		   -moz-transform: none !important;
+		    -ms-transform: none !important;
+		        transform: none !important;
+
+		-webkit-transition: none !important;
+		   -moz-transition: none !important;
+		    -ms-transition: none !important;
+		        transition: none !important;
+	}
+	.reveal .slides section.stack {
+		padding: 0 !important;
+	}
+	.reveal section:last-of-type {
+		page-break-after: avoid !important;
+	}
+	.reveal section .fragment {
+		opacity: 1 !important;
+		visibility: visible !important;
+
+		-webkit-transform: none !important;
+		   -moz-transform: none !important;
+		    -ms-transform: none !important;
+		        transform: none !important;
+	}
+	.reveal section img {
+		display: block;
+		margin: 15px 0px;
+		background: rgba(255,255,255,1);
+		border: 1px solid #666;
+		box-shadow: none;
+	}
+
+	.reveal section small {
+		font-size: 0.8em;
+	}
+
+}  
+</script>
+
+
+<script id="pdf-css" type="application/dynamic-css">
+    
+/**
+ * This stylesheet is used to print reveal.js
+ * presentations to PDF.
+ *
+ * https://github.com/hakimel/reveal.js#pdf-export
+ */
+
+* {
+	-webkit-print-color-adjust: exact;
+}
+
+body {
+	margin: 0 auto !important;
+	border: 0;
+	padding: 0;
+	float: none !important;
+	overflow: visible;
+}
+
+html {
+	width: 100%;
+	height: 100%;
+	overflow: visible;
+}
+
+/* Remove any elements not needed in print. */
+.nestedarrow,
+.reveal .controls,
+.reveal .progress,
+.reveal .playback,
+.reveal.overview,
+.fork-reveal,
+.share-reveal,
+.state-background {
+	display: none !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-shadow: 0 0 0 #000 !important;
+}
+
+.reveal pre code {
+	overflow: hidden !important;
+	font-family: Courier, 'Courier New', monospace !important;
+}
+
+ul, ol, div, p {
+	visibility: visible;
+	position: static;
+	width: auto;
+	height: auto;
+	display: block;
+	overflow: visible;
+	margin: auto;
+}
+.reveal {
+	width: auto !important;
+	height: auto !important;
+	overflow: hidden !important;
+}
+.reveal .slides {
+	position: static;
+	width: 100%;
+	height: auto;
+
+	left: auto;
+	top: auto;
+	margin: 0 !important;
+	padding: 0 !important;
+
+	overflow: visible;
+	display: block;
+
+	-webkit-perspective: none;
+	   -moz-perspective: none;
+	    -ms-perspective: none;
+	        perspective: none;
+
+	-webkit-perspective-origin: 50% 50%; /* there isn't a none/auto value but 50-50 is the default */
+	   -moz-perspective-origin: 50% 50%;
+	    -ms-perspective-origin: 50% 50%;
+	        perspective-origin: 50% 50%;
+}
+
+.reveal .slides section {
+	page-break-after: always !important;
+
+	visibility: visible !important;
+	position: relative !important;
+	display: block !important;
+	position: relative !important;
+
+	margin: 0 !important;
+	padding: 0 !important;
+	box-sizing: border-box !important;
+	min-height: 1px;
+
+	opacity: 1 !important;
+
+	-webkit-transform-style: flat !important;
+	   -moz-transform-style: flat !important;
+	    -ms-transform-style: flat !important;
+	        transform-style: flat !important;
+
+	-webkit-transform: none !important;
+	   -moz-transform: none !important;
+	    -ms-transform: none !important;
+	        transform: none !important;
+}
+
+.reveal section.stack {
+	margin: 0 !important;
+	padding: 0 !important;
+	page-break-after: avoid !important;
+	height: auto !important;
+	min-height: auto !important;
+}
+
+.reveal img {
+	box-shadow: none;
+}
+
+.reveal .roll {
+	overflow: visible;
+	line-height: 1em;
+}
+
+/* Slide backgrounds are placed inside of their slide when exporting to PDF */
+.reveal section .slide-background {
+	display: block !important;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: -1;
+}
+
+/* All elements should be above the slide-background */
+.reveal section>* {
+	position: relative;
+	z-index: 1;
+}
+
+/* Display slide speaker notes when 'showNotes' is enabled */
+.reveal .speaker-notes-pdf {
+	display: block;
+	width: 100%;
+	max-height: none;
+	left: auto;
+	top: auto;
+	z-index: 100;
+}
+
+/* Display slide numbers when 'slideNumber' is enabled */
+.reveal .slide-number-pdf {
+	display: block;
+	position: absolute;
+	font-size: 14px;
+}
+
+</script>
+
+
+<script>
+var style = document.createElement( 'style' );
+style.type = 'text/css';
+var style_script_id = window.location.search.match( /print-pdf/gi ) ? 'pdf-css' : 'paper-css';
+var style_script = document.getElementById(style_script_id).text;
+style.innerHTML = style_script;
+document.getElementsByTagName('head')[0].appendChild(style);
+</script>
+
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section>
+    <h1 class="title">Wprowadzenie do psychologii społecznej - 05 - wpływ społeczny</h1>
+    <h2 class="author">Krzysztof Basiński</h2>
+</section>
+
+<section><section id="wpyw-spoeczny" class="titleslide slide level1"><h1>Wpływ społeczny</h1></section><section id="wpyw-spoeczny-1" class="slide level2">
+<h2>Wpływ społeczny</h2>
+<ul>
+<li class="fragment">Wpływ społeczny to proces, w wyniku którego dochodzi do zmiany zachowania, opinii lub uczuć człowieka wskutek tego, co robią, myślą lub czują inni ludzie.</li>
+<li class="fragment">Jednostka nie musi być świadoma zmian</li>
+<li class="fragment">Wpływ nie musi być intencjonalny</li>
+<li class="fragment">Wpływ społeczny jest integralną częścią życia społecznego</li>
+</ul>
+</section><section id="wpyw-spoeczny-2" class="slide level2">
+<h2>Wpływ społeczny</h2>
+<p>Trzy najczęstsze rodzaje wpływu:</p>
+<ul>
+<li class="fragment">Naśladownictwo</li>
+<li class="fragment">Konformizm</li>
+<li class="fragment">Uleganie autorytetom</li>
+</ul>
+</section><section id="nasladownictwo" class="slide level2">
+<h2>Naśladownictwo</h2>
+<ul>
+<li class="fragment">Jeżeli jeden człowiek ziewnie, ziewa cała sala</li>
+<li class="fragment">Jeżeli matka karmi łyżką dziecko, nie tylko dziecko otwiera usta</li>
+<li class="fragment">Jeżeli jedna sławna osoba popełni samobójstwo, rośnie liczba samobójstw (efekt Wertera)</li>
+<li class="fragment">Obserwowanie agresji zwiększa na moment ilość zachowań agresywnych obserwatorów</li>
+</ul>
+</section><section id="teoria-spoecznego-uczenia-sie---bandura" class="slide level2">
+<h2>Teoria społecznego uczenia się - Bandura</h2>
+<ul>
+<li class="fragment">Ludzie uczą się za pomocą:</li>
+<li class="fragment">Warunkowania klasycznego</li>
+<li class="fragment"><p>Warunkowania instrumentalnego</p></li>
+<li class="fragment">Uczenia się przez konsekwencje</li>
+<li class="fragment"><p>Uczenia się przez modelowanie</p></li>
+</ul>
+</section><section id="konformizm" class="slide level2">
+<h2>Konformizm</h2>
+<ul>
+<li class="fragment"><p>Badania S.Ascha</p></li>
+<li class="fragment"><p><a href="https://www.youtube.com/watch?v=NyDDyT1lDhA" class="uri">https://www.youtube.com/watch?v=NyDDyT1lDhA</a></p></li>
+</ul>
+</section><section id="konformizm-1" class="slide level2">
+<h2>Konformizm</h2>
+<ul>
+<li class="fragment">Wpływ normatywny i informacyjny</li>
+<li class="fragment">Konformizm zewnętrzny i wewnętrzny</li>
+</ul>
+</section><section id="wpyw-normatywny" class="slide level2">
+<h2>Wpływ normatywny</h2>
+<ul>
+<li class="fragment">Dostosowujemy się do opinii grupy, bo taka jest norma społeczna</li>
+<li class="fragment">Czego unikamy w ten sposób?
+<ul>
+<li class="fragment">Poczucia odrzucenia</li>
+<li class="fragment">Śmieszności</li>
+<li class="fragment">Odtrącenia</li>
+<li class="fragment">Agresji</li>
+</ul></li>
+</ul>
+</section><section id="wpyw-informacyjny" class="slide level2">
+<h2>Wpływ informacyjny</h2>
+<ul>
+<li class="fragment">Człowiek dąży do tego, aby mieć rację. Przyjmuje więc racje grupy jako swoje.</li>
+<li class="fragment">Co osiągamy w ten sposób?</li>
+<li class="fragment">Zachowujemy wysoką samoocenę</li>
+</ul>
+</section><section id="od-czego-zalezy-konformizm" class="slide level2">
+<h2>Od czego zależy konformizm?</h2>
+<ul>
+<li class="fragment">Spada w sytuacjach anonimowych</li>
+<li class="fragment">Spada wskutek małej atrakcyjności grupy</li>
+<li class="fragment">Spada, gdy rozbijana jest jednomyślność</li>
+</ul>
+</section><section id="od-czego-zalezy-konformizm-1" class="slide level2">
+<h2>Od czego zależy konformizm?</h2>
+<ul>
+<li class="fragment">Rośnie wraz z niejasnością zadania</li>
+<li class="fragment">Rośnie wraz z przekonaniem, o słabych kompetencjach</li>
+<li class="fragment">Rośnie wraz z wielkością grupy, ale tylko do 4-5 osób</li>
+<li class="fragment">Konformizm bardziej zależy od zmiennych sytuacyjnych niż od cech osobowości</li>
+</ul>
+</section><section id="wpyw-autorytetu" class="slide level2">
+<h2>Wpływ autorytetu</h2>
+<p>Eksperyment Stanleya Milgrama <a href="https://www.youtube.com/watch?v=y6GxIuljT3w" class="uri">https://www.youtube.com/watch?v=y6GxIuljT3w</a></p>
+</section><section id="czynniki-zwiekszajace-sie-autorytetu" class="slide level2">
+<h2>Czynniki zwiększające siłę autorytetu:</h2>
+<ul>
+<li class="fragment">Mundur</li>
+<li class="fragment">Tytuł (prof., mec., ks., itd.)</li>
+<li class="fragment">Efekt „amerykańskich naukowców”</li>
+</ul>
+</section></section>
+<section><section id="mechanizmy-wywierania-wpywu-spoecznego" class="titleslide slide level1"><h1>Mechanizmy wywierania wpływu społecznego</h1></section><section id="mechanizmy-wywierania-wpywu-spoecznego-1" class="slide level2">
+<h2>Mechanizmy wywierania wpływu społecznego</h2>
+<ul>
+<li class="fragment">Zaangażowanie</li>
+<li class="fragment">Pragnienie słuszności</li>
+<li class="fragment">Lubienie</li>
+<li class="fragment">Reguła wzajemności</li>
+<li class="fragment">Niedostępność dóbr</li>
+</ul>
+</section><section id="zaangazowanie" class="slide level2">
+<h2>Zaangażowanie</h2>
+<ul>
+<li class="fragment">Eksperyment o robakach – wzbudzano w badanych przekonanie, że dobrowolnie i bez żadnego przymusu zjedzą nieżywego robaka</li>
+<li class="fragment">W ostatniej chwili mówiono im, że zaszła pomyłka i mogą wybrać inne zadanie</li>
+<li class="fragment">75% osób i tak decydowało się na przygodę kulinarną</li>
+</ul>
+</section><section id="zaangazowanie-1" class="slide level2">
+<h2>Zaangażowanie</h2>
+<p>Podjęcie jakiegoś działania, a nawet samo przygotowanie się do niego, inicjuje szereg procesów sprawiających, że działanie wykonujemy (czy kontynuujemy) pomimo poważnych kosztów, na jakie nas to naraża.</p>
+</section><section id="zaangazowanie-2" class="slide level2">
+<h2>Zaangażowanie</h2>
+<p>Dlaczego tak jest?</p>
+<ul>
+<li class="fragment">Mamy podwyższoną psychiczną dostępność danego rozwiązania</li>
+<li class="fragment">Jeżeli już włożyliśmy wysiłek, to cel wydaje nam się cenniejszy niż jakby wysiłku nie było</li>
+</ul>
+</section><section id="puapka-utopionych-kosztow" class="slide level2">
+<h2>Pułapka utopionych kosztów</h2>
+<ul>
+<li class="fragment">Możliwa zmiana postrzegania samego siebie w momencie zaniechania działania (dysonans)</li>
+<li class="fragment">Ludzie chcą prezentować się jako konsekwentni i wewnętrznie zgodni</li>
+</ul>
+</section><section id="spoeczny-dowod-susznosci" class="slide level2">
+<h2>Społeczny dowód słuszności</h2>
+<ul>
+<li class="fragment">Czyli „jeżeli inni tak postępują, to coś w tym musi być”</li>
+<li class="fragment">Przykład sondaży wyborczych</li>
+<li class="fragment">Dwukrotnie wzrasta odsetek ludzi przeznaczający pieniądze na organizację charytatywną, jeżeli na liście przed ich podpisem widnieje 8 innych nazwisk</li>
+<li class="fragment">Masakra w Jonestown – 910 osób – problem izolacji</li>
+</ul>
+</section><section id="lubienie" class="slide level2">
+<h2>Lubienie</h2>
+<ul>
+<li class="fragment">Gdy kogoś lubimy, łatwiej mu jest nas do czegoś przekonać</li>
+<li class="fragment">Przykład reklam</li>
+<li class="fragment">Dobry glina / zły glina</li>
+<li class="fragment">Przystojniejsi politycy mają większą szansę na wybór</li>
+</ul>
+</section><section id="regua-wzajemnosci" class="slide level2">
+<h2>Reguła wzajemności</h2>
+<ul>
+<li class="fragment">Jedna z najsilniejszy reguł spajających ludzi</li>
+<li class="fragment">Przykład Amwaya i darmowych próbek</li>
+</ul>
+</section><section id="niedostepnosc" class="slide level2">
+<h2>Niedostępność</h2>
+<ul>
+<li class="fragment">Jeżeli jakiś przedmiot lub możliwość działania zostaną nam odebrane, lub tylko odebraniem zagrożone, zyskują one na wartości</li>
+<li class="fragment">Przykład ostatniego egzemplarza na składzie</li>
+<li class="fragment">Ostatnia okazja – „promocja tylko do 18tej”</li>
+<li class="fragment">Nagła niedostępność wynikająca z pożądania przez innych</li>
+</ul>
+</section></section>
+<section><section id="techniki-manipulacji" class="titleslide slide level1"><h1>Techniki manipulacji</h1></section><section id="stopa-w-drzwiach" class="slide level2">
+<h2>Stopa w drzwiach</h2>
+<ul>
+<li class="fragment">Wyświadczenie małej przysługi zwiększa szansę na wyświadczenie większej przysługi w kolejności</li>
+<li class="fragment">Freedman i Fraser (1966) – odsetek ludzi zgadzających się na umieszczenie planszy w ogródku wzrasta trzykrotnie, jeśli 2 tygodnie wcześniej poprosić ich o podpisanie się pod petycją</li>
+</ul>
+</section><section id="stopa-w-drzwiach-1" class="slide level2">
+<h2>Stopa w drzwiach</h2>
+<ul>
+<li class="fragment">Technika działa, nawet jeśli prośby formułują różne osoby i dotyczą innych spraw</li>
+<li class="fragment">Wyjaśnienie w kategoriach autopercepcji – wskutek spełnienia pierwszej prośby ludzie odbierają siebie jako bardziej altruistycznych i pomocnych</li>
+</ul>
+</section><section id="drzwiami-w-twarz-cialdini-1975" class="slide level2">
+<h2>Drzwiami w twarz (Cialdini, 1975)</h2>
+<ul>
+<li class="fragment">Przelotny znajomy prosi nas o pożyczenie 200 złotych</li>
+<li class="fragment">Po chwili prosi nas o pożyczenie 10 złotych</li>
+<li class="fragment">Ustępstwo jednej strony powoduje powstanie obligacji do ustąpienia z drugiej strony (reguła wzajemności)</li>
+</ul>
+</section><section id="drzwiami-w-twarz-cialdini-1975-1" class="slide level2">
+<h2>Drzwiami w twarz (Cialdini, 1975)</h2>
+<ul>
+<li class="fragment">Pierwsza prośba powinna być duża, jednak nie nierealistycznie wielka</li>
+<li class="fragment">Kluczowy niewielki odstęp czasowy</li>
+</ul>
+</section><section id="niska-pika" class="slide level2">
+<h2>Niska piłka</h2>
+<ul>
+<li class="fragment">Dwie wersje: utajenie kosztu i wabienie przynętą</li>
+<li class="fragment">Rekrutacja do eksperymentu odbywającego się o 7mej rano – jeśli podać tą informację po uzyskaniu zgody badanych, nikt się nie wycofa</li>
+<li class="fragment">Pochwały w prasie dla osób oszczędzających energię – po wycofaniu się z publikacji pochwał (przynęty) i tak większość oszczędzała energię</li>
+<li class="fragment">Pragnienie konsekwencji – chcemy kontynuować raz podjęte działanie</li>
+</ul>
+</section><section id="teoria-wpywu-spoecznego-latane1981" class="slide level2">
+<h2>Teoria wpływu społecznego (Latané,1981)</h2>
+<p>Kiedy na jednostkę wywierany jest nacisk przez innych, to siła tego nacisku (i uleganie mu) rośnie jako iloczyn trzech czynników:</p>
+<ul>
+<li class="fragment">Siły osób wywierających nacisk</li>
+<li class="fragment">Ich bliskości</li>
+<li class="fragment">Liczby osób wywierających nacisk</li>
+</ul>
+</section><section id="teoria-wpywu-spoecznego-latane1981-1" class="slide level2">
+<h2>Teoria wpływu społecznego (Latané,1981)</h2>
+<p>Kiedy jednostka jest członkiem grupy, na którą wywierany jest nacisk, to siła nacisku przypadającego na jednostkę rozprasza się, czyli spada wraz ze wzrostem:</p>
+<ul>
+<li class="fragment">Siły innych członków grupy</li>
+<li class="fragment">Ich bliskości</li>
+<li class="fragment">Liczby członków grupy</li>
+</ul>
+</section><section id="teoria-wpywu-spoecznego-latane1981-2" class="slide level2">
+<h2>Teoria wpływu społecznego (Latané,1981)</h2>
+<ul>
+<li class="fragment">Siła osoby – jakikolwiek czynnik decydujący o jej zdolności do wywierania wpływu lub przeciwstawiania się mu (wiedza, pozycja społeczna, atrakcyjność, wiarygodność)</li>
+<li class="fragment">Bliskość osoby – może być fizyczna, ale też psychologiczna (np. bliska rodzina)</li>
+<li class="fragment">Iloczynowy charakter wpływu oznacza, że siła i bliskość nie mogą być zerowe (albo dążyć do zera)</li>
+</ul>
+</section></section>
+    </div>
+  </div>
+
+  <script src="reveal_libs/reveal.js-3.3.0.1/lib/js/head.min.js"></script>
+  <script src="reveal_libs/reveal.js-3.3.0.1/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+        // Vertical centering of slides
+        center: true,
+        // Transition style
+        transition: 'default', // none/fade/slide/convex/concave/zoom
+        // Transition style for full page slide backgrounds
+        backgroundTransition: 'default', // none/fade/slide/convex/concave/zoom
+
+
+
+        // Optional reveal.js plugins
+        dependencies: [
+        ]
+      });
+    </script>
+  <!-- dynamically load mathjax for compatibility with self-contained -->
+  <script>
+    (function () {
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+      document.getElementsByTagName("head")[0].appendChild(script);
+    })();
+  </script>
+
+<script>
+  (function() {
+    if (window.jQuery) {
+      Reveal.addEventListener( 'slidechanged', function(event) {  
+        window.jQuery(event.previousSlide).trigger('hidden');
+        window.jQuery(event.currentSlide).trigger('shown');
+      });
+    }
+  })();
+</script>
+
+
+  </body>
+</html>
