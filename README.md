@@ -16,9 +16,9 @@ Wykład | slajdy | pdf
 03 - Poznanie społeczne | [slajdy](03-poznanie.html) |  [pdf](https://github.com/k-basinski/wdps/blob/master/03-poznanie_handout.pdf)
 04 - Przekonania społeczne | [slajdy](04-przekonania.html) |  [pdf](https://github.com/k-basinski/wdps/blob/master/04-przekonania_handout.pdf)
 05 - Wpływ społeczny | [slajdy](05-wplyw.html) |  pdf
+08 - Spostrzeganie innych ludzi | [slajdy](06-spostrzeganie_innych.html) | pdf
+09 - Spostrzeganie siebie | pdf | slajdy
 06 - Prospołeczność | pdf | slajdy
 07 - Agresja | pdf | slajdy
-08 - Spostrzeganie innych ludzi | pdf | slajdy
-09 - Spostrzeganie siebie | pdf | slajdy
 10 - Podstawy psychologii międzykulturowej | pdf | slajdy
 
