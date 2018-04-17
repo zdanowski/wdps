@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Krzysztof Basiński" />
+  <title>Wprowadzenie do psychologii społecznej - 08 - Wprowadzenie do psychologii międzykulturowej</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="reveal_libs/reveal.js-3.3.0.1/css/reveal.css"/>
+
+
+
+<link rel="stylesheet" href="reveal_libs/reveal.js-3.3.0.1/css/theme/moon.css" id="theme">
+
+<style type="text/css">
+.reveal section img {
+  background: rgba(255, 255, 255, 0.85);
+}
+</style>
+
+  <!-- some tweaks to reveal css -->
+  <style type="text/css">
+    .reveal h1 { font-size: 2.0em; }
+    .reveal h2 { font-size: 1.5em;  }
+    .reveal h3 { font-size: 1.25em;	}
+    .reveal h4 { font-size: 1em;	}
+
+    .reveal .slides>section,
+    .reveal .slides>section>section {
+      padding: 0px 0px;
+    }
+
+
+
+    .reveal table {
+      border-width: 1px;
+      border-spacing: 2px;
+      border-style: dotted;
+      border-color: gray;
+      border-collapse: collapse;
+      font-size: 0.7em;
+    }
+
+    .reveal table th {
+      border-width: 1px;
+      padding-left: 10px;
+      padding-right: 25px;
+      font-weight: bold;
+      border-style: dotted;
+      border-color: gray;
+    }
+
+    .reveal table td {
+      border-width: 1px;
+      padding-left: 10px;
+      padding-right: 25px;
+      border-style: dotted;
+      border-color: gray;
+    }
+
+
+  </style>
+
+    <style type="text/css">code{white-space: pre;}</style>
+
+    <link rel="stylesheet" href="reveal_libs/custom_style.css"/>
+
+<!-- Printing and PDF exports -->
+<script id="paper-css" type="application/dynamic-css">
+
+/* Default Print Stylesheet Template
+   by Rob Glazebrook of CSSnewbie.com
+   Last Updated: June 4, 2008
+
+   Feel free (nay, compelled) to edit, append, and
+   manipulate this file as you see fit. */
+
+
+@media print {
+
+	/* SECTION 1: Set default width, margin, float, and
+	   background. This prevents elements from extending
+	   beyond the edge of the printed page, and prevents
+	   unnecessary background images from printing */
+	html {
+		background: #fff;
+		width: auto;
+		height: auto;
+		overflow: visible;
+	}
+	body {
+		background: #fff;
+		font-size: 20pt;
+		width: auto;
+		height: auto;
+		border: 0;
+		margin: 0 5%;
+		padding: 0;
+		overflow: visible;
+		float: none !important;
+	}
+
+	/* SECTION 2: Remove any elements not needed in print.
+	   This would include navigation, ads, sidebars, etc. */
+	.nestedarrow,
+	.controls,
+	.fork-reveal,
+	.share-reveal,
+	.state-background,
+	.reveal .progress,
+	.reveal .backgrounds {
+		display: none !important;
+	}
+
+	/* SECTION 3: Set body font face, size, and color.
+	   Consider using a serif font for readability. */
+	body, p, td, li, div {
+		font-size: 20pt!important;
+		font-family: Georgia, "Times New Roman", Times, serif !important;
+		color: #000;
+	}
+
+	/* SECTION 4: Set heading font face, sizes, and color.
+	   Differentiate your headings from your body text.
+	   Perhaps use a large sans-serif for distinction. */
+	h1,h2,h3,h4,h5,h6 {
+		color: #000!important;
+		height: auto;
+		line-height: normal;
+		font-family: Georgia, "Times New Roman", Times, serif !important;
+		text-shadow: 0 0 0 #000 !important;
+		text-align: left;
+		letter-spacing: normal;
+	}
+	/* Need to reduce the size of the fonts for printing */
+	h1 { font-size: 28pt !important;  }
+	h2 { font-size: 24pt !important; }
+	h3 { font-size: 22pt !important; }
+	h4 { font-size: 22pt !important; font-variant: small-caps; }
+	h5 { font-size: 21pt !important; }
+	h6 { font-size: 20pt !important; font-style: italic; }
+
+	/* SECTION 5: Make hyperlinks more usable.
+	   Ensure links are underlined, and consider appending
+	   the URL to the end of the link for usability. */
+	a:link,
+	a:visited {
+		color: #000 !important;
+		font-weight: bold;
+		text-decoration: underline;
+	}
+	/*
+	.reveal a:link:after,
+	.reveal a:visited:after {
+		content: " (" attr(href) ") ";
+		color: #222 !important;
+		font-size: 90%;
+	}
+	*/
+
+
+	/* SECTION 6: more reveal.js specific additions by @skypanther */
+	ul, ol, div, p {
+		visibility: visible;
+		position: static;
+		width: auto;
+		height: auto;
+		display: block;
+		overflow: visible;
+		margin: 0;
+		text-align: left !important;
+	}
+	.reveal pre,
+	.reveal table {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.reveal pre code {
+		padding: 20px;
+		border: 1px solid #ddd;
+	}
+	.reveal blockquote {
+		margin: 20px 0;
+	}
+	.reveal .slides {
+		position: static !important;
+		width: auto !important;
+		height: auto !important;
+
+		left: 0 !important;
+		top: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		padding: 0 !important;
+		zoom: 1 !important;
+
+		overflow: visible !important;
+		display: block !important;
+
+		text-align: left !important;
+		-webkit-perspective: none;
+		   -moz-perspective: none;
+		    -ms-perspective: none;
+		        perspective: none;
+
+		-webkit-perspective-origin: 50% 50%;
+		   -moz-perspective-origin: 50% 50%;
+		    -ms-perspective-origin: 50% 50%;
+		        perspective-origin: 50% 50%;
+	}
+	.reveal .slides section {
+		visibility: visible !important;
+		position: static !important;
+		width: auto !important;
+		height: auto !important;
+		display: block !important;
+		overflow: visible !important;
+
+		left: 0 !important;
+		top: 0 !important;
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+		padding: 60px 20px !important;
+		z-index: auto !important;
+
+		opacity: 1 !important;
+
+		page-break-after: always !important;
+
+		-webkit-transform-style: flat !important;
+		   -moz-transform-style: flat !important;
+		    -ms-transform-style: flat !important;
+		        transform-style: flat !important;
+
+		-webkit-transform: none !important;
+		   -moz-transform: none !important;
+		    -ms-transform: none !important;
+		        transform: none !important;
+
+		-webkit-transition: none !important;
+		   -moz-transition: none !important;
+		    -ms-transition: none !important;
+		        transition: none !important;
+	}
+	.reveal .slides section.stack {
+		padding: 0 !important;
+	}
+	.reveal section:last-of-type {
+		page-break-after: avoid !important;
+	}
+	.reveal section .fragment {
+		opacity: 1 !important;
+		visibility: visible !important;
+
+		-webkit-transform: none !important;
+		   -moz-transform: none !important;
+		    -ms-transform: none !important;
+		        transform: none !important;
+	}
+	.reveal section img {
+		display: block;
+		margin: 15px 0px;
+		background: rgba(255,255,255,1);
+		border: 1px solid #666;
+		box-shadow: none;
+	}
+
+	.reveal section small {
+		font-size: 0.8em;
+	}
+
+}  
+</script>
+
+
+<script id="pdf-css" type="application/dynamic-css">
+    
+/**
+ * This stylesheet is used to print reveal.js
+ * presentations to PDF.
+ *
+ * https://github.com/hakimel/reveal.js#pdf-export
+ */
+
+* {
+	-webkit-print-color-adjust: exact;
+}
+
+body {
+	margin: 0 auto !important;
+	border: 0;
+	padding: 0;
+	float: none !important;
+	overflow: visible;
+}
+
+html {
+	width: 100%;
+	height: 100%;
+	overflow: visible;
+}
+
+/* Remove any elements not needed in print. */
+.nestedarrow,
+.reveal .controls,
+.reveal .progress,
+.reveal .playback,
+.reveal.overview,
+.fork-reveal,
+.share-reveal,
+.state-background {
+	display: none !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-shadow: 0 0 0 #000 !important;
+}
+
+.reveal pre code {
+	overflow: hidden !important;
+	font-family: Courier, 'Courier New', monospace !important;
+}
+
+ul, ol, div, p {
+	visibility: visible;
+	position: static;
+	width: auto;
+	height: auto;
+	display: block;
+	overflow: visible;
+	margin: auto;
+}
+.reveal {
+	width: auto !important;
+	height: auto !important;
+	overflow: hidden !important;
+}
+.reveal .slides {
+	position: static;
+	width: 100%;
+	height: auto;
+
+	left: auto;
+	top: auto;
+	margin: 0 !important;
+	padding: 0 !important;
+
+	overflow: visible;
+	display: block;
+
+	-webkit-perspective: none;
+	   -moz-perspective: none;
+	    -ms-perspective: none;
+	        perspective: none;
+
+	-webkit-perspective-origin: 50% 50%; /* there isn't a none/auto value but 50-50 is the default */
+	   -moz-perspective-origin: 50% 50%;
+	    -ms-perspective-origin: 50% 50%;
+	        perspective-origin: 50% 50%;
+}
+
+.reveal .slides section {
+	page-break-after: always !important;
+
+	visibility: visible !important;
+	position: relative !important;
+	display: block !important;
+	position: relative !important;
+
+	margin: 0 !important;
+	padding: 0 !important;
+	box-sizing: border-box !important;
+	min-height: 1px;
+
+	opacity: 1 !important;
+
+	-webkit-transform-style: flat !important;
+	   -moz-transform-style: flat !important;
+	    -ms-transform-style: flat !important;
+	        transform-style: flat !important;
+
+	-webkit-transform: none !important;
+	   -moz-transform: none !important;
+	    -ms-transform: none !important;
+	        transform: none !important;
+}
+
+.reveal section.stack {
+	margin: 0 !important;
+	padding: 0 !important;
+	page-break-after: avoid !important;
+	height: auto !important;
+	min-height: auto !important;
+}
+
+.reveal img {
+	box-shadow: none;
+}
+
+.reveal .roll {
+	overflow: visible;
+	line-height: 1em;
+}
+
+/* Slide backgrounds are placed inside of their slide when exporting to PDF */
+.reveal section .slide-background {
+	display: block !important;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: -1;
+}
+
+/* All elements should be above the slide-background */
+.reveal section>* {
+	position: relative;
+	z-index: 1;
+}
+
+/* Display slide speaker notes when 'showNotes' is enabled */
+.reveal .speaker-notes-pdf {
+	display: block;
+	width: 100%;
+	max-height: none;
+	left: auto;
+	top: auto;
+	z-index: 100;
+}
+
+/* Display slide numbers when 'slideNumber' is enabled */
+.reveal .slide-number-pdf {
+	display: block;
+	position: absolute;
+	font-size: 14px;
+}
+
+</script>
+
+
+<script>
+var style = document.createElement( 'style' );
+style.type = 'text/css';
+var style_script_id = window.location.search.match( /print-pdf/gi ) ? 'pdf-css' : 'paper-css';
+var style_script = document.getElementById(style_script_id).text;
+style.innerHTML = style_script;
+document.getElementsByTagName('head')[0].appendChild(style);
+</script>
+
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section>
+    <h1 class="title">Wprowadzenie do psychologii społecznej - 08 - Wprowadzenie do psychologii międzykulturowej</h1>
+    <h2 class="author">Krzysztof Basiński</h2>
+</section>
+
+<section><section id="wprowadzenie-do-psychologii-miedzykulturowej" class="titleslide slide level1"><h1>Wprowadzenie do psychologii międzykulturowej</h1></section><section id="co-to-jest-psychologia-miedzykulturowa-i-dlaczego-powstaa" class="slide level2">
+<h2>Co to jest psychologia międzykulturowa i dlaczego powstała?</h2>
+<ul>
+<li class="fragment">W latach 70tych (teraz zresztą też) w badaniach psychologicznych dominuje psychologia amerykańska</li>
+<li class="fragment">Amerykanie robili badania na populacji amerykańskiej (przeważnie na studentach), uogólniając swoje wyniki na całą ludzkość</li>
+<li class="fragment">Pojawiło się pytanie, czy na pewno wykryte prawidłowości są <strong>uniwersalne kulturowo</strong></li>
+</ul>
+</section><section id="co-to-jest-psychologia-miedzykulturowa-i-dlaczego-powstaa-1" class="slide level2">
+<h2>Co to jest psychologia międzykulturowa i dlaczego powstała?</h2>
+<ul>
+<li class="fragment">Od 1972r. (powstanie IACCP) datuje się powstanie nowej dyscypliny (lub metodologii) psychologicznej, polegającej na ustalaniu, czy odkrycia psychologii głównego nurtu są uniwersalne, czy też stosować je można tylko do określonych populacji</li>
+<li class="fragment">W tych ramach powstają też teorie opisujące różnice psychologiczne pomiędzy różnymi kulturami</li>
+</ul>
+</section><section id="model-ekokulturowy-johna-berryego" class="slide level2">
+<h2>Model ekokulturowy Johna Berry’ego</h2>
+<p><img src="img/08/berry.png" alt="Model ekokulturowy" /></p>
+</section></section>
+<section><section id="wymiary-kultury" class="titleslide slide level1"><h1>Wymiary kultury</h1></section><section id="wymiary-kultury-badania-geerta-hofstede" class="slide level2">
+<h2>Wymiary kultury – badania Geerta Hofstede</h2>
+<ul>
+<li class="fragment">Początek badań na przełomie lat 60-tych i 70-tych</li>
+<li class="fragment">Hofstede zebrał dane na temat wartości pracowniczych od 117 000 pracowników IBM z 50 krajów</li>
+<li class="fragment">Na podstawie analiz statystycznych wyłonił 5 wymiarów, na których różnili się jego respondenci</li>
+<li class="fragment">Badania rozwijane do dziś</li>
+</ul>
+</section><section id="wymiary-kultury---dystans-wadzy" class="slide level2">
+<h2>Wymiary kultury - dystans władzy</h2>
+<ul>
+<li class="fragment">Jak bardzo członkowie kultury o mniejszej władzy akceptują i spodziewają się tego, ze władza jest dystrybuowana nierówno</li>
+<li class="fragment">W kulturach o wysokim dystansie władzy obecność silnej hierarchii jest spodziewana i nikt z tym nie dyskutuje</li>
+<li class="fragment">Kultury o niższym dystansie władzy promują wartości egalitarne i demokratyczne</li>
+</ul>
+</section><section id="wymiary-kultury---dystans-wadzy-top-5" class="slide level2">
+<h2>Wymiary kultury - Dystans władzy – top 5</h2>
+<ul>
+<li class="fragment">Najwyższy: Malezja, Słowacja, Gwatemala, Panama, Filipiny</li>
+<li class="fragment">Najniższy: Irlandia, Nowa Zelandia, Dania, Izrael, Austria</li>
+<li class="fragment">Polska na 25 miejscu na 69</li>
+</ul>
+</section><section id="wymiary-kultury---indywidualizm-vs-kolektywizm" class="slide level2">
+<h2>Wymiary kultury - Indywidualizm vs kolektywizm</h2>
+<ul>
+<li class="fragment">Kolektywizm to poziom, z jakim jednostki są połączone w grupy</li>
+<li class="fragment">W kulturach indywidualistycznych nacisk jest położony na indywidualne osiągnięcia i prawa jednostki. Ludzie muszą troszczyć się sami o siebie i swoich najbliższych</li>
+<li class="fragment">W kulturach kolektywistycznych najważniejsze jest dobro grupy. W grupach pozostaje się najczęściej przez całe życie. Dobro grupy przedkładane jest nad dobro jednostki</li>
+</ul>
+</section><section id="wymiary-kultury---indywidualizm-vs-kolektywizm-top-5" class="slide level2">
+<h2>Wymiary kultury - Indywidualizm vs kolektywizm – top 5</h2>
+<ul>
+<li class="fragment">Najwyższy indywidualizm: USA, Australia, Wlk.Brytania, Kanada, Holandia</li>
+<li class="fragment">Najniższy indywidualizm: Kolumbia, Wenezuela, Panama, Ekwador, Gwatemala</li>
+<li class="fragment">Polska na 18 miejscu na 69</li>
+</ul>
+</section><section id="wymiary-kultury---unikanie-niepewnosci" class="slide level2">
+<h2>Wymiary kultury - Unikanie niepewności</h2>
+<ul>
+<li class="fragment">Stopień w jakim dana kultura toleruje niepewność i dwuznaczność. Niepewność jest tu traktowana jako mechanizm radzenia sobie z lękiem.</li>
+<li class="fragment">Kultury o wysokim unikaniu niepewności promują precyzyjne planowanie, krok po kroku. Posiadają rozbudowany system zasad i praw, którego celem jest unikanie niespodziewanych sytuacji.</li>
+<li class="fragment">Kultury o niskim unikaniu niepewności tolerują sytuacje dwuznaczne i nieplanowane, starają się mieć jak najmniej zasad i praw, są bardziej otwarte na zmianę</li>
+</ul>
+</section><section id="wymiary-kultury---unikanie-niepewnosci-top-5" class="slide level2">
+<h2>Wymiary kultury - Unikanie niepewności – top 5</h2>
+<ul>
+<li class="fragment">Najwyższe: Grecja, Portugalia, Gwatemala, Urugwaj, Belgia</li>
+<li class="fragment">Najniższe: Szwecja, Hongkong, Dania, Jamajka, Singapur</li>
+<li class="fragment">Polska: 7 miejsce na 69</li>
+</ul>
+</section><section id="wymiary-kultury---meskosc-vs-kobiecosc" class="slide level2">
+<h2>Wymiary kultury - Męskość vs Kobiecość</h2>
+<ul>
+<li class="fragment">Męskie kultury promują tradycyjnie męskie wartości: asertywność, konkurencyjność, materializm, ambicjonalność, władzę.</li>
+<li class="fragment">Kobiece kultury promują jakość życia i związki międzyludzkie.</li>
+<li class="fragment">Problem z nomenklaturą – Hofstede użył tu stereotypów zachodnich odnośnie ról płciowych. W nowszych ujęciach ten wymiar nazywa się Quality of Life vs Quantity of Life</li>
+</ul>
+</section><section id="wymiary-kultury---meskosc-vs-kobiecosc-top-5" class="slide level2">
+<h2>Wymiary kultury - Męskość vs Kobiecość – top 5</h2>
+<ul>
+<li class="fragment">Najwyższa męskość: Słowacja, Japonia, Węgry, Austria, Wenezuela</li>
+<li class="fragment">Najwyższa kobiecość: Kostaryka, Dania, Holandia, Norwegia, Szwecja</li>
+<li class="fragment">Polska 12 na 69</li>
+</ul>
+</section><section id="wymiary-kultury---orientacja-dugoterminowa-vs-krotkoterminowa" class="slide level2">
+<h2>Wymiary kultury - Orientacja długoterminowa vs Krótkoterminowa</h2>
+<ul>
+<li class="fragment">Opisuje specyficzną dla danej kultury orientację czasową – nastawienie na długoterminową lub krótkoterminową perspektywę</li>
+<li class="fragment">Kultury z orientacją długoterminową nastawione są na oszczędność, zdolność adaptacji, nieustępliwość (persistance)</li>
+<li class="fragment">Kultury o orientacji krótkoterminowej skupione są na teraźniejszości i niedalekiej przyszłości. Cenią wartości takie jak szacunek dla tradycji, ochrona „twarzy”, stabilna osobowość.</li>
+</ul>
+</section><section id="wymiary-kultury---orientacja-dugoterminowa-top-5" class="slide level2">
+<h2>Wymiary kultury - Orientacja długoterminowa – top 5</h2>
+<ul>
+<li class="fragment">Długoterminowe: Chiny, Hongkong, Taiwan, Japonia, Wietnam</li>
+<li class="fragment">Krótkoterminowe: Hiszpania, Filipiny, Czechy, Pakistan</li>
+<li class="fragment">Polska 17 na 45.</li>
+</ul>
+</section><section id="wymiary-kultury---krytyka-modelu-hofstede" class="slide level2">
+<h2>Wymiary kultury - Krytyka modelu Hofstede</h2>
+<ul>
+<li class="fragment">Wątpliwości metodologiczne – próba pracowników korporacji, krajowy poziom analizy, nie do końca jasna metodologia statystyczna</li>
+<li class="fragment">Wymiary kultury „przypadkowo odkryte i przypadkowo nazwane”</li>
+<li class="fragment">Problemy z jasnym zdefiniowaniem wymiarów (oprócz dystansu władzy, dobrze opisanego przez Hofstede)</li>
+<li class="fragment">Męskość vs kobiecość ???</li>
+</ul>
+</section></section>
+<section><section id="aksjomaty-spoeczne-leung-i-bond" class="titleslide slide level1"><h1>Aksjomaty społeczne – Leung i Bond</h1></section><section id="aksjomaty-spoeczne-leung-i-bond-1" class="slide level2">
+<h2>Aksjomaty społeczne – Leung i Bond</h2>
+<ul>
+<li class="fragment">Dotyczą przekonań – systemu poznawczego (przeciwnie do wartości u Hofstede)</li>
+<li class="fragment">Występują osobno na poziomie jednostkowym i kulturowym</li>
+<li class="fragment">Dlaczego aksjomaty?</li>
+<li class="fragment">Aksjomat to przekonanie z założenia prawdziwe, nie wymagające uzasadnienia</li>
+</ul>
+</section><section id="aksjomaty-spoeczne-leung-i-bond-2" class="slide level2">
+<h2>Aksjomaty społeczne – Leung i Bond</h2>
+<ul>
+<li class="fragment">Pięć wymiarów na poziomie jednostkowym:
+<ul>
+<li class="fragment">Cynizm społeczny</li>
+<li class="fragment">Złożoność społeczna</li>
+<li class="fragment">Wysiłek wynagrodzony</li>
+<li class="fragment">Duchowość</li>
+<li class="fragment">Przeznaczenie</li>
+</ul></li>
+</ul>
+</section><section id="cynizm-spoeczny" class="slide level2">
+<h2>Cynizm społeczny</h2>
+<ul>
+<li class="fragment">Jest to przypisywanie ludziom skłonności do wykorzystywania innych dla własnych celów…</li>
+<li class="fragment">…oraz…</li>
+<li class="fragment">…przeświadczenie o dysfunkcjonalnych konsekwencjach prospołecznej dobroci.</li>
+<li class="fragment">Bardzo charakterystyczny dla społeczeństw postkomunistycznych</li>
+</ul>
+</section><section id="zozonosc-spoeczna" class="slide level2">
+<h2>Złożoność społeczna</h2>
+<ul>
+<li class="fragment">Poglądy, które uznają możliwość braku spójności między zewnętrznymi zachowaniami a stanami wewnętrznymi – „człowiek może myśleć co innego a robić co innego”</li>
+<li class="fragment">Uwzględniają znaczenie kontekstu i okoliczności dla rozumienia postępowania innych – „zachowanie człowieka zmienia się wraz z kontekstem społecznym”</li>
+<li class="fragment">Stawiają na elastyczność postępowania jako kryterium sprawnego działania – „stawianie czoła problemom w sposób elastyczny zmniejszy ilość pojawiających się przeszkód”</li>
+</ul>
+</section><section id="wysiek-wynagrodzony" class="slide level2">
+<h2>Wysiłek wynagrodzony</h2>
+<ul>
+<li class="fragment">Jeśli będziesz rzeczywiście się starać, dopniesz swego</li>
+<li class="fragment">Przekonanie o tym, że uczciwa i ciężka praca zostanie wynagrodzona</li>
+<li class="fragment">Charakterystyczny dla etyki protestanckiej</li>
+<li class="fragment">Dobre uczynki zostaną nagrodzone a złe ukarane</li>
+</ul>
+</section><section id="duchowosc" class="slide level2">
+<h2>Duchowość</h2>
+<ul>
+<li class="fragment">Odnosi się do szeroko pojętego poczucia transcendentności i wiary w wyższą istotę</li>
+<li class="fragment"><em>Wiara w Boga pomaga człowiekowi zrozumieć sens życia</em></li>
+<li class="fragment"><em>Wiara w Boga czyni ludzi dobrymi obywatelami</em></li>
+<li class="fragment"><em>Przekonania religijne prowadzą do nienaukowego myślenia</em></li>
+</ul>
+</section><section id="kontrola-przeznaczenia" class="slide level2">
+<h2>Kontrola przeznaczenia</h2>
+<ul>
+<li class="fragment">Wiara w fatum, przeznaczenie, przekonania magiczne</li>
+<li class="fragment">Istnieją pewne sposoby postępowania, które pozwalają wspomóc nasze szczęście i pomagają uniknąć nieszczęśliwych wydarzeń</li>
+<li class="fragment">Cechy indywidualne takie jak np. wygląd i data urodzin, mają wpływ na los człowieka</li>
+</ul>
+</section><section id="world-values-survey" class="slide level2">
+<h2>World Values Survey</h2>
+<ul>
+<li class="fragment">Inglehart, Welzel</li>
+<li class="fragment">Opis kultury na dwóch wymiarach</li>
+<li class="fragment">Wartości tradycyjne vs. Wartości świecko-racjonalne</li>
+<li class="fragment">Wartości związane z przetrwaniem vs. Wartości związane z własną ekspresją</li>
+</ul>
+</section><section id="wartosci-tradycyjne-vs.wartosci-swiecko-racjonalne" class="slide level2">
+<h2>Wartości tradycyjne vs. Wartości świecko-racjonalne</h2>
+<ul>
+<li class="fragment">Wartości tradycyjne:
+<ul>
+<li class="fragment">Podkreślają istotność religii, związków między dzieckiem a rodzicem, obroną autorytetu, tradycyjnych wartości rodzinnych</li>
+<li class="fragment">Wiążą się z odrzuceniem rozwodów, aborcji, eutanazji i samobójstwa</li>
+<li class="fragment">Społeczeństwa wyznające te wartości mają silną dumę narodową i poglądy nacjonalistyczne</li>
+</ul></li>
+<li class="fragment">Wartości świecko-racjonalne:
+<ul>
+<li class="fragment">Mniejszy nacisk na religię, tradycyjny model rodziny i autorytety.</li>
+<li class="fragment">Rozwody, aborcja, eutanazja i samobójstwa są relatywnie akceptowalne (co nie znaczy, że samobójstwa są częstsze)</li>
+</ul></li>
+</ul>
+</section><section id="wartosci-zwiazane-z-przezyciem-vs.zwiazane-z-wasna-ekspresja" class="slide level2">
+<h2>Wartości związane z przeżyciem vs. Związane z własną ekspresją</h2>
+<ul>
+<li class="fragment">Wartości związane z przeżyciem:
+<ul>
+<li class="fragment">Nacisk na bezpieczeństwo ekonomiczne i fizyczne</li>
+<li class="fragment">Poglądy etnocentryczne i niskie wartości zaufania społecznego i tolerancji</li>
+</ul></li>
+<li class="fragment">Wartości związane z własną ekspresją:
+<ul>
+<li class="fragment">Istotność kwestii ekologicznych, tolerancja dla cudzoziemców, mniejszości seksualnych itd.</li>
+<li class="fragment">Domaganie się większego wpływu na podejmowanie decyzji w życiu polityczno-ekonomicznym</li>
+</ul></li>
+</ul>
+</section><section id="aspiracje-w-kierunku-demokracji" class="slide level2">
+<h2>Aspiracje w kierunku demokracji</h2>
+<ul>
+<li class="fragment">Aspirowanie do wolności nie jest na szczycie listy priorytetów, gdy przetrwanie wisi na włosku</li>
+<li class="fragment">W momencie w którym podstawowe potrzeby bezpieczeństwa zostaną zaspokojone, zwiększa się nacisk na wartości związane z własną ekspresją</li>
+<li class="fragment">Wraz z industrializacją i powstaniem społeczeństw post-industrialnych, wartości te są coraz bardziej rozpowszechnione</li>
+<li class="fragment">Reżimy autorytarne stają pod coraz większą presją zliberalizowania swojej polityki</li>
+</ul>
+</section><section id="zmiany-w-wartosciach-wskutek-globalizacji" class="slide level2">
+<h2>Zmiany w wartościach wskutek globalizacji</h2>
+<ul>
+<li class="fragment">Istnieje obawa, że procesy globalizacyjne spowodują również globalizację (McDonaldyzację) wartości – wyniki WVS nie potwierdzają tej tezy</li>
+<li class="fragment">Społeczeństwa rozwinięte konsekwentnie kierują się w stronę świeckiej racjonalności, jednak jest to powolny proces, i różne kraje są na różnym etapie</li>
+<li class="fragment">W społeczeństwach o słabej pozycji ekonomicznej nie ma tego trendu</li>
+</ul>
+</section><section id="zmiany-w-poziomie-szczescia-i-satysfakcji-z-zycia" class="slide level2">
+<h2>Zmiany w poziomie szczęścia i satysfakcji z życia</h2>
+<ul>
+<li class="fragment">Badania WVS prowadzone są od 1981r.</li>
+<li class="fragment">Od tego czasu globalny wskaźnik „szczęśliwości” na świecie wzrósł znacząco</li>
+<li class="fragment">Jednak nie wszędzie – w Rosji i kilku innych krajach postkomunistycznych tendencja odwrotna</li>
+</ul>
+</section><section id="teoria-akulturacji-johna-berrego" class="slide level2">
+<h2>Teoria akulturacji Johna Berrego</h2>
+<ul>
+<li class="fragment">Akulturacja – proces zmian powstających w wyniku spotykania się kultur</li>
+<li class="fragment">Z perspektywy imigranta: dwa wymiary dotyczące przyjmowania/odrzucania wartości kulturowych</li>
+<li class="fragment">Przyjęcie vs. odrzucenie wartości KULTURY WŁASNEJ</li>
+<li class="fragment">Przyjęcie vs. odrzucenie wartości KULTURY OBCEJ</li>
+</ul>
+</section><section id="cztery-wzorce-akulturacji" class="slide level2">
+<h2>Cztery wzorce akulturacji</h2>
+<ul>
+<li class="fragment">Przyjęcie własnej + przyjęcie obcej = integracja</li>
+<li class="fragment">Przyjęcie własnej + odrzucenie obcej = separacja</li>
+<li class="fragment">Odrzucenie własnej + przyjęcie obcej = asymilacja</li>
+<li class="fragment"><p>Odrzucenie własnej + odrzucenie obcej = marginalizacja</p></li>
+<li class="fragment"><p>W różnych sytuacjach można mieć różne wzorce akulturacji (np. w życiu publicznym asymilacja a w prywatnym marginalizacja)</p></li>
+</ul>
+</section></section>
+    </div>
+  </div>
+
+  <script src="reveal_libs/reveal.js-3.3.0.1/lib/js/head.min.js"></script>
+  <script src="reveal_libs/reveal.js-3.3.0.1/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        // Push each slide change to the browser history
+        history: true,
+        // Vertical centering of slides
+        center: true,
+        // Transition style
+        transition: 'default', // none/fade/slide/convex/concave/zoom
+        // Transition style for full page slide backgrounds
+        backgroundTransition: 'default', // none/fade/slide/convex/concave/zoom
+
+
+
+        // Optional reveal.js plugins
+        dependencies: [
+        ]
+      });
+    </script>
+  <!-- dynamically load mathjax for compatibility with self-contained -->
+  <script>
+    (function () {
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+      document.getElementsByTagName("head")[0].appendChild(script);
+    })();
+  </script>
+
+<script>
+  (function() {
+    if (window.jQuery) {
+      Reveal.addEventListener( 'slidechanged', function(event) {  
+        window.jQuery(event.previousSlide).trigger('hidden');
+        window.jQuery(event.currentSlide).trigger('shown');
+      });
+    }
+  })();
+</script>
+
+
+  </body>
+</html>

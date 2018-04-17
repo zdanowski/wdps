@@ -1,0 +1,192 @@
+---
+title: "Wprowadzenie do psychologii społecznej - 08 - Wprowadzenie do psychologii międzykulturowej"
+author: "Krzysztof Basiński"
+output:
+  revealjs::revealjs_presentation:
+    variant: markdown+multiline_tables
+    theme: moon
+    center: true
+    incremental: true
+    self_contained: false
+    lib_dir: reveal_libs
+    css: reveal_libs/custom_style.css
+---
+
+# Wprowadzenie do psychologii międzykulturowej
+
+## Co to jest psychologia międzykulturowa i dlaczego powstała?
+- W latach 70tych (teraz zresztą też) w badaniach psychologicznych dominuje psychologia amerykańska
+- Amerykanie robili badania na populacji amerykańskiej (przeważnie na studentach), uogólniając swoje wyniki na całą ludzkość
+- Pojawiło się pytanie, czy na pewno wykryte prawidłowości są **uniwersalne kulturowo**
+
+## Co to jest psychologia międzykulturowa i dlaczego powstała?
+- Od 1972r. (powstanie IACCP) datuje się powstanie nowej dyscypliny (lub metodologii) psychologicznej, polegającej na ustalaniu, czy odkrycia psychologii głównego nurtu są uniwersalne, czy też stosować je można tylko do określonych populacji
+- W tych ramach powstają też teorie opisujące różnice psychologiczne pomiędzy różnymi kulturami
+
+
+## Model ekokulturowy Johna Berry’ego
+![Model ekokulturowy](img/08/berry.png)
+
+# Wymiary kultury 
+
+## Wymiary kultury – badania Geerta Hofstede
+- Początek badań na przełomie lat 60-tych i 70-tych
+- Hofstede zebrał dane na temat wartości pracowniczych od 117 000 pracowników IBM z 50 krajów
+- Na podstawie analiz statystycznych wyłonił 5 wymiarów, na których różnili się jego respondenci
+- Badania rozwijane do dziś 
+
+## Wymiary kultury - dystans władzy
+- Jak bardzo członkowie kultury o mniejszej władzy akceptują i spodziewają się tego, ze władza jest dystrybuowana nierówno
+- W kulturach o wysokim dystansie władzy obecność silnej hierarchii jest spodziewana i nikt z tym nie dyskutuje
+- Kultury o niższym dystansie władzy promują wartości egalitarne i demokratyczne
+
+## Wymiary kultury - Dystans władzy – top 5
+- Najwyższy: Malezja, Słowacja, Gwatemala, Panama, Filipiny
+- Najniższy: Irlandia, Nowa Zelandia, Dania, Izrael, Austria
+- Polska na 25 miejscu na 69
+
+## Wymiary kultury - Indywidualizm vs kolektywizm
+- Kolektywizm to poziom, z jakim jednostki są połączone w grupy
+- W kulturach indywidualistycznych nacisk jest położony na indywidualne osiągnięcia i prawa jednostki. Ludzie muszą troszczyć się sami o siebie i swoich najbliższych
+- W kulturach kolektywistycznych najważniejsze jest dobro grupy. W grupach pozostaje się najczęściej przez całe życie. Dobro grupy przedkładane jest nad dobro jednostki
+
+## Wymiary kultury - Indywidualizm vs kolektywizm – top 5
+- Najwyższy indywidualizm: USA, Australia, Wlk.Brytania, Kanada, Holandia
+- Najniższy indywidualizm: Kolumbia, Wenezuela, Panama, Ekwador, Gwatemala
+- Polska na 18 miejscu na 69
+
+
+## Wymiary kultury - Unikanie niepewności
+- Stopień w jakim dana kultura toleruje niepewność i dwuznaczność. Niepewność jest tu traktowana jako mechanizm radzenia sobie z lękiem.
+- Kultury o wysokim unikaniu niepewności promują precyzyjne planowanie, krok po kroku. Posiadają rozbudowany system zasad i praw, którego celem jest unikanie niespodziewanych sytuacji.
+- Kultury o niskim unikaniu niepewności tolerują sytuacje dwuznaczne i nieplanowane, starają się mieć jak najmniej zasad i praw, są bardziej otwarte na zmianę
+
+## Wymiary kultury - Unikanie niepewności – top 5
+- Najwyższe: Grecja, Portugalia, Gwatemala, Urugwaj, Belgia
+- Najniższe: Szwecja, Hongkong, Dania, Jamajka, Singapur
+- Polska: 7 miejsce na 69
+
+## Wymiary kultury - Męskość vs Kobiecość
+- Męskie kultury promują tradycyjnie męskie wartości: asertywność, konkurencyjność, materializm, ambicjonalność, władzę.
+- Kobiece kultury promują jakość życia i związki międzyludzkie.
+- Problem z nomenklaturą – Hofstede użył tu stereotypów zachodnich odnośnie ról płciowych. W nowszych ujęciach ten wymiar nazywa się Quality of Life vs Quantity of Life
+
+## Wymiary kultury - Męskość vs Kobiecość – top 5
+- Najwyższa męskość: Słowacja, Japonia, Węgry, Austria, Wenezuela
+- Najwyższa kobiecość: Kostaryka, Dania, Holandia, Norwegia, Szwecja
+- Polska 12 na 69
+
+
+## Wymiary kultury - Orientacja długoterminowa vs Krótkoterminowa
+- Opisuje specyficzną dla danej kultury orientację czasową – nastawienie na długoterminową lub krótkoterminową perspektywę
+- Kultury z orientacją długoterminową nastawione są na oszczędność, zdolność adaptacji, nieustępliwość (persistance)
+- Kultury o orientacji krótkoterminowej skupione są na teraźniejszości i niedalekiej przyszłości. Cenią wartości takie jak szacunek dla tradycji, ochrona „twarzy”, stabilna osobowość.
+
+## Wymiary kultury - Orientacja długoterminowa – top 5
+- Długoterminowe: Chiny, Hongkong, Taiwan, Japonia, Wietnam
+- Krótkoterminowe: Hiszpania, Filipiny, Czechy, Pakistan
+- Polska 17 na 45.
+
+## Wymiary kultury - Krytyka modelu Hofstede
+- Wątpliwości metodologiczne – próba pracowników korporacji, krajowy poziom analizy, nie do końca jasna metodologia statystyczna
+- Wymiary kultury „przypadkowo odkryte i przypadkowo nazwane”
+- Problemy z jasnym zdefiniowaniem wymiarów (oprócz dystansu władzy, dobrze opisanego przez Hofstede)
+- Męskość vs kobiecość ???
+
+
+# Aksjomaty społeczne – Leung i Bond
+
+## Aksjomaty społeczne – Leung i Bond
+- Dotyczą przekonań – systemu poznawczego (przeciwnie do wartości u Hofstede)
+- Występują osobno na poziomie jednostkowym i kulturowym
+- Dlaczego aksjomaty?
+- Aksjomat to przekonanie z założenia prawdziwe, nie wymagające uzasadnienia
+
+## Aksjomaty społeczne – Leung i Bond
+- Pięć wymiarów na poziomie jednostkowym:
+    + Cynizm społeczny
+    + Złożoność społeczna
+    + Wysiłek wynagrodzony
+    + Duchowość
+    + Przeznaczenie
+    
+## Cynizm społeczny
+- Jest to przypisywanie ludziom skłonności do wykorzystywania innych dla własnych celów...
+- ...oraz...
+- ...przeświadczenie o dysfunkcjonalnych konsekwencjach prospołecznej dobroci.
+- Bardzo charakterystyczny dla społeczeństw postkomunistycznych
+
+## Złożoność społeczna
+- Poglądy, które uznają możliwość braku spójności między zewnętrznymi zachowaniami a stanami wewnętrznymi – „człowiek może myśleć co innego a robić co innego”
+- Uwzględniają znaczenie kontekstu i okoliczności dla rozumienia postępowania innych – „zachowanie człowieka zmienia się wraz z kontekstem społecznym”
+- Stawiają na elastyczność postępowania  jako kryterium sprawnego działania – „stawianie czoła problemom w sposób elastyczny zmniejszy ilość pojawiających się przeszkód”
+
+## Wysiłek wynagrodzony
+- Jeśli będziesz rzeczywiście się starać, dopniesz swego
+- Przekonanie o tym, że uczciwa i ciężka praca zostanie wynagrodzona
+- Charakterystyczny dla etyki protestanckiej
+- Dobre uczynki zostaną nagrodzone a złe ukarane
+
+## Duchowość
+- Odnosi się do szeroko pojętego poczucia transcendentności i wiary w wyższą istotę
+- *Wiara w Boga pomaga człowiekowi zrozumieć sens życia*
+- *Wiara w Boga czyni ludzi dobrymi obywatelami*
+- *Przekonania religijne prowadzą do nienaukowego myślenia*
+
+## Kontrola przeznaczenia
+- Wiara w fatum, przeznaczenie, przekonania magiczne
+- Istnieją pewne sposoby postępowania, które pozwalają wspomóc nasze szczęście i pomagają uniknąć nieszczęśliwych wydarzeń
+- Cechy indywidualne takie jak np. wygląd i data urodzin, mają wpływ na los człowieka
+
+## World Values Survey
+- Inglehart, Welzel
+- Opis kultury na dwóch wymiarach
+- Wartości tradycyjne vs. Wartości świecko-racjonalne
+- Wartości związane z przetrwaniem vs. Wartości związane z własną ekspresją
+
+## Wartości tradycyjne vs. Wartości świecko-racjonalne
+- Wartości tradycyjne:
+    + Podkreślają istotność religii, związków między dzieckiem a rodzicem, obroną autorytetu, tradycyjnych wartości rodzinnych
+    + Wiążą się z odrzuceniem rozwodów, aborcji, eutanazji i samobójstwa
+    + Społeczeństwa wyznające te wartości mają silną dumę narodową i poglądy nacjonalistyczne
+- Wartości świecko-racjonalne:
+    + Mniejszy nacisk na religię, tradycyjny model rodziny i autorytety.
+    + Rozwody, aborcja, eutanazja i samobójstwa są relatywnie akceptowalne (co nie znaczy, że samobójstwa są częstsze)
+
+## Wartości związane z przeżyciem vs. Związane z własną ekspresją
+- Wartości związane z przeżyciem:
+    + Nacisk na bezpieczeństwo ekonomiczne i fizyczne
+    + Poglądy etnocentryczne i niskie wartości zaufania społecznego i tolerancji
+- Wartości związane z własną ekspresją:
+    + Istotność kwestii ekologicznych, tolerancja dla cudzoziemców, mniejszości seksualnych itd.
+    + Domaganie się większego wpływu na podejmowanie decyzji w życiu polityczno-ekonomicznym
+
+## Aspiracje w kierunku demokracji	
+- Aspirowanie do wolności nie jest na szczycie listy priorytetów, gdy przetrwanie wisi na włosku
+- W momencie w którym podstawowe potrzeby bezpieczeństwa zostaną zaspokojone, zwiększa się nacisk na wartości związane z własną ekspresją
+- Wraz z industrializacją i powstaniem społeczeństw post-industrialnych, wartości te są coraz bardziej rozpowszechnione
+- Reżimy autorytarne stają pod coraz większą presją zliberalizowania swojej polityki
+
+## Zmiany w wartościach wskutek globalizacji
+- Istnieje obawa, że procesy globalizacyjne spowodują również globalizację (McDonaldyzację) wartości – wyniki WVS nie potwierdzają tej tezy
+- Społeczeństwa rozwinięte konsekwentnie kierują się w stronę świeckiej racjonalności, jednak jest to powolny proces, i różne kraje są na różnym etapie
+- W społeczeństwach o słabej pozycji ekonomicznej nie ma tego trendu
+
+## Zmiany w poziomie szczęścia i satysfakcji z życia
+- Badania WVS prowadzone są od 1981r.
+- Od tego czasu globalny wskaźnik „szczęśliwości” na świecie wzrósł znacząco
+- Jednak nie wszędzie – w Rosji i kilku innych krajach postkomunistycznych tendencja odwrotna
+
+## Teoria akulturacji Johna Berrego
+- Akulturacja – proces zmian powstających w wyniku spotykania się kultur
+- Z perspektywy imigranta: dwa wymiary dotyczące przyjmowania/odrzucania wartości kulturowych
+- Przyjęcie vs. odrzucenie wartości KULTURY WŁASNEJ
+- Przyjęcie vs. odrzucenie wartości KULTURY OBCEJ
+
+## Cztery wzorce akulturacji
+- Przyjęcie własnej + przyjęcie obcej = integracja
+- Przyjęcie własnej + odrzucenie obcej = separacja
+- Odrzucenie własnej + przyjęcie obcej = asymilacja
+- Odrzucenie własnej + odrzucenie obcej = marginalizacja
+
+- W różnych sytuacjach można mieć różne wzorce akulturacji (np. w życiu publicznym asymilacja a w prywatnym marginalizacja)

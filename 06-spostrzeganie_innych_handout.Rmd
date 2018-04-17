@@ -1,0 +1,112 @@
+---
+title: "Wprowadzenie do psychologii społecznej - 06 - spostrzeganie innych osób"
+author: "Krzysztof Basiński"
+output: pdf_document
+---
+
+
+## Dwa sposoby na przetwarzanie informacji:
+Automatyczne i kontrolowane
+
+## Procesy automatyczne
+- Człowiek jako „naukowiec z ulicy”. Czyżby?
+- Opinie na temat innych formułujemy natychmiastowo i przy minimalnej ilości informacji
+- Jednominutowy film, w którym człowiek wchodzi do pokoju i czyta prognozę pogody wystarczy, żeby formułować sądy o trafności wyższej niż losowa
+
+## Procesy automatyczne – źródła wiedzy
+- Wygląd twarzy:
+    + Badani z 70% trafnością wskazują zwycięzcę wyborów tylko na podstawie 250ms ekspozycji twarzy
+- Zachowanie ekspresyjne:
+    + Ocena kompetencji na podstawie 10-sekundowego filmu pokazującego nauczycieli – zgodność z faktycznymi ocenami r = 0,76
+    + Ludzie najgorzej przewidują cechy osobowości oraz poziom testosteronu – najlepiej jakość nauczania i orientację seksualną
+
+- Zachowanie celowe:
+    + Spontaniczne wnioskowanie cech (Uleman et al.) – wnioskujemy na temat cech osób automatycznie, na podstawie krótkich historii czy zdjęć
+
+## Procesy kontrolowane – atrybucja zachowania
+- Atrybucja to zdroworozsądkowy wniosek o przyczynie zachowania lub zdarzenia
+- Klasyczna teoria atrybucji (Fritz Heider, 1958) – człowiek to naukowiec z ulicy, zachowanie to suma czynników zewnętrznych (środowiskowych) i wewnętrznych (osobowościowych)
+- Kelley (1967) – model współzmienności – trzy rodzaje informacji potrzebne do dokonania atrybucji:
+    + Spójność zachowania
+    + Wybiórczość zachowania
+    + Powszechność zachowania
+
+- Przykład – Jasiu wybucha śmiechem w czasie występu komika
+    + Spójność – czy Jasiu zawsze wybucha śmiechem w czasie występu tego komika?
+    + Wybiórczość – czy Jasiu reaguje tak na wszystkich komików, czy tylko na jednego?
+    + Powszechność – czy inni też się śmieją widząc tego komika
+- Jeżeli zachowanie jest spójne, wybiórcze i powszechne, to przyczyna leży w bodźcu (*dobry komik*). 
+- Jeśli zachowanie jest spójne, niewybiórcze i niepowszechne to przyczyna leży w Jasiu (*ma jakieś dziwne poczucie humoru*)
+
+## Deformacje atrybucji
+- Problem – ludzie nie zawsze dokonują racjonalnych atrybucji
+- **Podstawowy błąd atrybucji** – skłonność do przypisywania cudzych zachowań czynnikom wewnętrznym (**atrybucja dyspozycyjna**) przy jednoczesnym niedocenianiu czynników sytuacyjnych tych zachowań (**atrybucja sytuacyjna**)
+
+## Ciekawostki:
+- Małe dzieci nie dokonują atrybucji dyspozycyjnej
+- Atrybucja dyspozycyjna charakterystyczna dla kultur indywidualistycznych
+- Podstawowy błąd atrybucji słabnie, kiedy człowiek musi uzasadnić i wyjaśnić swoje sądy
+
+## Deformacje atrybucji
+- Wyjaśnienie podstawowego błędu atrybucji – model trójetapowy D. Gilberta (1995)
+    + Identyfikacja (co aktor robi?)
+    + Automatyczny wniosek o cesze (atrybucja dyspozycyjna)
+    + Kontrolowana poprawka na sytuację (atrybucja sytuacyjna)
+- PBA pojawia się, gdy nie starcza nam zasobów poznawczych na dokonanie kontrolowanej poprawki na sytuację
+- **Asymetria atrybucji aktora i obserwatora** – cudze zachowanie wyjaśniamy częściej dyspozycyjnie, własne częściej sytuacyjnie
+- Asymetria zanika, jeśli zdarzy się coś bardzo pozytywnego
+- Egotyzm atrybucyjny – tendencja do wyjaśniania własnego zachowania w bardziej pochlebny dla siebie sposób
+- Egocentryzm atrybucyjny – przecenianie własnego wkładu w jakiś wynik osiągany wspólnie z innymi
+- Efekt fałszywej powszechności – przecenienie stopnia rozpowszechnienia własnych poglądów
+
+
+##  Ocenianie innych
+![Ocenianie innych](img/06/jundge_people.png)
+
+- Bardzo ważne w kontekście przetrwania (czy warto z kimś się kontaktować? Czy może mi zrobić krzywdę?)
+- Trzy możliwe sposoby na dokonywanie ocen:
+    + Oceny automatyczne
+    + Oddolna integracja danych
+    + Tendencyjne sprawdzanie hipotez
+
+## Oceny automatyczne
+- Mogą być schematopochodne – określony schemat poznawczy danej osoby niesie ze sobą informacje oceniające (np. schemat skorumpowanego polityka, schemat bohaterskiego strażaka, troskliwej pielęgniarki itd.)
+- Rola schematów w ocenianiu innych ludzi rośnie, gdy (Fiske et al.):
+    + Dany schemat był niedawno używany do formułowania ocen (wysoka dostępność pamięciowa)
+    + Schemat jest mało skomplikowany wewnętrznie
+    + Sąd wydawany w pośpiechu
+    + Niskie koszty pomyłki
+- Przenoszenie ocen z bieżących stanów emocjonalnych – jeśli jesteśmy radośni, będziemy lepiej oceniać innych
+
+## Oddolna integracja danych
+- Problem – jak z kilku różnych argumentów (ocen cząstkowych) ludzie formułują ocenę oglólną?
+- Przykład:
+    + *Janek jest sumienny, życzliwy, inteligentny, przystojny ale czasem kłamie*
+- Model sumowania: Janek jest sumienny (+2), życzliwy (+3), inteligentny (+4), przystojny (+4) ale czasem kłamie (-5). Suma ocen: `2 + 3 + 4 + 4 - 5 = 8`
+- Model uśredniania: `(2 + 3 + 4 + 4 - 5) / 5 = 1,6`
+- Co dzieje się po dodaniu kolejnej informacji? Janek zna się na ogrodnictwie (+1).
+    + Sumowanie: ocena **wzrasta z 8 do 9**
+    + Uśrednianie: ocena **spada z 1,6 do 1,5**
+- Ludzie nie dość że raczej uśredniają niż sumują, to jeszcze składnikom średniej przypisują wagi
+    + Efekt pierwszeństwa – większa waga informacjom uzyskiwanym na początku (pierwsze wrażenie!)
+    + Inklinacja pozytywna – ludzie generalnie formułują raczej pozytywne niż negatywne oceny innych
+    + Efekt negatywności – większa waga informacji negatywnych w ocenie
+
+## Tendencyjne sprawdzanie hipotez
+- Punktem wyjścia procesu oceniania jest zwykle jakaś hipoteza co do tego, jaka okaże się formułowana ocena
+- Źródła hipotez: motywacje, dotychczasowa wiedza ogólna, początkowa wiedza o danej osobie
+- Te hipotezy zniekształcają ocenę, bo ludzie tendencyjnie wyszukują informacje potwierdzające hipotezy
+
+## Samospełniająca się przepowiednia (self-fulfilling prophecy)
+- **Sformułowanie błędnej hipotezy na temat kogoś albo czegoś inicjuje sekwencję zdarzeń, która prowadzi do pojawienia się autentycznych dowodów trafności hipotezy**
+- Przykład Wojciszke: *mój sąsiad wygląda na agresywnego faceta. Sprawdzę czy tak faktycznie jest – rzucę w jego psa kamieniem. Ale krzyczy i wygraża! Faktycznie jest agresywny, miałem rację!*
+- Przeciwny efekt – self-defeating prophecy (np. millenium bug)
+- Badania Rosenthala i Jacobson (1968)
+    + 20% dzieci z pewnej klasy w szkole podstawowej zostało losowo wybranych
+    + Nauczyciele usłyszeli, że te dzieci w ciągu roku ujawnią bardzo wyraźny przyrost inteligencji
+    + Faktycznie, dzieciom tym wzrosło IQ
+
+## Etapy samospełniającej się przepowiedni:
+- Obserwator formułuje błędną hipotezę na temat obserwowanej osoby
+- Traktuje tę osobę stosownie do swoich oczekiwań
+- Osoba ta zaczyna reagować na to zachowaniem, które potwierdza hipotezę

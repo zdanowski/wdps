@@ -1,0 +1,138 @@
+---
+title: "Wprowadzenie do psychologii społecznej - 07 - spostrzeganie siebie"
+author: "Krzysztof Basiński"
+output: pdf_document
+---
+
+##  Pojęcie ja (self)
+- Sposób, w jaki przetwarzamy informacje o sobie jest szczególny
+- Efekt odniesienia do ja – lepiej zapamiętujemy informacje odnoszące się do siebie
+- Efekt cocktail-party – informacje dotyczące nas samych łatwiej do nas docierają (pomimo szumu)
+- Ja to luźna struktura różnych ról, tożsamości społecznych, przekonań na własny temat i samoocen, wartości i celów uznawanych za własne (Wojciszke)
+
+## Autoschematy (Hazel Markus, 1980)
+- Autoschemat – obszar ja, w zakresie którego człowiek ma dobrze sprecyzowane poglądy i bogatą wiedzę o sobie
+- Jeśli mamy autoschemat w jakiejś dziedzinie, to:
+    + Częściej oceniamy nadchodzące informacje przez pryzmat ich istotności dla dziedziny
+    + Łatwiej przetwarzamy informacje o sobie w tej dziedzinie
+- Jeśli mamy autoschemat w jakiejś dziedzinie, to:
+    + Lepiej zapamiętujemy informacje z tej dziedziny
+    + Częściej dokonujemy przewidywań własnych zachowań w tej dziedzinie
+    + Przejawiamy większy opór wobec informacji niezgodnych z autoschematem
+
+## Ja realne, idelne i powinnościowe (Tory Higgins)
+- Ja realne –informacje na własny temat postrzegane jako rzeczywiste 
+- Ja idealne – informacje odnośnie tego jacy chcielibyśmy być (pragnienia, nadzieje, aspiracje)
+- Ja powinnościowe - informacje odnośnie tego jacy powinniśmy być (obowiązki, powinności, obligacje)
+- Rozbieżność między ja realnym a idealnym prowadzi do pojawienia się emocji depresyjnych
+- Rozbieżność między ja realnym a powinnościowym prowadzi do pojawienia się syndromu pobudzenia – niepokój, strach, poczucie winy, wstyd.
+
+## Skąd się bierze ja?
+- Wnioski z własnego zachowania
+- Porównania społeczne
+- Kultura (na ostatnim wykładzie)
+
+## Wnioski z własnego zachowania
+- Przekonanie zdroworozsądkowe – ludzie obserwują swoje zachowanie i na tej podstawie formułują sądy o własnych cechach
+- Teoria autopercepcji Bema (1972) – ludzie wyciągają wnioski o własnych cechach zgodnych z zachowaniem, jeżeli dochodzi do zachowania w warunkach swobody wyboru
+- Mimo to generalnie obserwacja własnego zachowania jest słabym źródłem informacji o sobie – ludzie uważają za ważniejsze własne myśli i odczucia
+- Często ma to postać samospełniających się proroctw (przekonanie, że kiepsko mi idzie w kontaktach z płcią przeciwną wpływa na nasze zachowanie na randkach)
+
+## Porównania społeczne
+- Bardzo istotne źródło wiedzy o świecie społecznym
+- Aby ocenić, czy wypadamy w czymś dobrze musimy mieć układ odniesienia (jak inni wypadli?)
+- Problem cywilizacyjny – modeling a samoocena kobiet - <https://www.youtube.com/watch?v=KM4Xe6Dlp0Y>
+
+## Po co mamy ja?
+- Negocjowanie tożsamości
+- Symulowanie psychiki innych ludzi (teorie umysłu)
+- Samokontrola
+- Regulacja zachowania celowego
+
+
+## Negocjowanie tożsamości
+- Informacji o sobie potrzebujemy ponieważ mamy tożsamość (problemy filozoficzne – co sprawia, że jakaś osoba w jednym punkcie czasu jest tym samym co ta osoba w innym punkcie czasu)
+- Negocjujemy tożsamości w zależności od sytuacji społecznej (ludzie = aktorzy)
+-Przykład Wojciszke:
+    + Dla swojej matki jesteś dzieckiem
+    + Dla profesora jesteś intelektualistką
+    + Dla barczystego bruneta zapraszającego na kawę jesteś tajemnicą
+- Sytuacyjne przesunięcia tożsamości (np. skandal z Polakami w UK powoduje przesunięcie tożsamości z Polaka np. na studenta, Europejczyka itd.)
+
+## Symulacja psychiki innych
+- Jeżeli chcę sobie wyobrazić jak ktoś zareaguje jeżeli go kopnę, muszę sobie wyobrazić jak **ja** zareaguję na kopnięcie
+- Projekcja społeczna – przekonanie, że inni ludzie są podobni do nas i w tych samych sytuacjach reagują tak jak my
+- Szczególny przypadek – efekt fałszywej powszechności – przewidując cudze zachowania albo poglądy najczęściej zakładamy, że są one podobne do naszych
+
+## Teoria umysłu (Theory of Mind, ToM)
+- Umiejętność przypisywania sobie i innym stanów umysłowych (przekonań, intencji, pragnień itd.) i łączące się z tym rozumienie, że inni mają stany umysłowe różne od własnych
+- Deficyty w teorii umysłu są obserwowane w wielu chorobach – zaburzeniach ze spektrum autyzmu, schizofrenii, ADHD, u osób uzależnionych od kokainy i alkoholików
+
+# Autoprezentacja
+
+- Obecność innych diametralnie wpływa na sposób, w jaki się zachowujemy
+- Wszyscy jesteśmy politykami, starającymi się wywrzeć jak najlepsze wrażenie na innych
+- Trzy motywy autoprezentacji:	
+    + Osiągania społecznych korzyści
+    + Dowartościowania
+    + Kształtowania pożądanej tożsamości
+
+## Skłonność do autoprezentacji jest tym większa, im…
+- …mocniej wierzymy, że sposób spostrzegania nas przez innych jest ważny dla osiągania naszych celów
+- …bardziej zależy nam na celu, który jest kontrolowany przez innych ludzi
+- …mocniej zależy nam na aprobacie innych
+- …większa jest rozbieżność między pożądanym a rzeczywistym obrazem własnej osoby
+- …mamy większą samoświadomość publiczną (nawykowe myślenie o tym, co myślą o nas inni)
+
+## Taktyki autoprezentacji
+- Obronne
+- Asertywno-zdobywcze
+
+## Taktyki obronne - samoutrudnianie
+- Samoutrudnianie - angażowanie się w działania, które obniżają szanse sukcesu ale jednocześnie zwalniają nas z odpowiedzialności 
+- Przykłady: 
+    + pójście na imprezę do rana dzień przed ważnym egzaminem
+    + Lęk egzaminacyjny („pod wpływem lęku czuję kompletną pustkę w głowie”)
+    + Hipochondria
+
+## Taktyki obronne - suplikacja
+- Prezentowanie własnej bezradności w celu uzyskania pomocy innych
+- Odwołuje się do normy społecznej, mówiącej że trzeba pomagać tym, których losy od nas zależą
+- Często występuje w depresji
+
+## Taktyki obronne - wymówki
+- Zaprzeczanie intencji wyrządzenia szkody (przecież nie chciałem tego zrobić!)
+- Przekonywanie, że nie miało się kontroli nad niewłaściwym zachowaniem (jestem niewinny, bo byłem pijany)
+- Wymówki przynoszą ulgę osobie, która je stosuje ale najczęściej szkodzą jej wizerunkowi w oczach innych
+
+## Taktyki obronne - usprawiedliwienia
+- Akceptowanie odpowiedzialności przy jednoczesnej redefinicji czynu jako mało szkodliwego lub dotyczącego czego innego niż wyrządzona szkoda, np.:
+    + Ściąganie na egzaminie nikomu nie zaszkodziło
+    + Ofiara gwałtu prowokowała sprawcę
+    + Wszyscy ściągają więc ja też ściągam!
+    + Wykonywałem tylko polecenia
+
+
+## Taktyki obronne - przeprosiny
+- Akceptowanie własnej odpowiedzialności i okazanie żalu osobie, której się wyrządziło szkodę
+- Najtrudniejsze, ale najskuteczniejsze dla przywracania pozytywnego obrazu siebie
+    + Np. niższe wyroki dla przestępców okazujących skruchę
+
+## Taktyki asertywne – ingracjacja (lizusostwo:)
+- Wkradanie się w cudze łaski czy też pozyskiwanie sympatii poprzez prezentowanie własnych – niekoniecznie istniejących – cech wzbudzających sympatię
+    + Schlebianie innym i prawienie komplementów
+    + Konformizm
+    + Wyświadczanie przysług
+- Taktyka wyświadczania przysług jest nieskuteczna – ludzie orientują się, że ingracjator chce się przypodobać
+- Dylemat lizusa – im bardziej się podlizujemy, tym większa szansa, że obiekt ingracjacji zda sobie z tego sprawę 
+- Rozwiązanie – nie zgadzać się z szefem tylko pod względem mało ważnych rzeczy
+
+## Taktyki asertywne - autopromocja
+- Przedstawianie siebie jako osoby kompetentnej
+- Dylemat skromności – jeśli przesadzimy z autopromocją ludzie będą nas oceniać jako zarozumiałych
+- Dylemat autentyczności – do jakiego stopnia nasza autoprezentacja jest zgodna ze stanem faktycznym?
+
+## Taktyki asertywne – świecenie przykładem
+- … czyli przedstawienie siebie jako osoby moralnej.
+- Powszechne wśród ludzi, również wśród morderców i gwałcicieli
+- Ogólnie ludzie chcą uchodzić za moralnych, ale nie chcą ponosić (nawet niewielkich) kosztów moralnego postępowania

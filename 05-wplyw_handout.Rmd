@@ -1,0 +1,183 @@
+---
+title: "Wprowadzenie do psychologii społecznej - 05 - wpływ społeczny"
+author: "Krzysztof Basiński"
+output: pdf_document
+---
+
+# Wpływ społeczny
+
+- Wpływ społeczny to proces, w wyniku którego dochodzi do zmiany zachowania, opinii lub uczuć człowieka wskutek tego, co robią, myślą lub czują inni ludzie.
+- Jednostka nie musi być świadoma zmian
+- Wpływ nie musi być intencjonalny
+- Wpływ społeczny jest integralną częścią życia społecznego
+- Trzy najczęstsze rodzaje wpływu:
+    + Naśladownictwo
+    + Konformizm
+    + Uleganie autorytetom
+
+
+## Naśladownictwo
+- Jeżeli jeden człowiek ziewnie, ziewa cała sala
+- Jeżeli matka karmi łyżką dziecko, nie tylko dziecko otwiera usta
+- Jeżeli jedna sławna osoba popełni samobójstwo, rośnie liczba samobójstw (efekt Wertera)
+- Obserwowanie agresji zwiększa na moment ilość zachowań agresywnych obserwatorów
+
+## Teoria społecznego uczenia się - Bandura
+- Ludzie uczą się za pomocą:
+    + Warunkowania klasycznego
+    + Warunkowania instrumentalnego
+    + Uczenia się przez konsekwencje
+    + Uczenia się przez modelowanie
+
+
+## Konformizm
+- Badania S.Ascha
+- <https://www.youtube.com/watch?v=NyDDyT1lDhA>
+- Wpływ normatywny i informacyjny
+- Konformizm zewnętrzny i wewnętrzny
+
+## Wpływ normatywny
+- Dostosowujemy się do opinii grupy, bo taka jest norma społeczna
+- Czego unikamy w ten sposób?
+    + Poczucia odrzucenia
+    + Śmieszności
+    + Odtrącenia
+    + Agresji
+
+
+## Wpływ informacyjny
+- Człowiek dąży do tego, aby mieć rację. Przyjmuje więc racje grupy jako swoje.
+- Co osiągamy w ten sposób?
+- Zachowujemy wysoką samoocenę
+
+## Od czego zależy konformizm?
+- Spada w sytuacjach anonimowych
+- Spada wskutek małej atrakcyjności grupy
+- Spada, gdy rozbijana jest jednomyślność
+- Rośnie wraz z niejasnością zadania
+- Rośnie wraz z przekonaniem, o słabych kompetencjach
+- Rośnie wraz z wielkością grupy, ale tylko do 4-5 osób
+- Konformizm bardziej zależy od zmiennych sytuacyjnych niż od cech osobowości
+
+## Wpływ autorytetu
+Eksperyment Stanleya Milgrama
+<https://www.youtube.com/watch?v=y6GxIuljT3w>
+
+
+## Czynniki zwiększające siłę autorytetu:
+- Mundur
+- Tytuł (prof., mec., ks., itd.)
+- Efekt „amerykańskich naukowców”
+
+## Wpływ autorytetu - eksperyment Hoflinga (1966)
+- Eksperyment naturalny w szpitalu
+- Podstawiony "lekarz" zlecał pielęgniarce przez telefon podanie 20mg Astrotenu 
+- To zmyślony lek, którego bezpieczna dawka wynosiła 10mg/dobę (info widoczne na opakowaniu)
+- Pielęgniarki nie powinny podawać leku co najmniej z tych powodów:
+    + Dawka dwukrotnie wyższa niż bezpieczna
+    + Regulamin szpitala mówił, że pielęgniarki przyjmują zlecenia tylko od znanych sobie lekarzy
+    + "Włączenie" leku wymaga odpowiedniej papierologii, która nie została wykonana
+- 21 na 22 badane pielęgniarki i tak podałyby lek
+
+
+## Ameryka to nie jest kraj dla starych ludzi - *strip search phone scam*
+- 9 kwietnia 2004 roku, restauracja McDonalds w Mt Washington, Kentucky
+- Do menedżerki restauracji dzwoni policjant, "officer Scott", podaje rysopis kobiety podejrzanej o kradzież - biała, młoda, szczupła, blondynka
+- Kobieta zidentyfikowana przez menedżerkę jako Louise Ogborn, jedna z pracownic
+- Officer Scott nakazuje przeprowadzenie *strip search*
+- Louise zostaje rozebrana do naga, jej ubrania zabrane do samochodu menedżerki
+- Po jakimś czasie menedżerka musi wrócić do pracy, wzywa więc swojego narzeczonego *do pomocy*
+- Przez następne dwie godziny, narzeczony (namówiony przez oszusta) zdążył zmusić Louise do:
+    + robienia pajacyków (!)
+    + tańca na kolanach (!!)
+    + seksu oralnego (!!!)
+- Po jakimś czasie narzeczony poczuł się nieswojo i się oddalił
+- Na jego miejsce pojawił się pracownik techniczny McDonalda, który odmówił wykonania rozkazów *policjanta*
+- Louise została wypuszczona z biura po 3,5 godziny
+- Odnotowano ponad 70 innych tego typu przypadków w całych Stanach
+- Policja zatrzymała menedżerkę (rok w zawieszeniu) i narzeczonego (5 lat więzienia)
+- Zatrzymała też człowieka podejrzanego o wywołanie całego zamieszania (uniewinniony z braku dowodów)
+
+
+# Mechanizmy wywierania wpływu społecznego
+
+- Zaangażowanie
+- Pragnienie słuszności
+- Lubienie
+- Reguła wzajemności
+- Niedostępność dóbr
+
+## Zaangażowanie
+- Eksperyment o robakach – wzbudzano w badanych przekonanie, że dobrowolnie i bez żadnego przymusu zjedzą nieżywego robaka
+- W ostatniej chwili mówiono im, że zaszła pomyłka i mogą wybrać inne zadanie
+- 75% osób i tak decydowało się na przygodę kulinarną
+
+
+ Podjęcie jakiegoś działania, a nawet samo przygotowanie się do niego, inicjuje szereg procesów sprawiających, że działanie wykonujemy (czy kontynuujemy) pomimo poważnych kosztów, na jakie nas to naraża.
+
+Dlaczego tak jest?
+
+- Mamy podwyższoną psychiczną dostępność danego rozwiązania
+- Jeżeli już włożyliśmy wysiłek, to cel wydaje nam się cenniejszy niż jakby wysiłku nie było
+
+## Pułapka utopionych kosztów
+- Możliwa zmiana postrzegania samego siebie w momencie zaniechania działania (dysonans)
+- Ludzie chcą prezentować się jako konsekwentni i wewnętrznie zgodni
+
+## Społeczny dowód słuszności
+- Czyli „jeżeli inni tak postępują, to coś w tym musi być”
+- Przykład sondaży wyborczych
+- Dwukrotnie wzrasta odsetek ludzi przeznaczający pieniądze na organizację charytatywną, jeżeli na liście przed ich podpisem widnieje 8 innych nazwisk
+- Masakra w Jonestown – 910 osób – problem izolacji
+
+## Lubienie
+- Gdy kogoś lubimy, łatwiej mu jest nas do czegoś przekonać
+- Przykład reklam
+- Dobry glina / zły glina
+- Przystojniejsi politycy mają większą szansę na wybór
+
+## Reguła wzajemności
+- Jedna z najsilniejszy reguł spajających ludzi
+- Przykład Amwaya i darmowych próbek
+
+## Niedostępność
+- Jeżeli jakiś przedmiot lub możliwość działania zostaną nam odebrane, lub tylko odebraniem zagrożone, zyskują one na wartości
+- Przykład ostatniego egzemplarza na składzie
+- Ostatnia okazja – „promocja tylko do 18tej”
+- Nagła niedostępność wynikająca z pożądania przez innych
+
+# Techniki manipulacji
+
+## Stopa w drzwiach 
+- Wyświadczenie małej przysługi zwiększa szansę na wyświadczenie większej przysługi w kolejności
+- Freedman i Fraser (1966) – odsetek ludzi zgadzających się na umieszczenie planszy w ogródku wzrasta trzykrotnie, jeśli 2 tygodnie wcześniej poprosić ich o podpisanie się pod petycją
+- Technika działa, nawet jeśli prośby formułują różne osoby i dotyczą innych spraw
+- Wyjaśnienie w kategoriach autopercepcji – wskutek spełnienia pierwszej prośby ludzie odbierają siebie jako bardziej altruistycznych i pomocnych
+
+## Drzwiami w twarz (Cialdini, 1975)
+- Przelotny znajomy prosi nas o pożyczenie 200 złotych
+- Po chwili prosi nas o pożyczenie 10 złotych
+- Ustępstwo jednej strony powoduje powstanie obligacji do ustąpienia z drugiej strony (reguła wzajemności)
+- Pierwsza prośba powinna być duża, jednak nie nierealistycznie wielka
+- Kluczowy niewielki odstęp czasowy
+
+
+## Niska piłka
+- Dwie wersje: utajenie kosztu i wabienie przynętą
+- Rekrutacja do eksperymentu odbywającego się o 7mej rano – jeśli podać tą informację po uzyskaniu zgody badanych, nikt się nie wycofa
+- Pochwały w prasie dla osób oszczędzających energię – po wycofaniu się z publikacji pochwał (przynęty) i tak większość oszczędzała energię
+- Pragnienie konsekwencji – chcemy kontynuować raz podjęte działanie
+
+## Teoria wpływu społecznego (Latané,1981)
+Kiedy na jednostkę wywierany jest nacisk przez innych, to siła tego nacisku (i uleganie mu) rośnie jako iloczyn trzech czynników: 
+    + Siły osób wywierających nacisk
+    + Ich bliskości
+    + Liczby osób wywierających nacisk
+- Kiedy jednostka jest członkiem grupy, na którą wywierany jest nacisk, to siła nacisku przypadającego na jednostkę rozprasza się, czyli spada wraz ze wzrostem:
+    + Siły innych członków grupy
+    + Ich bliskości
+    + Liczby członków grupy
+- Siła osoby – jakikolwiek czynnik decydujący o jej zdolności do wywierania wpływu lub przeciwstawiania się mu (wiedza, pozycja społeczna, atrakcyjność, wiarygodność)
+- Bliskość osoby – może być fizyczna, ale też psychologiczna (np. bliska rodzina)
+- Iloczynowy charakter wpływu oznacza, że siła i bliskość nie mogą być zerowe (albo dążyć do zera)
+
