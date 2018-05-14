@@ -87,6 +87,21 @@ output:
 - Krótkoterminowe: Hiszpania, Filipiny, Czechy, Pakistan
 - Polska 17 na 45.
 
+## Wymiary kultury - nowość - Pobłażliwość vs. Zahamowanie (Indulgence vs. Restraint)
+- Pobłażliwe są społeczeństwa w których gratyfikuje się podstawowe i naturalne ludzkie popędy związane z czerpaniem przyjemności z życia
+- Zahamowane są społeczeństwa w których hamuje się gratyfikację potrzeb poprzez ścisłe normy społeczne
+- (cyt. ze strony Hofstede, tłum. KB)
+
+## Przykładowe porównania w modelu Hofstede
+![Porównania państw w modelu Hofstede](img/08/hofstede.PNG)
+
+
+## Przykładowe porównania w modelu Hofstede
+![Porównania państw w modelu Hofstede](img/08/hofstede2.PNG)
+
+## Porównywarka krajów
+<https://www.hofstede-insights.com/product/compare-countries/>
+
 ## Wymiary kultury - Krytyka modelu Hofstede
 - Wątpliwości metodologiczne – próba pracowników korporacji, krajowy poziom analizy, nie do końca jasna metodologia statystyczna
 - Wymiary kultury „przypadkowo odkryte i przypadkowo nazwane”
