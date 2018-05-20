@@ -29,7 +29,7 @@ output:
 - Deprywacja jest szkodliwa
 
 ## Przynależność społeczna
-![Przynależność społeczna](img/02/przynaleznosc.png)
+![Przynależność społeczna](img/02/przynaleznosc.PNG)
 
 ## Przynależność - tło ewolucyjne
 - Większą część historii ewolucyjnej spędziliśmy walcząc o przetrwanie w kilkudziesięcioosobowych grupkach
@@ -51,7 +51,7 @@ output:
 - Wsparcie = bufor chroniący przed stresem
 
 ## Wsparcie społeczne a śmiertelność
-![Wsparcie społeczne a śmiertelność](img/02/ss_mortality.png)
+![Wsparcie społeczne a śmiertelność](img/02/ss_mortality.PNG)
 
 
 ## Wsparcie społeczne a PTSD
@@ -191,7 +191,7 @@ Nauczyciele akademiccy – M=144.1; SD = 16.5
 - MUZ postuluje trzeci mechanizm – płynną kompensację – ludzie odbudowują poczucie sensu w zupełnie innej dziedzinie
 
 ## O samoocenie będzie w przyszłym semestrze
-![Samoocena](img/02/samoocena.png)
+![Samoocena](img/02/samoocena.PNG)
 
 ## Który motyw jest najważniejszy?
 ![Który motyw powinien być na szczycie piramidy?](img/02/maslow.png)
